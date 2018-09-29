@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { QuizService } from '../shared/quiz.service';
+import {isEmpty} from "rxjs/operator/isEmpty";
 
 @Component({
   selector: 'app-quiz',
@@ -43,7 +44,30 @@ export class QuizComponent implements OnInit {
   }
 
   Answer(qID, choice) {
+    this.quizService.isNextDisable = false;
+
     this.quizService.qns[this.quizService.qnProgress].answer = choice;
+    localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
+
+  }
+
+  NextQuestion(qID){
+    if( typeof this.quizService.qns[this.quizService.qnProgress].answer !== 'undefined' &&
+      this.quizService.qns[this.quizService.qnProgress].answer){
+      this.quizService.qnProgress++;
+      localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
+      this.quizService.isNextDisable = true;
+    }
+
+    if (this.quizService.qnProgress == 10) {
+      this.quizService.isSubmitDisable=false;
+      clearInterval(this.quizService.timer);
+      this.router.navigate(['/result']);
+    }
+  }
+
+  SkipQuestion(){
+    this.quizService.qns[this.quizService.qnProgress].answer = 6;
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
     this.quizService.qnProgress++;
     localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());

@@ -41,9 +41,13 @@
                             <span class="badge" *ngIf="qn.correct-1==j">
                                 <i class="material-icons green-text">check_circle</i>
                             </span>
-                            <span class="badge red-text" *ngIf="qn.answer-1==j && qn.correct-1!=j">Incorrect</span>
+                            <span class="badge large material-icons red-text" *ngIf="qn.answer-1==j && qn.correct-1!=j">clear</span>
                         </li>
+
                     </ng-container>
+                  <span class="badge orange black-text" *ngIf="qn.answer-1==5">Not Attempted</span>
+                  <span class="badge green white-text" *ngIf="qn.answer-1== qn.correct-1">Correct Answer</span>
+                  <span class="badge red white-text" *ngIf="qn.answer-1!=5 && qn.answer-1 != qn.correct-1">Incorrect Answer</span>
                 </ul>
             </div>
         </div>

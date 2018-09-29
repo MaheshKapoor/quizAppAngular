@@ -10,6 +10,8 @@ export class QuizService {
   timer;
   qnProgress: number;
   correctAnswerCount: number = 0;
+  isNextDisable=true;
+  isSubmitDisable=true;
 
   //---------------- Helper Methods---------------
   constructor(private http: HttpClient) { }
