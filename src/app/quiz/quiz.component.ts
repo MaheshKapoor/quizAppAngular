@@ -49,6 +49,10 @@ export class QuizComponent implements OnInit {
     this.quizService.qns[this.quizService.qnProgress].answer = choice;
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
 
+    if(qID==10){
+      this.quizService.isSubmitDisable=false;
+    }
+
   }
 
   NextQuestion(qID){
@@ -58,11 +62,15 @@ export class QuizComponent implements OnInit {
       localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       this.quizService.isNextDisable = true;
     }
+  }
 
-    if (this.quizService.qnProgress == 10) {
-      this.quizService.isSubmitDisable=false;
+  submitQuiz(qId){
+    if (qId == 10) {
+      this.quizService.qnProgress++;
+      localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       clearInterval(this.quizService.timer);
       this.router.navigate(['/result']);
+      this.quizService.isSubmitDisable=true;
     }
   }
 

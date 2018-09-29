@@ -22,12 +22,17 @@
           </ng-container>
         </ul>
       </div>
-      <div class="row">
+      <div class="row" [hidden] ="!quizService.isSubmitDisable">
         <div class="input-field col s6">
           <button class="btn-large btn-submit" type="button" (click)="SkipQuestion()">Skip</button>
         </div>
         <div class="input-field col s6">
           <button class="btn-large btn-submit" [disabled]="quizService.isNextDisable" type="button" (click)="NextQuestion(quizService.qns[quizService.qnProgress].qnID)">Next</button>
+        </div>
+      </div>
+      <div class="row" [hidden] ="quizService.isSubmitDisable">
+        <div class="input-field col s12">
+          <button class="btn-large btn-submit" type="button" (click)="submitQuiz(quizService.qns[quizService.qnProgress].qnID)">Submit</button>
         </div>
       </div>
     </div>
