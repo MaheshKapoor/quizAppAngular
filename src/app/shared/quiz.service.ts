@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable()
 export class QuizService {
   //---------------- Properties---------------
-  readonly rootUrl = 'http://localhost:8080';
+  readonly rootUrl = 'http://localhost:8080';//'https://quizappservices-218109.appspot.com';//http://localhost:8080';
   qns: any[];
   seconds: number;
   timer;
@@ -14,7 +14,7 @@ export class QuizService {
   isSubmitDisable=true;
 
   //---------------- Helper Methods---------------
-  constructor(private http: HttpClient) { }
+  constructor(public http: HttpClient) { }
   displayTimeElapsed() {
     return Math.floor(this.seconds / 3600) + ':' + Math.floor(this.seconds / 60) + ':' + Math.floor(this.seconds % 60);
   }
@@ -27,18 +27,19 @@ export class QuizService {
 
   //---------------- Http Methods---------------
 
-  insertParticipant(name: string, email: string) {
+  insertParticipant(name: string, email: string, param: string) {
     var user = [name, email]
-    return this.http.post(this.rootUrl + '/validateAccount', user);
+    return this.http.post(this.rootUrl + '/validateAccount', user, {params:{ 'id':param}});
   }
 
   getQuestions() {
-    return this.http.get(this.rootUrl + '/questions');
+    return this.http.get(this.rootUrl + '/questions', {params:{ 'id':localStorage.getItem('id')}});
   }
 
   getAnswers() {
-    var body = this.qns.map(x => x.QnID);
-    return this.http.post(this.rootUrl + '/answers', body);
+    debugger;
+    var body = this.qns.map(x => x.qnID);
+    return this.http.post(this.rootUrl + '/answers', body, {params:{ 'id':localStorage.getItem('id')}});
   }
 
   submitScore() {

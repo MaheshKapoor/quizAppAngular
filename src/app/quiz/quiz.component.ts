@@ -10,7 +10,7 @@ import {isEmpty} from "rxjs/operator/isEmpty";
 })
 export class QuizComponent implements OnInit {
 
-  constructor(private router: Router, private quizService: QuizService) { }
+  constructor(public router: Router, public quizService: QuizService) { }
 
   ngOnInit() {
     if (parseInt(localStorage.getItem('seconds')) > 0) {
