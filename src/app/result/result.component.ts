@@ -14,7 +14,7 @@ export class ResultComponent implements OnInit {
   constructor(public quizService: QuizService, public router: Router) { }
 
   ngOnInit() {
-    if (parseInt(localStorage.getItem('qnProgress')) == 10) {
+    if (parseInt(localStorage.getItem('qnProgress')) == this.quizService.numberOfQuestions) {
       this.quizService.seconds = parseInt(localStorage.getItem('seconds'));
       this.quizService.qnProgress = parseInt(localStorage.getItem('qnProgress'));
       this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
@@ -40,6 +40,36 @@ export class ResultComponent implements OnInit {
       this.restart();
     });
   }
+
+  getNextSet() {
+    debugger;
+    localStorage.removeItem("seconds");
+    localStorage.removeItem("id");
+    localStorage.setItem('id', localStorage.getItem("nextSet"));
+    localStorage.removeItem("qns");
+    localStorage.removeItem("qns");
+    localStorage.removeItem("qnProgress");
+    localStorage.removeItem("nextSet");
+    localStorage.removeItem("previousNext");
+    this.router.navigate(['/quiz']);
+
+  }
+
+  getPreviousSet() {
+    debugger;
+    localStorage.removeItem("seconds");
+    localStorage.removeItem("id");
+    localStorage.setItem('id', localStorage.getItem("previousNext"));
+    localStorage.removeItem("qns");
+    localStorage.removeItem("qns");
+    localStorage.removeItem("qnProgress");
+    localStorage.removeItem("nextSet");
+    localStorage.removeItem("previousNext");
+    this.router.navigate(['/quiz']);
+
+  }
+
+
 
   restart() {
     localStorage.setItem('qnProgress', "0");

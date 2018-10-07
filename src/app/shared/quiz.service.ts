@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable()
 export class QuizService {
   //---------------- Properties---------------
-  readonly rootUrl = 'http://localhost:8080';//'https://quizappservices-218109.appspot.com';//http://localhost:8080';
+  readonly rootUrl = 'https://quizappservices-218109.appspot.com';//'https://quizappservices-218109.appspot.com';//http://localhost:8080';
   qns: any[];
   seconds: number;
   timer;
@@ -12,6 +12,9 @@ export class QuizService {
   correctAnswerCount: number = 0;
   isNextDisable=true;
   isSubmitDisable=true;
+  numberOfQuestions: number;
+  nextSet:string;
+  previousSet:string;
 
   //---------------- Helper Methods---------------
   constructor(public http: HttpClient) { }
@@ -33,7 +36,16 @@ export class QuizService {
   }
 
   getQuestions() {
+    debugger;
     return this.http.get(this.rootUrl + '/questions', {params:{ 'id':localStorage.getItem('id')}});
+  }
+
+
+  getNextQuestions() {
+    return this.http.get(this.rootUrl + '/questions', {params:{ 'id':localStorage.getItem('nextSet')}});
+  }
+  getPreviousQuestions() {
+    return this.http.get(this.rootUrl + '/questions', {params:{ 'id':localStorage.getItem('questionSet')}});
   }
 
   getAnswers() {

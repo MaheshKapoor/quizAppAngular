@@ -13,12 +13,13 @@ export class QuizComponent implements OnInit {
   constructor(public router: Router, public quizService: QuizService) { }
 
   ngOnInit() {
+    debugger;
     if (parseInt(localStorage.getItem('seconds')) > 0) {
        this.quizService.seconds = parseInt(localStorage.getItem('seconds'));
        this.quizService.qnProgress = parseInt(localStorage.getItem('qnProgress'));
        this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
       debugger
-      if (this.quizService.qnProgress == 10)
+      if (this.quizService.qnProgress == this.quizService.numberOfQuestions)
         this.router.navigate(['/result']);
       else
         this.startTimer();
@@ -28,8 +29,10 @@ export class QuizComponent implements OnInit {
       this.quizService.qnProgress = 0;
       this.quizService.getQuestions().subscribe(
         (data: any) => {
-          debugger
-          this.quizService.qns = data;
+          localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
+          localStorage.setItem('previousNext',data.data.extraDetails.previousSet);
+          this.quizService.numberOfQuestions=data.data.extraDetails.numberOfQuestion;
+          this.quizService.qns = data.data.questions;
           this.startTimer();
         }
       );
@@ -44,12 +47,13 @@ export class QuizComponent implements OnInit {
   }
 
   Answer(qID, choice) {
+    debugger;
     this.quizService.isNextDisable = false;
 
     this.quizService.qns[this.quizService.qnProgress].answer = choice;
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
 
-    if(qID==10){
+    if(qID==this.quizService.numberOfQuestions){
       this.quizService.isSubmitDisable=false;
     }
 
@@ -65,7 +69,7 @@ export class QuizComponent implements OnInit {
   }
 
   submitQuiz(qId){
-    if (qId == 10) {
+    if (qId == this.quizService.numberOfQuestions) {
       this.quizService.qnProgress++;
       localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       clearInterval(this.quizService.timer);
@@ -79,7 +83,7 @@ export class QuizComponent implements OnInit {
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
     this.quizService.qnProgress++;
     localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
-    if (this.quizService.qnProgress == 10) {
+    if (this.quizService.qnProgress == this.quizService.numberOfQuestions) {
       clearInterval(this.quizService.timer);
       this.router.navigate(['/result']);
     }
