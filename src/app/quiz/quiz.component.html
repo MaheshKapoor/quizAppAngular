@@ -14,13 +14,13 @@
         <!--</div>-->
       </div>
       <div class="card-action">
-        <ul class="collection answer">
+        <ol class="collection answer" type="a">
           <ng-container *ngFor="let option of quizService.qns[quizService.qnProgress].options;let i = index">
             <li *ngIf="option != null" class="collection-item" (click)="Answer(quizService.qns[quizService.qnProgress].qnID,i+1)">
               {{option}}
             </li>
           </ng-container>
-        </ul>
+        </ol>
       </div>
       <div class="row" [hidden] ="!quizService.isSubmitDisable">
         <div class="input-field col s6">

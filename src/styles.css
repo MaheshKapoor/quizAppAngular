@@ -7,14 +7,17 @@ input.ng-invalid.ng-dirty{
 button.btn-submit{
     width: 100%;
 }
+ol {
+  background:white;
+}
 
-ul.answer li:hover{
+ol.answer :hover{
     background-color: #26a69a;
     color: #eafaf9;
     cursor: pointer;
 }
 
-ul li.selected{
+ol .selected{
     background-color: #26a69a !important;
     color: #eafaf9 !important;
 }
