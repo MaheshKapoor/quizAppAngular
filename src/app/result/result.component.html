@@ -8,8 +8,8 @@
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <h4>{{quizService.getParticipantName()}}</h4>
-          <h3>{{quizService.correctAnswerCount}}/10</h3>
+
+          <h3>{{quizService.correctAnswerCount}}/{{quizService.numberOfQuestions}}</h3>
           <span>Time Elapsed : {{quizService.displayTimeElapsed()}}</span>
         </div>
         <div class="card-action">
@@ -44,16 +44,16 @@
                     <ng-container *ngFor="let option of qn.options;let j = index">
                         <li *ngIf="option != null" class="collection-item">
                             {{option}}
-                            <span class="badge" *ngIf="qn.correct-1==j">
+                            <span class="badge" *ngIf="qn.answer-1==j">
                                 <i class="material-icons green-text">check_circle</i>
                             </span>
-                            <span class="badge large material-icons red-text" *ngIf="qn.answer-1==j && qn.correct-1!=j">clear</span>
+                            <span class="badge large material-icons red-text" *ngIf="qn.selectedAnswer-1==j && qn.answer-1!=j">clear</span>
                         </li>
 
                     </ng-container>
-                  <span class="badge orange black-text" *ngIf="qn.answer-1==5">Not Attempted</span>
-                  <span class="badge green white-text" *ngIf="qn.answer-1== qn.correct-1">Correct Answer</span>
-                  <span class="badge red white-text" *ngIf="qn.answer-1!=5 && qn.answer-1 != qn.correct-1">Incorrect Answer</span>
+                  <span class="badge orange black-text" *ngIf="qn.selectedAnswer-1==5">Not Attempted</span>
+                  <span class="badge green white-text" *ngIf="qn.selectedAnswer-1== qn.answer-1">Correct Answer</span>
+                  <span class="badge red white-text" *ngIf="qn.selectedAnswer-1!=5 && qn.selectedAnswer-1 != qn.answer-1">Incorrect Answer</span>
                 </ul>
             </div>
         </div>

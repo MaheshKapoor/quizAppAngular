@@ -19,19 +19,15 @@ export class ResultComponent implements OnInit {
       this.quizService.qnProgress = parseInt(localStorage.getItem('qnProgress'));
       this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
 
-      this.quizService.getAnswers().subscribe(
-        (data: any) => {
+          debugger;
           this.quizService.correctAnswerCount = 0;
-          this.quizService.qns.forEach((e, i) => {
-            if (e.answer == data[i])
+          for(let e of this.quizService.qns){
+            if (e.answer == e.selectedAnswer)
               this.quizService.correctAnswerCount++;
-            e.correct = data[i];
-          });
-        }
-      );
+          }
     }
     else
-      this.router.navigate(['/quiz']);
+      this.router.navigate(['/quiz'], {id: localStorage.getItem('id')});
   }
 
 
@@ -51,7 +47,7 @@ export class ResultComponent implements OnInit {
     localStorage.removeItem("qnProgress");
     localStorage.removeItem("nextSet");
     localStorage.removeItem("previousNext");
-    this.router.navigate(['/quiz']);
+    this.router.navigate(['/quiz'], {queryParams:{ id: localStorage.getItem("id") }});
 
   }
 
@@ -65,7 +61,7 @@ export class ResultComponent implements OnInit {
     localStorage.removeItem("qnProgress");
     localStorage.removeItem("nextSet");
     localStorage.removeItem("previousNext");
-    this.router.navigate(['/quiz']);
+    this.router.navigate(['/quiz'], {queryParams:{ id: localStorage.getItem("id") }});
 
   }
 

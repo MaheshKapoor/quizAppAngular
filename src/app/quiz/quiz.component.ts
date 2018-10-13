@@ -2,15 +2,20 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { QuizService } from '../shared/quiz.service';
 import {isEmpty} from "rxjs/operator/isEmpty";
-
+import { ActivatedRoute } from '@angular/router';
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
   styleUrls: ['./quiz.component.css']
+
 })
 export class QuizComponent implements OnInit {
-
-  constructor(public router: Router, public quizService: QuizService) { }
+  id: string;
+  constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute) {
+    this.activeRoute.queryParams.subscribe(params => {
+      this.id = params['id'];
+      localStorage.setItem('id',this.id);
+    });}
 
   ngOnInit() {
     debugger;
@@ -20,7 +25,7 @@ export class QuizComponent implements OnInit {
        this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
       debugger
       if (this.quizService.qnProgress == this.quizService.numberOfQuestions)
-        this.router.navigate(['/result']);
+        this.router.navigate(['/result'], {queryParamsHandling:'preserve'});
       else
         this.startTimer();
     }
@@ -50,7 +55,7 @@ export class QuizComponent implements OnInit {
     debugger;
     this.quizService.isNextDisable = false;
 
-    this.quizService.qns[this.quizService.qnProgress].answer = choice;
+    this.quizService.qns[this.quizService.qnProgress].selectedAnswer = choice;
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
 
     if(qID==this.quizService.numberOfQuestions){
@@ -60,8 +65,8 @@ export class QuizComponent implements OnInit {
   }
 
   NextQuestion(qID){
-    if( typeof this.quizService.qns[this.quizService.qnProgress].answer !== 'undefined' &&
-      this.quizService.qns[this.quizService.qnProgress].answer){
+    if( typeof this.quizService.qns[this.quizService.qnProgress].selectedAnswer !== 'undefined' &&
+      this.quizService.qns[this.quizService.qnProgress].selectedAnswer){
       this.quizService.qnProgress++;
       localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       this.quizService.isNextDisable = true;
@@ -79,7 +84,7 @@ export class QuizComponent implements OnInit {
   }
 
   SkipQuestion(){
-    this.quizService.qns[this.quizService.qnProgress].answer = 6;
+    this.quizService.qns[this.quizService.qnProgress].selectedAnswer = 6;
     localStorage.setItem('qns', JSON.stringify(this.quizService.qns));
     this.quizService.qnProgress++;
     localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());

@@ -15,9 +15,17 @@ export class NavbarComponent implements OnInit {
   }
 
   SignOut() {
-    localStorage.clear();
-    clearInterval(this.quizService.timer);
-    this.router.navigate(['/register']);
+    localStorage.removeItem("seconds");
+    //localStorage.removeItem("id");
+    //localStorage.setItem('id', localStorage.getItem("previousNext"));
+    //localStorage.removeItem("qns");
+    //localStorage.removeItem("qns");
+    //localStorage.removeItem("qnProgress");
+    //localStorage.removeItem("nextSet");
+    //localStorage.removeItem("previousNext");
+   // clearInterval(this.quizService.timer);
+    window.location.reload();
+    //this.router.navigate(['/quiz'], {queryParams:{ id: localStorage.getItem("id") }});
   }
 
 }
