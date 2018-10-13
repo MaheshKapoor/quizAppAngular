@@ -27,7 +27,7 @@ export class ResultComponent implements OnInit {
           }
     }
     else
-      this.router.navigate(['/quiz'], {id: localStorage.getItem('id')});
+      this.router.navigate(['/quiz'], {queryParams: {id: localStorage.getItem('id')}});
   }
 
 
