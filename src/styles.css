@@ -37,6 +37,20 @@ ol .selected{
   .hide-on-med-and-down {
     display: block !important;
   }
+
+  .row .col.s8 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
+
+  .row .col.s10 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
 }
 
 .row .col.offset-s3 {
@@ -50,3 +64,6 @@ ol .selected{
   margin: 0 auto;
   float: none;
 }
+
+
+
