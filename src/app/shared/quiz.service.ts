@@ -15,7 +15,7 @@ export class QuizService {
   numberOfQuestions: number;
   nextSet:string;
   previousSet:string;
-
+  public showSpinner: boolean = false;
   //---------------- Helper Methods---------------
   constructor(public http: HttpClient) { }
   displayTimeElapsed() {

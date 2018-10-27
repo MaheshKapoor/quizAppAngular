@@ -1,4 +1,7 @@
 <app-navbar></app-navbar>
+<div *ngIf="quizService.showSpinner" class="spiner">
+  <img src="../../assets/img/loading.gif" >
+</div>
 <div class="row" *ngIf="quizService.qns && this.quizService.qnProgress != this.quizService.numberOfQuestions">
   <div class="col s10 l8 offset-s2">
     <span>Time Elapsed : {{quizService.displayTimeElapsed()}}</span>

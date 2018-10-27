@@ -32,6 +32,7 @@ export class QuizComponent implements OnInit {
       {this.startTimer();}
     }
     else {
+      this.showLoadingSpinner();
       this.quizService.seconds = 0;
       this.quizService.qnProgress = 0;
       this.quizService.getQuestions().subscribe(
@@ -41,10 +42,19 @@ export class QuizComponent implements OnInit {
           localStorage.setItem('numberOfQuestion',data.data.extraDetails.numberOfQuestion);
           this.quizService.numberOfQuestions=data.data.extraDetails.numberOfQuestion;
           this.quizService.qns = data.data.questions;
+          this.hideLoadingSpinner();
           this.startTimer();
         }
       );
     }
+  }
+
+  showLoadingSpinner() {
+    this.quizService.showSpinner = true;
+  }
+
+  hideLoadingSpinner() {
+    this.quizService.showSpinner = false;
   }
 
   startTimer() {
