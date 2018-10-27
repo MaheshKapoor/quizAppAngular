@@ -37,7 +37,11 @@ export class QuizService {
 
   getQuestions() {
     debugger;
-    return this.http.get(this.rootUrl + '/questions', {params:{ 'id':localStorage.getItem('id')}});
+    if (localStorage.getItem('id')){
+      return this.http.get(this.rootUrl + '/questions', {params:{ 'id':'DKTNSW00E181003000'}});
+    }else {
+      return this.http.get(this.rootUrl + '/questions', {params: {'id': localStorage.getItem('id')}});
+    }
   }
 
 
