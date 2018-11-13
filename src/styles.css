@@ -22,12 +22,23 @@ ol .selected{
     color: #eafaf9 !important;
 }
 
+.questionImage{
+  width: 120px !important;
+  height: 120px;
+  margin: 25px 25px;
+}
+
 .card .card-content .card-title{
   display: inline;
 }
 
 .card .card-content p{
   display: inline;
+}
+
+.card .custom-card-content {
+  padding: 40px;
+  border-radius: 0 0 2px 2px;
 }
 
 .spiner{
@@ -42,10 +53,19 @@ ol .selected{
   .hide-on-med-and-down {
     display: block !important;
   }
-
+  .card .custom-card-content {
+    padding: 10px;
+    padding: 10px;
+  }
   .spiner {
     margin-left: 25%;
     margin-top: 10%;
+  }
+
+  .questionImage{
+    width: 120px !important;
+    height: 113px;
+    margin: 25px 25px;
   }
 
   .row .col.s8 {
