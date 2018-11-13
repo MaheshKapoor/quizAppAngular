@@ -10,7 +10,7 @@
     </div>
     <div class="card blue-grey darken-1">
       <div class="card-image" *ngIf="quizService.qns[quizService.qnProgress].imageName!=null">
-        <img class="questionImage"  src="../../assets/img/dkt/{{quizService.qns[quizService.qnProgress].imageName}}"  align="right">
+        <img class="questionImage"  src="../../assets/img/{{quizService.qns[quizService.qnProgress].imageName}}"  align="right">
         <!--<img class="center" [src]="quizService.rootUrl+'/Images/'+quizService.qns.data[quizService.qnProgress].ImageName" style="width:350px;height:200px">-->
       </div>
       <div class="{{quizService.qns[quizService.qnProgress].imageName!=null ? 'custom-card-content white-text': 'card-content white-text'}}" >
