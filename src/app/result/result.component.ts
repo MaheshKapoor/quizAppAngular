@@ -74,5 +74,16 @@ export class ResultComponent implements OnInit {
     this.router.navigate(['/quiz']);
   }
 
+  fbShare() {
+     /// let url = 'http://www.facebook.com/sharer.php?u='+ 'https://practisepoint.com/quiz?id=DKTNSW00E181003020';
+      let url ="http://www.facebook.com/dialog/feed?app_id=694150900972156&display=popup&link=https://practisepoint.com/quiz?id="+localStorage.getItem("id");
+      let newwindow=window.open(url,'challenge to my friends ','height=500,width=520,top=200,left=300,resizable');
+      if (window.focus) {
+        newwindow.focus()
+      }
+    }
+
+
+
 
 }
