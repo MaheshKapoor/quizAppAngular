@@ -13,6 +13,7 @@ import { ResultComponent } from './result/result.component';
 import { appRoutes } from './routes';
 import { QuizService } from './shared/quiz.service';
 import { AuthGuard } from './auth/auth.guard';
+import { DktComponent } from './dkt/dkt.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { AuthGuard } from './auth/auth.guard';
     RegisterComponent,
     NavbarComponent,
     QuizComponent,
-    ResultComponent
+    ResultComponent,
+    DktComponent
   ],
   imports: [
     BrowserModule,
