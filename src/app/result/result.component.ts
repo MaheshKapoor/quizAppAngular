@@ -39,16 +39,22 @@ export class ResultComponent implements OnInit {
 
   getNextSet() {
     debugger;
+    let nextSet = localStorage.getItem("nextSet");
+
     localStorage.removeItem("seconds");
     localStorage.removeItem("id");
-    localStorage.setItem('id', localStorage.getItem("nextSet"));
+
     localStorage.removeItem("qns");
     localStorage.removeItem("qns");
     localStorage.removeItem("qnProgress");
     localStorage.removeItem("nextSet");
     localStorage.removeItem("previousNext");
-    this.router.navigate(['/quiz'], {queryParams:{ id: localStorage.getItem("id") }});
-
+    if (nextSet == null || nextSet == undefined ||nextSet == 'undefined'){
+      this.router.navigate(['/dkt']);
+    }else{
+      localStorage.setItem('id', nextSet);
+      this.router.navigate(['/quiz'], {queryParams:{ id: nextSet }});
+    }
   }
 
   getPreviousSet() {
