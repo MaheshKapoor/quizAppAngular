@@ -23,9 +23,9 @@ ol .selected{
 }
 
 .questionImage{
-  width: 120px !important;
-  height: 120px;
-  margin: 25px 25px;
+  width: 100% !important;
+
+  margin: 25px auto;
 }
 
 .card .card-content .card-title{
@@ -37,7 +37,7 @@ ol .selected{
 }
 
 .card .custom-card-content {
-  padding: 40px;
+  padding: 10px;
   border-radius: 0 0 2px 2px;
 }
 
@@ -46,7 +46,18 @@ ol .selected{
   margin-top: 5%;
 }
 
-@media only screen and (max-width: 992px) {
+.collectionOverridden{
+  margin: 0;
+   border: 0px;
+
+}
+@media only screen and (max-width: 767px) {
+  .card .card-content{
+    padding: 0px;
+  }
+  .card-image{
+    padding: 0 20% !important;
+  }
   .card h2{
     font-size:1.56rem;
   }
@@ -63,9 +74,13 @@ ol .selected{
   }
 
   .questionImage{
-    width: 120px !important;
-    height: 113px;
-    margin: 25px 25px;
+   /* max-width: 270px !important;
+    max-height: 213px;
+
+    margin: 25px 25px;*/
+    width:100% !important;
+    margin:0px;
+    padding: 15px 20%;
   }
 
   .row .col.s8 {
@@ -81,19 +96,124 @@ ol .selected{
     left: auto;
     right: auto;
   }
+
+  .card-title p{
+    padding:15px;
+  }
+
+  .card-action{
+    padding:0px !important;
+  }
+
+  .card-action .col{
+    /* padding:0px !important;*/
+  }
 }
 
-.row .col.offset-s3 {
-  /* margin-left: 25%; */
-  margin: 0 auto;
-  float: none;
+
+  .row .col.offset-s3 {
+    /* margin-left: 25%; */
+    margin: 0 auto;
+    float: none;
+  }
+
+  .row .col.offset-s2 {
+    margin: 0 auto;
+    float: none;
+  }
+
+  /*Megha*/
+  .row {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .button-container {
+    padding-bottom: 20px;
+  }
+
+  .progress-container {
+    margin-top: 20px;
+  }
+
+  nav ul li {
+    float: left;
+  }
+
+  .card .card-title {
+
+    font-size: 20px;
+    /*letter-spacing: 1px;*/
+    font-weight:400;
+  }
+
+  .collection .collection-item {
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+
+  .card-image {
+    padding: 0 10% !important;
+  }
+
+  .card-image img {
+    height: 150px;
+  }
+
+  .card-title p {
+    padding: 15px 15px 0px 15px;
+  }
+
+  .card .card-action {
+    padding: 0px;
+  }
+
+
+h2{
+  font-size: 2rem;
+  padding-top: 1.5rem;
+
+}
+
+.card-title{
+  color: #004c4c;
+}
+
+.btn-flat{
+  padding:0 .5rem;
+}
+
+.waves-effect{
+  text-transform: capitalize;
+  font-weight:500;
+  text-decoration: underline;
+}
+
+.blue-grey{
+  background-color: #004c4c !important;
+}
+
+.btn{
+  background-color: #004c4c;
+}
+h3{
+  font-size: 1.6rem;
+}
+
+.result p{
+  padding-top: 0px;
+}
+
+.card .card-content{
+
+  padding: 15px;
 }
 
 
-.row .col.offset-s2{
-  margin: 0 auto;
-  float: none;
+.result-page .card-image{
+padding:0 10px !important;
 }
 
-
-
+.result-page .card-action{
+  border-top:0px;
+}
