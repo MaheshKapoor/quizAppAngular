@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable()
 export class QuizService {
   //---------------- Properties---------------
-  readonly rootUrl = 'https://quizappservices-218109.appspot.com';//'https://quizappservices-218109.appspot.com';//http://localhost:8080';
+  readonly rootUrl = 'https://appservice.appspot.com';//'https://quizappservices-218109.appspot.com';//http://localhost:8080';
   qns: any[];
   seconds: number;
   timer;
