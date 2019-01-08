@@ -14,6 +14,7 @@ import { appRoutes } from './routes';
 import { QuizService } from './shared/quiz.service';
 import { AuthGuard } from './auth/auth.guard';
 import { DktComponent } from './dkt/dkt.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { DktComponent } from './dkt/dkt.component';
     NavbarComponent,
     QuizComponent,
     ResultComponent,
-    DktComponent
+    DktComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
