@@ -15,6 +15,7 @@ import { QuizService } from './shared/quiz.service';
 import { AuthGuard } from './auth/auth.guard';
 import { DktComponent } from './dkt/dkt.component';
 import { FooterComponent } from './footer/footer.component';
+import { ErrorComponent } from './error/error.component';
 
 
 @NgModule({
@@ -25,7 +26,8 @@ import { FooterComponent } from './footer/footer.component';
     QuizComponent,
     ResultComponent,
     DktComponent,
-    FooterComponent
+    FooterComponent,
+    ErrorComponent
   ],
   imports: [
     BrowserModule,
