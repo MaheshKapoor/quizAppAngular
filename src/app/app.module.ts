@@ -16,6 +16,7 @@ import { AuthGuard } from './auth/auth.guard';
 import { DktComponent } from './dkt/dkt.component';
 import { FooterComponent } from './footer/footer.component';
 import { ErrorComponent } from './error/error.component';
+import { ProgressbarComponent } from './progressbar/progressbar.component';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { ErrorComponent } from './error/error.component';
     ResultComponent,
     DktComponent,
     FooterComponent,
-    ErrorComponent
+    ErrorComponent,
+    ProgressbarComponent
   ],
   imports: [
     BrowserModule,

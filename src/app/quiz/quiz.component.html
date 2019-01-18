@@ -8,11 +8,7 @@
         <!-- -->
           <div class="row progress-container" >
         <!-- -->
-            <span>Time Elapsed : {{quizService.displayTimeElapsed()}}</span>
-            <div class="progress">
-              <div class="determinate" [style.width.%]="(quizService.qnProgress+1)*5"></div>
-            </div>
-
+        <app-progressbar></app-progressbar>
         </div>
       <div class="card #cce0ff ">
           <div class="row" >
