@@ -8,7 +8,7 @@ import {QuizService} from "../shared/quiz.service";
 })
 export class ProgressbarComponent implements OnInit {
 
-  constructor(public quizService: QuizService,) { }
+  constructor(public quizService: QuizService) { }
 
   ngOnInit() {
   }

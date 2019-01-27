@@ -17,6 +17,7 @@ import { DktComponent } from './dkt/dkt.component';
 import { FooterComponent } from './footer/footer.component';
 import { ErrorComponent } from './error/error.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
+import { ResultcardComponent } from './resultcard/resultcard.component';
 
 
 @NgModule({
@@ -29,7 +30,8 @@ import { ProgressbarComponent } from './progressbar/progressbar.component';
     DktComponent,
     FooterComponent,
     ErrorComponent,
-    ProgressbarComponent
+    ProgressbarComponent,
+    ResultcardComponent
   ],
   imports: [
     BrowserModule,
