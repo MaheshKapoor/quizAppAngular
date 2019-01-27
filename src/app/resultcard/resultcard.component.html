@@ -1,7 +1,7 @@
 <div class="card">
 <div class="row">
   <div class="col s12 m4 l4">
-    <div class="card-image">
+    <div class="card-image" align="center" style="margin: 10px">
       <img src="../../{{scoreImage}}" style="width: 250px;height : 250px;">
     </div>
   </div>
@@ -10,22 +10,23 @@
     <div class="card-stacked">
       <div class="card-content">
 
-        <h3>Your score : {{quizService.correctAnswerCount}}/{{quizService.numberOfQuestions}}</h3>
-        <span>Percentage : {{scorePercentage}}%</span><br/>
+        <h3>Your score: {{quizService.correctAnswerCount}}/{{quizService.numberOfQuestions}}</h3>
+        <span class="{{scoreMessageColor}}"><strong>{{scoreMessage}}</strong></span><br/><br/>
+        <span>Your Percentage: {{scorePercentage}}%</span><br/>
+        <span>Time Elapsed: {{quizService.displayTimeElapsed()}}</span><br/>
 
-        <span>Time Elapsed : {{quizService.displayTimeElapsed()}}</span><br/>
-        <span class="{{scoreMessageColor}}">{{scoreMessage}}</span>
-      </div>
-      <div class="card-action" *ngIf="isPass">
-        You scored well, lets challenge your friends on facebook <button class="btn" (click)="fbShare()">Share with friends</button>
-      </div>
-      <div class="card-action" *ngIf="!isPass">
-        It seems to be hard one, lets challenge your friends <button class="btn" (click)="fbShare()">Share with friends</button>
-      </div>
-      <div class="card-action">
-        <button class="btn" (click)="getNextSet()">Next Challenge</button>
-      </div>
+        <span><strong>Recommendation:</strong> Try <a class="waves-effect waves-teal" (click)="getNextSet()">Next Challenge</a></span><br/><br/>
+        <div *ngIf="isPass">
+          You scored well, lets challenge your friends <a class="waves-effect waves-teal" (click)="fbShare()">Share</a>
+        </div>
+        <div  *ngIf="!isPass">
+          Its a hard one, lets challenge your friends <a class="waves-effect waves-teal" (click)="fbShare()">Share</a>
+        </div>
 
+      </div>
+      <div  class="card-content">
+        <span>*Passing percentage is 91%</span><br/>
+      </div>
 
     </div>
   </div>

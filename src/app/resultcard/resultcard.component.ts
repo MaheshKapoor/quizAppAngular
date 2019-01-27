@@ -25,12 +25,12 @@ export class ResultcardComponent implements OnInit {
     if(this.scorePercentage>91){
       this.scoreMessage ="You have passed the test. Keep it up !";
       this.scoreMessageColor = "green-text text-darken-3";
-      this.scoreImage="assets/img/passImage.jpg";
+      this.scoreImage="assets/img/passgirl.png";
       this.isPass=true;
     }else{
       this.scoreMessage ="You have failed the test. Please try again !";
       this.scoreMessageColor = "red-text text-darken-2";
-      this.scoreImage="assets/img/failImage.png";
+      this.scoreImage="assets/img/failgirl.png";
     }
     }
 
