@@ -10,6 +10,7 @@ export class DktComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    document.getElementById("seo-main-text").style.display = "none";
   }
 
 }

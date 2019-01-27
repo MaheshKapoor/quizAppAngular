@@ -18,7 +18,7 @@ export class QuizComponent implements OnInit {
     });}
 
   ngOnInit() {
-    debugger;
+    document.getElementById("seo-main-text").style.display = "none";
     if ((this.id === localStorage.getItem('current')) && localStorage.getItem('qns')) {
 
         this.quizService.seconds = 0;//parseInt(localStorage.getItem('seconds'));
