@@ -29,14 +29,15 @@
             </div>
 
                 <div class="{{quizService.qns[quizService.qnProgress].imageName!=null ? 'col s12 m7 l7': 'col s12 m12 l12'}}" style=" float: left" >
-
-                    <ol class=" collection answer collectionOverridden" type="a">
+                    <ul class=" collection answer collectionOverridden" type="a">
                       <ng-container *ngFor="let option of quizService.qns[quizService.qnProgress].options;let i = index">
-                        <li *ngIf="option != null" class="collection-item" (click)="Answer(quizService.qns[quizService.qnProgress].qnID,i+1)">
+                        <li class="collection-item">
+                        <label><input type="radio" name="option"  value="option" *ngIf="option != null"  (click)="Answer(quizService.qns[quizService.qnProgress].qnID,i+1)"/>
                           {{option}}
+                        </label>
                         </li>
                       </ng-container>
-                    </ol>
+                    </ul>
                   </div>
                 </div>
           </div>

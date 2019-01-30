@@ -11,15 +11,17 @@ ol {
   background:white;
 }
 
-ol.answer :hover{
+/*ul.answer :hover{
     background-color: #26a69a;
     color: #eafaf9;
     cursor: pointer;
-}
+  font-weight: bold;
+}*/
 
-ol .selected{
+ul .selected{
     background-color: #26a69a !important;
     color: #eafaf9 !important;
+    font-weight: bold;
 }
 
 .questionImage{
@@ -51,6 +53,17 @@ ol .selected{
    border: 0px;
 
 }
+.collection-item label{
+  font-size: 1.1em;
+  color: black;
+}
+[type="radio"]:not(:checked), [type="radio"]:checked{
+  opacity: 1;
+  position: relative;
+  margin-right: 10px
+}
+
+
 @media only screen and (max-width: 767px) {
   .card .card-content{
     padding: 0px;
