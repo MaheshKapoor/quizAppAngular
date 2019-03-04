@@ -46,6 +46,11 @@ export class ResultcardComponent implements OnInit {
   getNextSet() {
     debugger;
     let nextSet = localStorage.getItem("nextSet");
+    let currentSet = localStorage.getItem("current");
+
+    if ((nextSet == null || nextSet == undefined ||nextSet == 'undefined') && currentSet.substr(0,3).length >0 && currentSet.substr(0,3) == "GKQ"){
+      window.location.href = 'https://generalknowledgequestionss.blogspot.com/p/current-affair.html';
+    }
 
     localStorage.removeItem("seconds");
     localStorage.removeItem("id");
