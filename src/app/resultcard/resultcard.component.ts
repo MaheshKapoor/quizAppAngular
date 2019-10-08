@@ -50,6 +50,9 @@ export class ResultcardComponent implements OnInit {
 
     if ((nextSet == null || nextSet == undefined ||nextSet == 'undefined') && currentSet.substr(0,3).length >0 && currentSet.substr(0,3) == "GKQ"){
       window.location.href = 'https://generalknowledgequestionss.blogspot.com/p/current-affair.html';
+    } else if(nextSet.substr(0,3).length >0 && nextSet.substr(0,3) == "GKQ"){
+      localStorage.setItem('id', nextSet);
+      this.router.navigate(['/quiz'], {queryParams:{ id: nextSet }});
     }
 
     localStorage.removeItem("seconds");
