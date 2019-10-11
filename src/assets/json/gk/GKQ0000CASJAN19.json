@@ -1,0 +1,80 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Current Affair subscription: January 2019",
+      "previousSet":null,
+      "nextSet":"GKQ0000CASFEB19",
+      "numberOfQuestion":"5",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "China",
+          "Nepal",
+          "Pakistan"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"India revoked which country as Most favoured nation (in 2019)?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "India",
+          "Australia",
+          "England"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"Which country won the Border Gavaskar cricket Trophy in year 2018-2019?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Air Commodore",
+          "Air Marshal",
+          "Wing Commander"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"What is the service rank of Abhinandan Varthaman in Indian Air Force (in year 2019)?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Manohar Parrikar",
+          "Nirmala Sitharaman",
+          "Arun Jaitley"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"Who is defence minitster in Indian government (in year 2019)",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "USA",
+          "India",
+          "France"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"What is the national origin of Dassault Rafale aircraft manufacturer? ",
+        "answer":"3"
+      }
+
+    ]
+  }
+}

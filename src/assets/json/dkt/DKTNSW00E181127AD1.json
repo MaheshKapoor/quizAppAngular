@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Alcohol and Drugs",
+         "previousSet":"DKTNSW00E181127AD1",
+         "nextSet":null,
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Drink black coffee.",
+               "Wait. The time depends on how much you have drunk.",
+               "Have a glass of water."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"To reduce the effect of alcohol before driving or riding you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Not to drink any alcohol.",
+               "Drink 1 nip of spirits (30 ml or 1 oz).",
+               "Drink 1 middy (285 ml) of light (low alcohol) beer."
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"Before driving a motor vehicle or riding a motor cycle it is safest -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No, if you are a learner driver.",
+               "No, if you say you haven't been drinking alcohol.",
+               "Yes, always."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"Is it an offence to refuse to take a POLICE breath test?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "The alcohol will have less effect than if taken alone.",
+               "It can have a particularly bad effect on your driving ability.",
+               "Your ability to react to emergencies will improve."
+            ],
+            "imageName":null,
+            "qnID":"4",
+            "qn":"If you take medicine and then drink alcohol -",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "0.08.",
+               "0.05.",
+               "0.02."
+            ],
+            "imageName":null,
+            "qnID":"5",
+            "qn":"If you are driving a bus, taxi, hire-car, heavy motor vehicle (over 13.9 tonnes Gross Vehicle Mass), or a vehicle with a dangerous load, it is an offence when the level of alcohol in your blood reaches -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Has no effect on your driving ability.",
+               "Improves your driving ability.",
+               "Will affect your reactions and judgement."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"Having 1 or 2 alcoholic drinks before driving -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drive, but avoid using freeways",
+               "Be aware that your abilities are decreased.",
+               "Spend more time than usual looking in the mirrors."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Even if you feel unaffected after drinking alcohol, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "It slows down how quickly your brain works.",
+               "It speeds your brain up so you can work better.",
+               "It makes you calm down and think more clearly."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"Alcohol is a depressant. This means -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Be able to drive the same as you normally can.",
+               "Be able to pay close attention to details in the traffic.",
+               "Misjudge speed (your own and others)."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"After drinking alcohol you could -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Wait for one hour after your last drink before you drive home.",
+               "Organise before hand a way of getting home where you are not the driver.",
+               "After you have had a few drinks, start to think about how you will get home."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"If you are going out and going to drink alcohol, the best way to avoid having to drink and drive is to -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "More serious.",
+               "Less serious.",
+               "About the same"
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"When drivers have been drinking, the crashes they are involved in are generally -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "About 50%.",
+               "About 30%.",
+               "About 10%."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"On Thursday, Friday and Saturday nights, how many serious crashes involve alcohol?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Exercising and drinking black coffee.",
+               "Buying a breathalyser (alcohol measuring instrument).",
+               "Not drinking any alcohol."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"What is the safest way to stay under the legal alcohol limit?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "0.05.",
+               "Zero.",
+               "0.02."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"If you hold a learner or provisional licence class what is the Blood Alcohol Concentration (BAC) limit?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Find out from your doctor or chemist whether the medicine or drug will affect your driving and act accordingly.",
+               "Only drive during the day after taking the medicine or drug.",
+               "Only drive a motor car not a heavy vehicle."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"If you are taking any sort of medicine, you should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Have some food in your stomach.",
+               "Plan to have some other person with you.",
+               "Know what the effects of the drug are."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"Before taking any drugs and then driving it is most important to -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "May drive only in light traffic.",
+               "Must not drive.",
+               "Should drink coffee before driving."
+            ],
+            "imageName":null,
+            "qnID":"17",
+            "qn":"If you have used illegal drugs you -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You may drive only in daylight hours.",
+               "You must have a passenger to help you drive.",
+               "You must not drive."
+            ],
+            "imageName":null,
+            "qnID":"18",
+            "qn":"If you are affected by a legal drug, such as a medicine (e.g. cold or allergy tablets) -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Read the label and confirm they are not prescription drugs and there are no special warnings on the label.",
+               "Ask your friend if the tablets have affected them.",
+               "Drink a large glass of milk because this reduces the adverse effects of medicines and drugs."
+            ],
+            "imageName":null,
+            "qnID":"19",
+            "qn":"You want to drive your car but you have a very bad headache. A friend gives you some of their headache tablets to kill the pain. What should you do before you take these tablets?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Ask your passengers to let you know if you are not driving as well as you should.",
+               "Drive carefully around your local streets to see if you are affected.",
+               "Ask your doctor if the combination of drugs will make it dangerous to drive."
+            ],
+            "imageName":null,
+            "qnID":"20",
+            "qn":"If you are taking several medications and you want to drive, you should -",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

@@ -18,6 +18,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ErrorComponent } from './error/error.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
 import { ResultcardComponent } from './resultcard/resultcard.component';
+import {DKTService} from "./service/dkt/dkt.service";
 
 
 @NgModule({
@@ -39,7 +40,7 @@ import { ResultcardComponent } from './resultcard/resultcard.component';
     FormsModule,
     HttpClientModule
   ],
-  providers: [QuizService,AuthGuard],
+  providers: [QuizService,AuthGuard,DKTService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

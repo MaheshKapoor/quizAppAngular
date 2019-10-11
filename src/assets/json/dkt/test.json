@@ -1,0 +1,69 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"DKT Questions on Speed Limits",
+      "previousSet":"DKTNSW00E181127SP1",
+      "nextSet":null,
+      "numberOfQuestion":"4",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Permitted only when passing another vehicle",
+          "Only permitted when other vehicles are going faster than the speed limit.",
+          "Never legally permitted."
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"Driving faster than the maximum speed limit is -",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "10 Km/h",
+          "20 Km/h",
+          "50 Km/h"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"A Shared Traffic Zone, where pedestrians and other road users can share the road safely has a speed limit of -",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Pull over and wait till it stops raining",
+          "Keep going at the same speed because that's how fast the signs tell you to drive.",
+          "Slow down to a speed that suits the conditions better."
+        ],
+        "imageName":"dkt/SL021.png",
+        "qnID":"3",
+        "qn":"You are driving in busy traffic in an 80 km/h zone. It begins to rain lightly. What should you do?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Speed up to a little bit over the speed limit, because everyone does it.",
+          "Decide your speed yourself, based on the speed limit and the conditions.",
+          "Follow the suggestions and keep up with the traffic."
+        ],
+        "imageName":"dkt/SL022.png",
+        "qnID":"4",
+        "qn":"You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of your passengers suggests you should keep up with the other traffic. What should you do?",
+        "answer":"2"
+      }
+
+    ]
+  }
+}

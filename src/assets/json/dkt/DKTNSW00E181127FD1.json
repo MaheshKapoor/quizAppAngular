@@ -1,0 +1,299 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Fatigue and Defensive Driving",
+         "previousSet":"DKTNSW00E181127FD1",
+         "nextSet":null,
+         "numberOfQuestion":"25",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Stay one second behind the vehicle in front of you.",
+               "Drive as close to the vehicle in front as possible.",
+               "Stay at least three seconds behind the vehicle in front of you."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"Under good conditions, when driving behind any vehicle, at any speed, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Take longer and further to stop, so slow down.",
+               "Stop in the same distance as on a dry road.",
+               "Handle better, so you can go faster."
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"When driving in wet weather, your vehicle will -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Close your eyes for a short time until they recover.",
+               "Watch the centre line of the road.",
+               "Slow down, until your eyes recover."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"At night, if an oncoming vehicle's headlights dazzle you, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Turn on the air conditioning or open the windows.",
+               "Stop, rest, and change drivers if possible.",
+               "Turn on the radio very loud."
+            ],
+            "imageName":null,
+            "qnID":"4",
+            "qn":"If you get sleepy while driving, it is best to -",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Flash your headlights to warn other drivers.",
+               "Turn your headlights on high beam.",
+               "Turn on your headlights, slow down, and double your following distance behind the vehicle in front."
+            ],
+            "imageName":null,
+            "qnID":"5",
+            "qn":"In wet weather when it becomes hard for you to see, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Put your hazard warning lights on and increase your speed to avoid the rain.",
+               "Put your lights on high beam so you can see better.",
+               "Slow down using the brake gently, since rain and oil may create a slippery surface."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"If you are driving and it starts to rain, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Be easier to steer and handle",
+               "Take longer and further to stop.",
+               "Be heavier to steer."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"When driving on a slippery wet road, for example, one covered in early morning dew, your vehicle will -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Your wheels may skid and cause a loss of control.",
+               "If the wheels lock up your handbrake may not work.",
+               "You might wet pedestrians walking along the footpath."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"Why should you avoid heavy braking on a wet road?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Drive closer to the vehicle in front so they can see you better.",
+               "Use your hazard warning lights when overtaking another vehicle.",
+               "Leave a longer gap behind the vehicle in front."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"At night you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Follow closer to other vehicles.",
+               "Slow down and use your low beam headlights and hazard warning lights to make your vehicle seen.",
+               "Put on your high beam lights."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"When it is very foggy during the day or night and your vehicle has no fog lights, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Get plenty of rest before starting out.",
+               "Make sure your horn is working.",
+               "Have a good meal before driving."
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"When going on a long trip, out of the following which is the most important to do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Not look at its headlights, but keep left and watch the left of the road.",
+               "Carefully watch the vehicle by looking directly at its headlights.",
+               "Put your lights on high beam, to make your vehicle more easily seen."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"At night, when you approach an oncoming vehicle, you should -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Crashing or not crashing is a matter of luck",
+               "It is up to other drivers to avoid crashing into me.",
+               "When I drive, I have the main responsibility for my safety and the safety of other road users."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"Which of the following attitudes is most likely to make you a safer driver?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Adjust your seat.",
+               "Check over your shoulder.",
+               "Put on your seat belt."
+            ],
+            "imageName":"dkt/FD028.png",
+            "qnID":"14",
+            "qn":"You are about to move away from the kerb in your car. What is the last thing you should do before you move into traffic?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Check your mirrors and look over your shoulder before moving off from the kerb.",
+               "Have a good look around while you walk up to your car and then drive off as soon as you can.",
+               "Sound your horn before moving away from the kerb to warn people of your intentions"
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"What is the best way to avoid hitting other vehicles, people or animals when moving off from the kerb?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drive in every kind of traffic situation as soon as you get your licence.",
+               "Drive as much as you can with friends on the way to parties.",
+               "Start driving in daylight where it is not too busy and only drive in busier traffic as your driving gets better."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"Many people crash within the first few years of driving. What is the best way of learning to drive on your own without crashing?",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Looking in the rear and side mirrors continually when driving.",
+               "Continually looking ahead, to the sides and using all mirrors when driving.",
+               "Looking further ahead down the road when driving."
+            ],
+            "imageName":null,
+            "qnID":"17",
+            "qn":"It is important to scan while driving so you can see everything that is happening on the road. What does scanning involve?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Drive mainly in unfamiliar streets.",
+               "Drive long distances to improve your concentration",
+               "Drive mainly on streets that you know well."
+            ],
+            "imageName":"dkt/FD033.png",
+            "qnID":"18",
+            "qn":"If you are a new driver and first start to drive at night you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Pull off the road, stop and rest until you no longer feel tired.",
+               "Stop at a shop and get a drink that contains caffeine to help keep you awake.",
+               "Make sure you get plenty of fresh air circulating inside the car by winding down your window."
+            ],
+            "imageName":null,
+            "qnID":"19",
+            "qn":"You set out on a fairly long drive to see some friends. After a while you start feeling tired. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drop them off at the train station.",
+               "Take the advice of a more experience driver and go faster where you can.",
+               "Choose a safe speed and say you will not go any faster."
+            ],
+            "imageName":null,
+            "qnID":"20",
+            "qn":"You are driving an older relative for an appointment and are running late. They ask you to go faster to get there on time. You should -",
+            "answer":"3"
+         },{
+            "options":[
+               "Aim to drive for as long as possible when you are feeling good so you can arrive earlier.",
+               "Drive mostly at night as there is less traffic on the road and therefore less risk of crashing.",
+               "Drive during the day, take plenty of breaks and share driving if possible."
+            ],
+            "imageName":null,
+            "qnID":"21",
+            "qn":"You are planning to drive from Sydney to the Gold Coast with some friends. To minimise fatigue and make the trip as safe as possible you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "3 seconds.",
+               "1 seconds.",
+               "2 seconds."
+            ],
+            "imageName":"dkt/FD037.png",
+            "qnID":"22",
+            "qn":"You should leave a gap between your vehicle and the one you are following. In good conditions the gap should be -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The same 3-second gap you would leave during the day.",
+               "A gap of about 2 seconds so you can watch the vehicles in front closely and see when they are stopping.",
+               "A gap of about 4 seconds as it is easy to misjudge distances at night."
+            ],
+            "imageName":null,
+            "qnID":"23",
+            "qn":"It is night time and you are driving home from the movies. You are travelling in a line of vehicles. What size gap should you leave between your vehicle and the vehicles in front of you?",
+            "answer":"3"
+         },
+		 {
+            "options":[
+               "Chase the car to tell the driver how to drive.",
+               "Stay calm and in control of your vehicle at all times.",
+               "Respond by using your horn and/or flashing your lights to let the driver know how you feel."
+            ],
+            "imageName":null,
+            "qnID":"24",
+            "qn":"While driving, you come across aggressive, selfish or ignorant driving behaviour by another driver. You should -",
+            "answer":"2"
+         },
+		 {
+            "options":[
+               "Check your mirrors and look over your shoulder before moving off from the kerb.",
+               "Have a good look around while you walk up to your car and then drive off as soon as you can.",
+               "Sound your horn before moving away from the kerb to warn people of your intentions"
+            ],
+            "imageName":null,
+            "qnID":"25",
+            "qn":"What is the best way to avoid hitting other vehicles, people or animals when moving off from the kerb?",
+            "answer":"1"
+         }
+          
+      ]
+   }
+}

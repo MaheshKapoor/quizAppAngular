@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Taffic Lights and Lanes",
+         "previousSet":"DKTNSW00E181126TL1",
+         "nextSet":null,
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "You may proceed only in the direction of the green arrow when the red light has changed to green.",
+               "You may proceed only in the direction of the green arrow.",
+               "You must give way to oncoming traffic."
+            ],
+            "imageName":"dkt/TL001.png",
+            "qnID":"1",
+            "qn":"You are facing traffic lights (as shown). What do they mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Stop, wait behind the stop line until the lights change to green.",
+               "Stop, wait behind the stop line until the lights change to yellow.",
+               "Stop, make sure there is no traffic, then drive straight ahead."
+            ],
+            "imageName":"dkt/TL002.png",
+            "qnID":"2",
+            "qn":"At traffic lights what is meant when a red light appears?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Stop, only if a red light camera is in use",
+               "Speed up to clear the intersection before the lights change to red.",
+               "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident."
+            ],
+            "imageName":"dkt/TL003.png",
+            "qnID":"3",
+            "qn":"What should you do when approaching traffic lights which change from green to yellow?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You should slow down and check if anyone is coming before turning left.",
+               "- If the lights are red you must first stop, then you may turn left if it is safe to do so.",
+               "You may turn left only if a green arrow is shown"
+            ],
+            "imageName":"dkt/TL004.png",
+            "qnID":"4",
+            "qn":"What may you do at an intersection with traffic lights at which this sign is displayed?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Yes, if there is no danger of colliding with another vehicle.",
+               "Yes, at all times",
+               "No, unless there is a U-TURN PERMITTED sign at the intersection"
+            ],
+            "imageName":null,
+            "qnID":"5",
+            "qn":"Are you permitted to make a U-Turn at traffic lights?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Can turn left, but not go straight ahead.",
+               "Can turn left or go straight ahead.",
+               "Can turn left only if a sign 'TURN LEFT AT ANY TIME WITH CARE' is displayed. "
+            ],
+            "imageName":"dkt/TL006.png",
+            "qnID":"6",
+            "qn":"These lights mean that you -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Can make a U turn provided it is safe to do so.",
+               "Can go straight ahead, or turn left or turn right, if it is safe to do so.",
+               "Must stop and wait for the red light before proceeding."
+            ],
+            "imageName":"dkt/TL007.png",
+            "qnID":"7",
+            "qn":"This light means, you -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Not turn right while the arrow is red",
+               "Turn right when you have waited one minute",
+               "Turn right if it is safe to do so."
+            ],
+            "imageName":"dkt/TL008.png",
+            "qnID":"8",
+            "qn":"It is 3 o'clock in the morning. You cannot see any other traffic. You want to turn right. You may -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Sound your horn and proceed through the red light.",
+               "Speed up to avoid traffic from the left and right.",
+               "Stop and wait for the green light"
+            ],
+            "imageName":"dkt/TL010.png",
+            "qnID":"9",
+            "qn":"As you approach an intersection with traffic lights, the yellow light turns to red. You must ",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down and turn left or right if it is safe.",
+               "Stop and turn left only if it is safe.",
+               "Stop and wait for a green light."
+            ],
+            "imageName":"dkt/TL011.png",
+            "qnID":"10",
+            "qn":"You approach an intersection showing a red light and the sign shown. You wish to turn left. You must -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Stop",
+               "Keep going",
+               "Drive through and sound your horn."
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"It is early morning and there is no other traffic about. You approach an intersection when the traffic lights change from green to yellow. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Check both sides of the intersection and then proceed.",
+               "Cross the intersection as quickly as possible.",
+               "Wait until the traffic behind you makes you move."
+            ],
+            "imageName":"dkt/TL013.png",
+            "qnID":"12",
+            "qn":"You are waiting at an intersection and the lights are red. The traffic lights change to green. You should -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Enter the intersection and wait for the green arrow",
+               "Move forward slowly.",
+               "Stay behind the stop line until the green arrow shows."
+            ],
+            "imageName":"dkt/TL014.png",
+            "qnID":"13",
+            "qn":"You want to turn right at an intersection and see this traffic light. You should ",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Stop until the light turns green.",
+               "Stop, then if you see it is safe turn left",
+               "Stop then go straight ahead."
+            ],
+            "imageName":"dkt/TL015.png",
+            "qnID":"14",
+            "qn":"You wish to turn left at this intersection. The traffic lights are red and you see this sign. You should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Wait behind the stop line until there is room for you to enter the new road.",
+               "Move forward slowly, make the left turn and wait behind car A.",
+               "Enter the intersection and sound the horn."
+            ],
+            "imageName":"dkt/TL016.png",
+            "qnID":"15",
+            "qn":"You wish to turn left at this intersection and the traffic lights are green. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Accelerate to clear the intersection before the lights change to red.",
+               "Drive through the intersection without accelerating.",
+               "Stop before the lights, unless you are so close that sudden braking might cause an accident."
+            ],
+            "imageName":"dkt/TL017.png",
+            "qnID":"16",
+            "qn":"As you approach a set of traffic lights at an intersection, they change from green to yellow (amber). You must - ",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Apply to road works vehicles only",
+               "Must be obeyed.",
+               "Are installed to warn motorists of construction works."
+            ],
+            "imageName":"dkt/TL018.png",
+            "qnID":"17",
+            "qn":"Temporary traffic lights at road works -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "After the traffic lights, but before the construction zone.",
+               "Where the lane ends.",
+               "At the 'Stop here on red signal' sign."
+            ],
+            "imageName":"dkt/TL019.png",
+            "qnID":"18",
+            "qn":"Where do you stop at temporary traffic lights?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You may proceed only in the direction of the green arrow when the red light has changed to green.",
+               "You may proceed only in the direction of the green arrow.",
+               "You must give way to oncoming traffic."
+            ],
+            "imageName":"dkt/TL001.png",
+            "qnID":"19",
+            "qn":"You are facing traffic lights (as shown). What do they mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Stop, wait behind the stop line until the lights change to green.",
+               "Stop, wait behind the stop line until the lights change to yellow.",
+               "Stop, make sure there is no traffic, then drive straight ahead."
+            ],
+            "imageName":"dkt/TL002.png",
+            "qnID":"20",
+            "qn":"At traffic lights what is meant when a red light appears?",
+            "answer":"1"
+         }
+          
+      ]
+   }
+}

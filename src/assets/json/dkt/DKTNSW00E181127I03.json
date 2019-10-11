@@ -1,0 +1,191 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Intersections",
+         "previousSet":"DKTNSW00E181127I02",
+         "nextSet":null,
+         "numberOfQuestion":"15",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "You must enter in the right lane and leave in the left.",
+               "You must leave the roundabout in the same lane as you entered.",
+               "You must always leave the roundabout in the left lane."
+            ],
+            "imageName":"dkt/IN059.png",
+            "qnID":"1",
+            "qn":"You wish to go straight ahead at this roundabout. Which statement is true?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Lane A.",
+               "Lane B.",
+               "Either lane."
+            ],
+            "imageName":"dkt/IN060.png",
+            "qnID":"2",
+            "qn":"You want to turn left at this roundabout. Which lane must you use?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Change lanes to get through quickly.",
+               "Move into another lane with least traffic.",
+               "Keep in the lane you entered the roundabout."
+            ],
+            "imageName":"dkt/IN061.png",
+            "qnID":"3",
+            "qn":"When you wish to drive straight ahead at a roundabout you may enter from either the left or right lane. As you continue around you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "In the right lane.",
+               "In the left lane.",
+               "In the lane with least traffic."
+            ],
+            "imageName":"dkt/IN062.png",
+            "qnID":"4",
+            "qn":"When turning left at a roundabout you should enter and leave the roundabout -",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Right lane only.",
+               "Left lane only.",
+               "Either lane."
+            ],
+            "imageName":"dkt/IN063.png",
+            "qnID":"5",
+            "qn":"You wish to go straight ahead on this roundabout with two lanes. Which lane may you use?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "May stop suddenly.",
+               "Could be going too fast.",
+               "May be leaving the roundabout."
+            ],
+            "imageName":"dkt/IN064.png",
+            "qnID":"6",
+            "qn":"The motorcyclist wants to travel straight ahead through this roundabout. The rider should watch out for the marked car because the car -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Move into the left lane to leave the roundabout.",
+               "Stay in the right lane all the way round.",
+               "Use the left lane all the way round."
+            ],
+            "imageName":"dkt/IN065.png",
+            "qnID":"7",
+            "qn":"To turn back into the same road from which you joined this roundabout you must -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "No, not at any time.",
+               "Yes, at any time",
+               "Yes, after changing to the right hand lane."
+            ],
+            "imageName":"dkt/IN066.png",
+            "qnID":"8",
+            "qn":"In this roundabout with two lanes, can the marked car turn right?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Yes, the car can make the turn from either the left hand or the right hand lane.",
+               "Yes, the car can make the turn only from this lane.",
+               "No, the car should enter the roundabout only from the right hand lane."
+            ],
+            "imageName":"dkt/IN067.png",
+            "qnID":"9",
+            "qn":"The red car wants to turn right and exit the roundabout in the street indicated by an arrow. Is the car positioned in the correct lane to do this?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn at the traffic controller and hope they get out of your way.",
+               "Follow the directions of the controller.",
+               "Stop at the intersection and then proceed slowly."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"If you enter an intersection that is under the control of a traffic controller -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Give way to the pedestrian.",
+               "Sound your horn to warn the pedestrian to get out of the way.",
+               "Swerve around the pedestrian to avoid hitting them."
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"You are at an intersection and see a pedestrian crossing the road into which you are turning. You must -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "At all times before entering the intersection.",
+               "Only when the traffic is heavy.",
+               "Only when you approach a stop sign."
+            ],
+            "imageName":null,
+            "qnID":"12",   
+            "qn":"As you approach an intersection, you should check for traffic on your left and right -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "An oncoming vehicle going straight ahead or turning left and any vehicle on your right.",
+               "A vehicle approaching from your left and intending to turn right.",
+               "Only pedestrians."
+            ],
+            "imageName":"dkt/IN003.png",
+            "qnID":"13",
+            "qn":"When making a right-hand turn at the intersection shown, you must give way to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No, you have right of way.",
+               "No, only the vehicle on the right.",
+               "Yes, whether they are turning or not."
+            ],
+            "imageName":"dkt/IN004.png",
+            "qnID":"14",
+            "qn":"If turning right at a T-intersection (as shown) must you give way to vehicles approaching from both the left and right?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "No, but you must give way if turning.",
+               "Yes, it has the same meaning as the sign itself.",
+               "No, you only need to give way to the vehicle on your right."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?",
+            "answer":"2"
+         }
+        
+          
+      ]
+   }
+}

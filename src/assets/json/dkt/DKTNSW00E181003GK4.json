@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"Simple Arithematic Questions on Addition-Level 1",
+         "previousSet":"DKTNSW00E181003GK4",
+         "nextSet":null,
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Let the emergency vehicle pass and follow it closely behind.",
+               "Immediately come to a stop.",
+               "Pull over to the left until the emergency vehicle passes."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"Generally, if you hear the siren of an emergency vehicle you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down and stop if necessary to prevent getting in its way.",
+               "Keep driving because you have the green light.",
+               "Pull over to the left before you reach the intersection"
+            ],
+            "imageName":"dkt/CG095.png",
+            "qnID":"2",
+            "qn":"You are approaching a green light in vehicle A. An ambulance sounding its siren is approaching the same intersection and has a red light. You should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Stop and wait for the lights to stop flashing.",
+               "Overtake the bus only while the lights are flashing.",
+               "Drive carefully at no more than 40 km/h."
+            ],
+            "imageName":"dkt/CG099.png",
+            "qnID":"3",
+            "qn":"When you see these lights flashing on the back of a bus, what should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Only on roads that do not have street lights.",
+               "On any road, even if there are street lights.",
+               "On any road where the speed limit is above 80 km/h."
+            ],
+            "imageName":"dkt/CG100.png",
+            "qnID":"4",
+            "qn":"You are driving at night and there is no other traffic around you. When can you use your headlights on high beam?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Leave your headlights on high beam.",
+               "Park on the footpath.",
+               "Pick a visible position or leave the parking or hazard lights on."
+            ],
+            "imageName":"dkt/CG102.png",
+            "qnID":"5",
+            "qn":"You want to park your vehicle for a short time. It is night time. You should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Speed up and drive over the gravel as quickly as possible.",
+               "Check the mirrors and change lanes.",
+               "Slow down."
+            ],
+            "imageName":"dkt/CG103.png",
+            "qnID":"6",
+            "qn":"You drive up to a corner where you see some loose gravel on the road. You should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "The right lane to avoid slow-moving vehicles.",
+               "The left lane unless you are overtaking.",
+               "Whichever lane has the least traffic."
+            ],
+            "imageName":"dkt/CG105.png",
+            "qnID":"7",
+            "qn":"When you are driving on a two-lane freeway, which lane should you choose?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "The right lane is reserved for overtaking.",
+               "The right lane is for emergency vehicles only.",
+               "The right lane is for avoiding most traffic."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"When there are three lanes on a freeway -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Stop and wait for the lights to stop flashing.",
+               "Drive past the bus only while the lights are flashing.",
+               "Be careful, there may be children about."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"When you see the headlights flashing on the front of a bus, what should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Yes, provided you do not leave the vehicle.",
+               "No, never.",
+               "Yes, provided you stop for a short time only and turn on your hazard warning lights."
+            ],
+            "imageName":"dkt/CG112.png",
+            "qnID":"10",
+            "qn":"You are driving your vehicle along a street and want to stop for a short time. Are you allowed to double park your vehicle (that is stand it on the road alongside a parked car)?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "At least 20 metres.",
+               "At least 50 metres.",
+               "At least 5 metres."
+            ],
+            "imageName":"dkt/CG113.png",
+            "qnID":"11",
+            "qn":"Looking at the diagrams, how far from the approach side of a bus stop or a railway crossing are you allowed to stand or park your vehicle?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No.",
+               "Yes, but only when you stop at intersections.",
+               "Yes, but you must hold the steering wheel with at least one hand."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"Are you allowed to use a hand-held mobile phone while driving a car?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "No, being licensed is enough.",
+               "No it is only needed on long trips.",
+               "Yes."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"Are you required to carry your driver's licence with you every time you drive?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "They ride too fast and do not turn their lights on.",
+               "They are harder to see in traffic and do not have the same protection as many drivers.",
+               "They are careless and do not obey road rules."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"Bicycle and motorcycle riders have the same rights to use the road as other motor vehicle drivers. They are, however, more at risk in traffic because -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Continually scan the road, looking ahead, to the sides, checking side and rear mirrors and anticipate what may happen.",
+               "Turn all your attention only to the road ahead.",
+               "Ask other occupants in the vehicle to watch out for possible dangers."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"To drive safely, you need to concentrate and be able to monitor everything that is happening on the road. To do this, you need to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Slow down and continue through the road works zone.",
+               "Stop and then proceed if you think it is safe.",
+               "Stop your vehicle and follow the directions of the traffic controller."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"If you are driving towards a road works zone and a traffic controller displays a stop sign you must -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Stop and wait for directions",
+               "Merge to the right and give way to other traffic.",
+               "Speed up to get in front of any cars traveling in the right hand lane."
+            ],
+            "imageName":"dkt/CG119.png",
+            "qnID":"17",
+            "qn":"If you are driving through a road work zone in the left hand lane and you see this sign you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Anywhere inside the windows but only if they are not tinted.",
+               "Anywhere including on the dashboard.",
+               "On the front and back of the exterior of the vehicle."
+            ],
+            "imageName":null,
+            "qnID":"18",
+            "qn":"Where must L or P plates be displayed on a vehicle -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "All of the letter L or P.",
+               "Only enough of the letter so it is clear whether it is an L or P.",
+               "Most of the letter."
+            ],
+            "imageName":null,
+            "qnID":"19",
+            "qn":"When displaying L or P plates, how much of the letter must be clearly visible?-",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No, they must give way to cars at all times when riding on the road.",
+               "No, they must always ride on the footpath.",
+               "Yes."
+            ],
+            "imageName":null,
+            "qnID":"20",
+            "qn":"Do bicycle riders have the same rights and responsibilities as drivers and motorcycle riders?",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

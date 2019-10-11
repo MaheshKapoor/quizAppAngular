@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Intersections",
+         "previousSet":"DKTNSW00E181127I01",
+         "nextSet":"DKTNSW00E181127I02",
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "At all times before entering the intersection.",
+               "Only when the traffic is heavy.",
+               "Only when you approach a stop sign."
+            ],
+            "imageName":null,
+            "qnID":"1",   
+            "qn":"As you approach an intersection, you should check for traffic on your left and right -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "An oncoming vehicle going straight ahead or turning left and any vehicle on your right.",
+               "A vehicle approaching from your left and intending to turn right.",
+               "Only pedestrians."
+            ],
+            "imageName":"dkt/IN003.png",
+            "qnID":"2",
+            "qn":"When making a right-hand turn at the intersection shown, you must give way to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No, you have right of way.",
+               "No, only the vehicle on the right.",
+               "Yes, whether they are turning or not."
+            ],
+            "imageName":"dkt/IN004.png",
+            "qnID":"3",
+            "qn":"If turning right at a T-intersection (as shown) must you give way to vehicles approaching from both the left and right?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "No, but you must give way if turning.",
+               "Yes, it has the same meaning as the sign itself.",
+               "No, you only need to give way to the vehicle on your right."
+            ],
+            "imageName":null,
+            "qnID":"4",
+            "qn":"If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision",
+               "Yes, only if turning left.",
+               "Yes, only if turning right."
+            ],
+            "imageName":"dkt/IN006.png",
+            "qnID":"5",
+            "qn":"If turning at an intersection are you required to give way to pedestrians?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Travel into the intersection and wait until traffic ahead moves.",
+               "Proceed if there is no traffic on your right.",
+               "Wait until there is room for you to completely cross the intersection."
+            ],
+            "imageName":"dkt/IN007.png",
+            "qnID":"6",
+            "qn":"When you come to an intersection and the road beyond is choked with vehicles going in the same direction, what should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "The lane carrying the least amount of traffic.",
+               "The far right-hand lane or any other lane having an arrow pointing right.",
+               "The far left-hand lane."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Right-turns must be made from which lanes when travelling on a laned roadway?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Vehicle P.",
+               "Vehicle O.",
+               "It depends on who moves first."
+            ],
+            "imageName":"dkt/IN010.png",
+            "qnID":"8",
+            "qn":"In this diagram both vehicles O and P must pass through GIVE WAY signs before entering the intersection. Which vehicle goes first?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "All vehicles must give way to vehicle O.",
+               "Vehicle O must give way only to vehicle R.",
+               "Vehicle O must give way to vehicles P, Q and R."
+            ],
+            "imageName":"dkt/IN011.png",
+            "qnID":"9",
+            "qn":"Vehicle O is at a STOP sign -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Vehicle P.",
+               "Vehicle O.",
+               "Neither vehicle."
+            ],
+            "imageName":"dkt/IN012.png",
+            "qnID":"10",
+            "qn":"If both vehicles P and O in the diagram are turning right, which vehicle is in the best position to turn left into the street marked 'X'?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Yes, at all times.",
+               "Yes, if there is traffic on your right only.",
+               "No, if the intersection is clear."
+            ],
+            "imageName":"dkt/IN013.png",
+            "qnID":"11",
+            "qn":"The diagram shows a marked pedestrian crossing at an intersection. There is also a STOP sign at the intersection. You have already stopped for a pedestrian. Must you stop again at the STOP line?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Be ready to stop and give way to all other traffic if there is danger of a collision.",
+               "Stop completely at all times and have no right of way.",
+               "Slow down and only give way to traffic on your right."
+            ],
+            "imageName":"dkt/IN014.png",
+            "qnID":"12",
+            "qn":"A GIVE WAY sign at an intersection means that you must -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Vehicle L.",
+               "Vehicle K.",
+               "Vehicle J."
+            ],
+            "imageName":"dkt/IN016.png",
+            "qnID":"13",
+            "qn":"Which vehicle in the diagram must give way?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Only when there is traffic behind you.",
+               "At all times.",
+               "Only when arrows are marked on the roadway."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"You want to make a left turn. You must use your left-hand indicator -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Vehicle R.",
+               "Vehicle Q.",
+               "Whichever vehicle got there last."
+            ],
+            "imageName":"dkt/IN019.png",
+            "qnID":"15",
+            "qn":"At the T-intersection shown in the diagram which vehicle should give way?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "On the left-hand side of the street.",
+               "In the middle of the street",
+               "On the right-hand side of the street."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"You wish to make a right-hand turn from a ONE WAY STREET with no arrows marked on the roadway. You should position your vehicle -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "The middle of the road.",
+               "The far left-hand side of the road.",
+               "Either side of the road."
+            ],
+            "imageName":null,
+            "qnID":"17",
+            "qn":"When there are no arrows marked on the road, left turns must be made from -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Stop, only if a train is at the crossing.",
+               "Slow down to 10 km/h, then proceed through the crossing",
+               "Stop at all times and proceed when safe to do so."
+            ],
+            "imageName":"dkt/IN026.png",
+            "qnID":"18",
+            "qn":"What should you do on approaching a railway level crossing displaying a STOP sign?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Even when there is no other traffic.",
+               "Only if there is a car on your right or left.",
+               "Only if there is danger of a collision with another vehicle."
+            ],
+            "imageName":"dkt/IN027.png",
+            "qnID":"19",
+            "qn":"You are driving the car in the diagram. You must stop -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "If you can safely go around the closed gate",
+               "If you cannot see a train approaching",
+               "Only when the gate is up and the lights stop flashing."
+            ],
+            "imageName":null,
+            "qnID":"20",
+            "qn":"If the boomgates are down and the signals are flashing, at a railway level crossing, you may begin to cross -",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

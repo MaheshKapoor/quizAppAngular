@@ -3,6 +3,7 @@ import { Router } from '@angular/router';
 import { QuizService } from '../shared/quiz.service';
 import {isEmpty} from "rxjs/operator/isEmpty";
 import { ActivatedRoute } from '@angular/router';
+import {DKTService} from "../service/dkt/dkt.service";
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
@@ -11,7 +12,7 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class QuizComponent implements OnInit {
   id: string;
-  constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute) {
+  constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute, public dktService: DKTService) {
     this.activeRoute.queryParams.subscribe(params => {
       this.id = params['id'];
       localStorage.setItem('id',this.id);
@@ -37,7 +38,7 @@ export class QuizComponent implements OnInit {
       this.showLoadingSpinner();
       this.quizService.seconds = 0;
       this.quizService.qnProgress = 0;
-      this.quizService.getQuestions().subscribe(
+      this.dktService.getDktData().subscribe(
         (data: any) => {
           localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
           localStorage.setItem('previousNext',data.data.extraDetails.previousSet);

@@ -1,0 +1,519 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"Simple Arithematic Questions on Addition-Level 1",
+         "previousSet":"DKTNSW00E181003FL4",
+         "nextSet":"DKTNSW00E181003FL6",
+         "numberOfQuestion":"45",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "qnID":"1",
+            "imageName":null,
+            "qn":"Can a P1 or P2 provisional driver legally instruct a learner driver?",
+            "options":[
+               "Yes, provided the provisional driver has held a P2 licence for more than 6 months",
+               "Yes, provided L and P1 or P2 plates are displayed",
+               "No"
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":"2",
+            "imageName":null,
+            "qn":"To progress to a P2 provisional licence, a P1 provisional driver must hold a P1 licence for a minimum period of -",
+            "options":[
+               "18 months",
+               "12 months",
+               "10 months"
+            ],
+            "answer":"2"
+         },
+         {
+            "qnID":"3",
+            "imageName":null,
+            "qn":"If one or two of your wheels run off the edge of the roadway, you should -",
+            "options":[
+               "Increase your speed and drive back on the road",
+               "Slow down quickly by braking hard.",
+               "Slow down gradually and ease back onto the road."
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":"4",
+            "imageName":null,
+            "qn":"If there are no lanes marked on the road, you should drive -",
+            "options":[
+               "Anywhere on your side of the road.",
+               "Near to the left-hand side of the road.",
+               "Along the middle of the road."
+            ],
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Yes, if turn signals are fitted to your vehicle.",
+               "No, if turning left from a lane marked left turn only.",
+               "No, if arrows are marked on the roadway."
+            ],
+            "imageName":"dkt/CG010.png",
+            "qnID":"5",
+            "qn":"If you intend to turn left, are you required to give a signal?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Do not overtake a vehicle travelling in the same direction.",
+               "Stop at all times before crossing the bridge and only give way to pedestrians who may be crossing.",
+               "Slow down and be prepared to give way to vehicles travelling in the opposite direction."
+            ],
+            "imageName":"dkt/CG013.png",
+            "qnID":"6",
+            "qn":"What is meant by this sign on or near a bridge?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn to warn other drivers",
+               "Unbuckle your seat belt so you can reverse as quickly as possible.",
+               "Take care and never reverse for a greater distance and time than is necessary."
+            ],
+            "imageName":"dkt/CG014.png",
+            "qnID":"7",
+            "qn":"When reversing, you should -",
+            "answer":"3"
+         },
+         {
+            "qnID":8,
+            "imageName":null,
+            "qn":"How close can you park to another vehicle when parked parallel to the kerb?",
+            "options":[
+               "You must leave at least 3 metres front and back.",
+               "You must leave at least 2 metres from the front only.",
+               "You must leave at least 1 metre front and back."
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":9,
+            "imageName":null,
+            "qn":"Where there is parallel kerbside parking, are you allowed to double-park alongside a parked vehicle?",
+            "options":[
+               "Yes, but for no more than 30 minutes",
+               "Yes, in daylight hours",
+               "No, not at any time."
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":10,
+            "imageName":null,
+            "qn":"Do you have any responsibilities when opening a vehicle door on a roadway?",
+            "options":[
+               "No, any following traffic must stop if the door interferes with its progress",
+               "Yes, you must not open a door if you are likely to cause danger to road users or impede traffic.",
+               "No, there is no regulation to cover this situation."
+            ],
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Drive carefully, and watch out for kangaroos entering the road for the next 30 km.",
+               "Zoo 30 km ahead.",
+               "Nature reserve 30 km ahead."
+            ],
+            "imageName":"dkt/SI016.png",
+            "qnID":"11",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Tollway ahead, be prepared to stop and pay toll.",
+               "No through road ahead, slow down.",
+               "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left."
+            ],
+            "imageName":"dkt/SI017.png",
+            "qnID":"12",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Must not stop here at any time.",
+               "Must not stop your vehicle at the kerb during the times shown",
+               "May stop at any time to pick up or drop off passengers."
+            ],
+            "imageName":"dkt/SI018.png",
+            "qnID":"13",
+            "qn":"When you see this sign you -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "If there is a footbridge for pedestrians ahead.",
+               "On the approach to a bridge which has room for only two vehicles, slow down and proceed with caution.",
+               "When a bridge is not safe to drive on."
+            ],
+            "imageName":"dkt/SI019.png",
+            "qnID":"14",
+            "qn":"You are most likely to find this sign -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Road under repair, drive carefully.",
+               "Sharp turns in the road ahead.",
+               "Road may be slippery when wet, slow down and drive carefully."
+            ],
+            "imageName":"dkt/SI020.png",
+            "qnID":"15",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "As you approach a winding road, slow down and drive with caution.",
+               "If there is a steep hill ahead.",
+               "If an unsealed road is ahead"
+            ],
+            "imageName":"dkt/SI021.png",
+            "qnID":"16",
+            "qn":"You are most likely to find this sign -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Police station ahead.",
+               "Do not drive with your lights on high beam.",
+               "A sharp depression in the road is ahead, be prepared, slow down."
+            ],
+            "imageName":"dkt/SI022.png",
+            "qnID":"17",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "No right turn allowed.",
+               "Turn around and go back, you are going the wrong way.",
+               "Sharp bend to the right ahead, slow down and drive carefully."
+            ],
+            "imageName":"dkt/SI024.png",
+            "qnID":"18",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Children may be crossing the road ahead, slow down and be prepared to make a safe stop.",
+               "There is an athletic field ahead.",
+               "Pedestrians are not allowed."
+            ],
+            "imageName":"dkt/SI025.png",
+            "qnID":"19",
+            "qn":"You are most likely to find this sign, where -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Cemetery ahead.",
+               "Hospital ahead, drive carefully",
+               "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians."
+            ],
+            "imageName":"dkt/SI026.png",
+            "qnID":"20",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drink black coffee.",
+               "Wait. The time depends on how much you have drunk.",
+               "Have a glass of water."
+            ],
+            "imageName":null,
+            "qnID":"21",
+            "qn":"To reduce the effect of alcohol before driving or riding you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Not to drink any alcohol.",
+               "Drink 1 nip of spirits (30 ml or 1 oz).",
+               "Drink 1 middy (285 ml) of light (low alcohol) beer."
+            ],
+            "imageName":null,
+            "qnID":"22",
+            "qn":"Before driving a motor vehicle or riding a motor cycle it is safest -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "No, if you are a learner driver.",
+               "No, if you say you haven't been drinking alcohol.",
+               "Yes, always."
+            ],
+            "imageName":null,
+            "qnID":"23",
+            "qn":"Is it an offence to refuse to take a POLICE breath test?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "The alcohol will have less effect than if taken alone.",
+               "It can have a particularly bad effect on your driving ability.",
+               "Your ability to react to emergencies will improve."
+            ],
+            "imageName":null,
+            "qnID":"24",
+            "qn":"If you take medicine and then drink alcohol -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Stop",
+               "Keep going",
+               "Drive through and sound your horn."
+            ],
+            "imageName":null,
+            "qnID":"25",
+            "qn":"It is early morning and there is no other traffic about. You approach an intersection when the traffic lights change from green to yellow. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Check both sides of the intersection and then proceed.",
+               "Cross the intersection as quickly as possible.",
+               "Wait until the traffic behind you makes you move."
+            ],
+            "imageName":"dkt/TL013.png",
+            "qnID":"26",
+            "qn":"You are waiting at an intersection and the lights are red. The traffic lights change to green. You should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Slow down immediately to 40 km/h or less even though other drivers want to go faster.",
+               "Drive at the speed of the other drivers because it is safer to go with the flow of traffic than slow others up.",
+               "Stay at 60 km/h because it is nearly 9.30am and the times on the school sign are only advisory."
+            ],
+            "imageName":"dkt/SL032.png",
+            "qnID":"27",
+            "qn":"It is 9.20am on a school day. You are driving at 60 km/h, the same speed as traffic around you. You pass this sign but the other cars do not slow down much. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The maximum speed they are allowed to drive.",
+               "The minimum speed they are allowed to drive.",
+               "The recommended speed they are allowed to drive."
+            ],
+            "imageName":"dkt/SL034.png",
+            "qnID":"28",
+            "qn":"Speed limit signs (such as the one shown) tell drivers -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drive at the same speed as other vehicles.",
+               "Drive through the road works zone as fast as you can to get past it.",
+               "Slow down to the new speed limit."
+            ],
+            "imageName":null,
+            "qnID":"29",
+            "qn":"If you are driving along the highway and come across road works with a reduced speed zone, you must -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You do, because you are the driver.",
+               "Your friend does because she is the parent.",
+               "The child does because it is always the passenger's responsibility."
+            ],
+            "imageName":null,
+            "qnID":"30",
+            "qn":"You give a friend and her 12 year old son a lift. Your friend sits in the front and her son gets in the back. The boy does not put his seat belt on. By law, who has to make sure the child wears his seatbelt?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "By law, all occupants of a car (unless exempt) need to be restrained by a properly fitted and adjusted seat belt or a child restraint.",
+               "Occupants in a car fitted with airbags are not required to wear a seat belt.",
+               "Seat belts and child restraints are only required on short trips."
+            ],
+            "imageName":null,
+            "qnID":"31",
+            "qn":"Which of the following statements is correct?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Check over your shoulder.",
+               "Adjust your seat.",
+               "Put on your seat belt."
+            ],
+            "imageName":"dkt/FD028.png",
+            "qnID":"32",
+            "qn":"You are about to move away from the kerb in your car. What is the last thing you should do before you move into traffic?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Slow down and watch for an indication that they will enter the road.",
+               "Put your headlights on high beam so they can see you better.",
+               "Increase your speed to avoid the chance of hitting them."
+            ],
+            "imageName":null,
+            "qnID":"33",
+            "qn":"When driving in an area where there are many pedestrians (e.g. a bus stop) it is important to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Watch for pedestrians, animals and car doors opening.",
+               "Drive in the right-hand lane, if there is one.",
+               "Stay as close as possible to the vehicle in front of you."
+            ],
+            "imageName":null,
+            "qnID":"34",
+            "qn":"When driving past parked vehicles, which of the following is it most important to do -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "At all times before entering the intersection.",
+               "Only when the traffic is heavy.",
+               "Only when you approach a stop sign."
+            ],
+            "imageName":null,
+            "qnID":"35",
+            "qn":"As you approach an intersection, you should check for traffic on your left and right -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "An oncoming vehicle going straight ahead or turning left and any vehicle on your right.",
+               "A vehicle approaching from your left and intending to turn right.",
+               "Only pedestrians."
+            ],
+            "imageName":"dkt/IN003.png",
+            "qnID":"36",
+            "qn":"When making a right-hand turn at the intersection shown, you must give way to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Must let the long vehicle turn first.",
+               "Maymove to the left-hand side of the road and pass the long vehicle.",
+               "May pass the truck because it cannot turn leftfrom the middle lane."
+            ],
+            "imageName":"dkt/ND015.png",
+            "qnID":"37",
+            "qn":"You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The same as you would another car, with safety.",
+               "Drive as close as possible to thecyclist so he or she will move over and let you pass",
+               "Sound your horn to warn the cyclistto get off the road."
+            ],
+            "imageName":null,
+            "qnID":"38",
+            "qn":"How should you overtake a pedal cyclist?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Stay one second behind the vehicle in front of you.",
+               "Drive as close to the vehicle in front as possible.",
+               "Stay at least three seconds behind the vehicle in front of you."
+            ],
+            "imageName":null,
+            "qnID":"39",
+            "qn":"Under good conditions, when driving behind any vehicle, at any speed, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Take longer and further to stop, so slow down.",
+               "Stop in the same distance as on a dry road.",
+               "Handle better, so you can go faster."
+            ],
+            "imageName":null,
+            "qnID":"40",
+            "qn":"When driving in wet weather, your vehicle will -",
+            "answer":"1"
+         },
+         {
+            "qnID":41,
+            "imageName":null,
+            "qn":"What must you do if you miss your exit on a freeway?",
+            "options":[
+               "Continue until you reach the next appropriate exit.",
+               "Stop, and reverse back along the freeway to the exit you missed",
+               "Stop immediately and turn around."
+            ],
+            "answer":"1"
+         },
+         {
+            "qnID":42,
+            "imageName":null,
+            "qn":"As you leave a freeway, which of the following should you check?",
+            "options":[
+               "Fuel gauge.",
+               "Your speed.",
+               "Windscreen wipers."
+            ],
+            "answer":"2"
+         },
+         {
+            "qnID":43,
+            "imageName":null,
+            "qn":"When can a private car travel in a lane marked by this sign?",
+            "options":[
+               "When carrying at least two passengers.",
+               "Only within 100 metres of making a turn.",
+               "Only to overtake another vehicle."
+            ],
+            "answer":"2"
+         },
+         {
+            "qnID":44,
+            "imageName":null,
+            "qn":"Are you permitted to drive a car towing more than one trailer?",
+            "options":[
+               "Yes, provided you have held a licence for two years.",
+               "Yes, if the combined length of vehicle and trailers does not exceed 15 metres.",
+               "No, not at all."
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":45,
+            "imageName":null,
+            "qn":"What must you do when you are towing a caravan to help other vehicles overtake?",
+            "options":[
+               "Keep at least 60 metres behind heavy vehicles or other vehicles towing caravans.",
+               "Drive at least 25 km/h below the speed limit.",
+               "Stop immediately and let the faster vehicle overtake."
+            ],
+            "answer":"1"
+         }
+      ]
+   }
+}

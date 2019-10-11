@@ -1,0 +1,208 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Pedestrians",
+         "previousSet":"DKTNSW00E181127P01",
+         "nextSet":null,
+         "numberOfQuestion":"15",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Slow down until they are half way through the crossing and drive on.",
+               "Continue at the same speed and sound the horn.",
+               "Stop and give way if there is any danger of hitting them."
+            ],
+            "imageName":"dkt/PD017.png",
+            "qnID":"1",
+            "qn":"You drive towards these people on the road. What should you do?",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Look out for animals on the side of the road.",
+               "Take care and look out for pedestrians at a crossing.",
+               "Be careful because the road ahead is slippery"
+            ],
+            "imageName":"dkt/PD018.png",
+            "qnID":"2",
+            "qn":"You see these zig-zag markings on the road in front of you. What do they mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Places where special speed limits apply.",
+               "Places where you can park.",
+               "Places where pedestrians have special rights."
+            ],
+            "imageName":"dkt/PD019.png",
+            "qnID":"3",
+            "qn":"These markings on the road indicate -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down or stop to avoid hitting the person.",
+               "Slow down and sound your horn to hurry up the person.",
+               "Maintain your speed and swerve around the person."
+            ],
+            "imageName":"dkt/PD021.png",
+            "qnID":"4",
+            "qn":"You approach a person crossing the road. You should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Stop and wait for the children until your lane is clear.",
+               "Slow down and drive through giving way to the children.",
+               "Slow down and stop until the supervisor takes down the sign."
+            ],
+            "imageName":"dkt/PD022.png",
+            "qnID":"5",
+            "qn":"You approach a crossing and see the scene in the picture. You should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Stop and continue after the pedestrians have crossed.",
+               "Slow down and give way to pedestrians",
+               "Stop, wait for pedestrians to cross and for the green light to come on."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"At a pedestrian crossing with traffic lights, when the lights change to red you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down and sound the horn to warn the person to move back.",
+               "Give way to the person if there is any danger of colliding.",
+               "Maintain your speed so you do not hold up the traffic."
+            ],
+            "imageName":"dkt/PD024.png",
+            "qnID":"7",
+            "qn":"This person is standing on a pedestrian refuge. If he steps out onto your lane you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must give way to pedestrians if there is a danger of a collision.",
+               "Pedestrians must cross the road only at marked crossings and intersections.",
+               "You do not have to give way to adults crossing at children's crossings."
+            ],
+            "imageName":"dkt/PD025.png",
+            "qnID":"8",
+            "qn":"Which of the following statements is correct?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "You should ignore them and pay attention to the rear vision mirror.",
+               "You should reduce your speed by 5 km/h.",
+               "You should slow down and be more careful because they may move suddenly."
+            ],
+            "imageName":"dkt/PD026.png",
+            "qnID":"9",
+            "qn":"When you see children on or near the road -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drive around them to keep the traffic moving",
+               "Slow down and take extra care because they may not see you until you are very close.",
+               "Sound your horn and keep going at the same speed so you do not hold up the traffic."
+            ],
+            "imageName":"dkt/PD027.png",
+            "qnID":"10",
+            "qn":"When you see older people on or near the road, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Look more carefully for pedestrians because they are hard to see.",
+               "Keep your headlights on high beam all the time.",
+               "Always drive in the right hand lane so you can be away from pedestrians."
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"You must give way to pedestrians if there is a risk of hitting them. When driving in poor light, you should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Take extra care, slow down and give way to the pedestrians.",
+               "Keep a look out for traffic coming in the opposite direction.",
+               "Slow down, but keep moving so you do not delay other drivers."
+            ],
+            "imageName":"dkt/PD030.png",
+            "qnID":"12",
+            "qn":"You drive up to a Light Rail vehicle that has just stopped at a tram stop. What is the most important thing you should do?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Only on marked foot crossings and traffic light pedestrian crossings.",
+               "Only on marked foot crossings.",
+               "At all times, if there is any danger of colliding with them, even if there is no marked crossing."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"You must give way to pedestrians -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "When they are crossing from your left only.",
+               "When they are crossing from your right only.",
+               "If there is any danger of a collision."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"You must give way to pedestrians on a marked pedestrian crossing -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down and be ready to make a safe stop.",
+               "Come to a complete stop before the crossing",
+               "Go faster, in case a pedestrian steps onto the crossing."
+            ],
+            "imageName":"dkt/PD002.png",
+            "qnID":"15",
+            "qn":"When approaching a marked pedestrian crossing and no pedestrians are in sight, you should -",
+            "answer":"1"
+         }
+          
+      ]
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

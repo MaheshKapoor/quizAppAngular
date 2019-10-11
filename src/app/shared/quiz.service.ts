@@ -1,5 +1,9 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import {Observable} from "rxjs";
+import {Data} from "../model/dkt/data";
+import {Http, Response} from "@angular/http";
+import 'rxjs/add/operator/map';
 
 @Injectable()
 export class QuizService {
@@ -34,6 +38,16 @@ export class QuizService {
     var user = [name, email]
     return this.http.post(this.rootUrl + '/validateAccount', user, {params:{ 'id':param}});
   }
+
+  // getDktData(): Observable<Data> {
+  //   const fileUrl = "../src/app/json/dkt/DKTNSW00E181003FL1.json";
+  //
+  //   return this.http.get(fileUrl).map( (response: Response) => {
+  //       const data = response.json();
+  //       console.log("-->"+data);
+  //       return data;
+  //     });
+  // }
 
   getQuestions() {
     debugger;

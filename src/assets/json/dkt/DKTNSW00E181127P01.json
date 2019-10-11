@@ -1,0 +1,190 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Pedestrians",
+         "previousSet":"DKTNSW00E181127P01",
+         "nextSet":"DKTNSW00E181127P02",
+         "numberOfQuestion":"15",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "When they are crossing from your left only.",
+               "When they are crossing from your right only.",
+               "If there is any danger of a collision."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"You must give way to pedestrians on a marked pedestrian crossing -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Slow down and be ready to make a safe stop.",
+               "Come to a complete stop before the crossing",
+               "Go faster, in case a pedestrian steps onto the crossing."
+            ],
+            "imageName":"dkt/PD002.png",
+            "qnID":"2",
+            "qn":"When approaching a marked pedestrian crossing and no pedestrians are in sight, you should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drive around them so you don't hold up traffic.",
+               "Sound your horn to hurry them up.",
+               "Wait extra time to allow them to cross safely."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"If elderly people or children are on a pedestrian crossing you will probably need to -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "A",
+               "B",
+               "C"
+            ],
+            "imageName":"dkt/PD004.png",
+            "qnID":"4",
+            "qn":"Which sign painted on the road tells you there is a pedestrian crossing ahead?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "May overtake the vehicle provided no cars are coming the other way.",
+               "May overtake the vehicle if there are no pedestrians on the crossing.",
+               "Must not overtake the stopped vehicle."
+            ],
+            "imageName":"dkt/PD005.png",
+            "qnID":"5",
+            "qn":"A vehicle ahead of you has stopped at a pedestrian crossing. You -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Are out of sight",
+               "Reach the right-hand side of the crossing.",
+               "Are off the crossing and the hand held sign is taken away."
+            ],
+            "imageName":"dkt/PD006.png",
+            "qnID":"6",
+            "qn":"If you see a School Crossing Supervisor holding a sign like this, you must wait until the children -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "May not travel on heavy traffic roads.",
+               "Must obey the road rules.",
+               "Must ride against the flow of traffic so they can be seen."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Which one of the following statements is correct? Bicycle riders -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Slow down, and be ready to make a safe stop.",
+               "Sound your horn to warn them of your presence.",
+               "Continue at the same speed and drive around them."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"When driving near children playing or walking near the edge of the road, you should",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Less dangerous than sober pedestrians because they are more careful after drinking.",
+               "Unlikely to walk near the road and do not require your attention.",
+               "One of the most common groups involved in road accidents."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"Pedestrians who are affected by alcohol, are -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Move into the left lane.",
+               "Slow down, watch for pedestrians and be ready to make a safe stop.",
+               "Keep your eyes on the speedo."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"When driving near pedestrian crossings, intersections, or school crossings, you should always -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Slow down and watch for an indication that they will enter the road.",
+               "Put your headlights on high beam so they can see you better.",
+               "Increase your speed to avoid the chance of hitting them."
+            ],
+            "imageName":null,
+            "qnID":"11",
+            "qn":"When driving in an area where there are many pedestrians (e.g. a bus stop) it is important to -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Watch for pedestrians, animals and car doors opening.",
+               "Drive in the right-hand lane, if there is one.",
+               "Stay as close as possible to the vehicle in front of you."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"When driving past parked vehicles, which of the following is it most important to do -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Stop and help aged pedestrians across the road.",
+               "Drive in the middle of the road to avoid splashing pedestrians on the footpath.",
+               "Watch out for pedestrians, who may hurry and take risks."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"When driving in wet weather, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "The green light is due. Do not proceed until the green light appears.",
+               "You may carefully drive through the crossing, if there is no risk of colliding with pedestrians.",
+               "The traffic lights are out of order and pedestrians must not use the crossing."
+            ],
+            "imageName":"dkt/PD015.png",
+            "qnID":"14",
+            "qn":"At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stop signal, it means -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must give way to pedestrians if there is any danger of hitting them.",
+               "Pedestrians have no special rights on the roads.",
+               "You must give way to pedestrians only at marked crossings."
+            ],
+            "imageName":"dkt/PD016.png",
+            "qnID":"15",
+            "qn":"Which statement is true?",
+            "answer":"1"
+         }
+          
+      ]
+   }
+}

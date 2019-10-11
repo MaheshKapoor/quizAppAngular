@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on General Knowledge",
+         "previousSet":"DKTNSW00E181003GK3",
+         "nextSet":"DKTNSW00E181003GK4",
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Go to the RTA and ask them to renew your registration and tell them you will soon get the car fixed",
+               "You have seven days to have the car repaired, after which the RTA considers it to be unregistered.",
+               "After today you must not drive the car until it has been repaired, passed another inspection and registered."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"Your car registration expires today. You have your car inspected for registration renewal but it fails the inspection. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "No, it's illegal to drive a car with a smooth tyre even if it is the spare.",
+               "Yes, but you must get the puncture fixed within 24 hours.",
+               "Yes, if the tyre is correctly inflated and the side walls of the tyre are in good condition."
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"You buy a car and find that the spare tyre is smooth; the tread is only just visible. If you get a puncture will it be legal to drive the car with a smooth spare tyre?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Ask your friend for a cushion to place behind your back.",
+               "Put up with the discomfort; you should not adjust another person's seat.",
+               "Adjust the seat forward so it's right for you."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"You borrow a friend's car and find that the position of the driver's seat puts you sitting a long way from the steering wheel and controls. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You can continue to drive at 100 km/h if there are fences to stop farm animals from getting on the road.",
+               "Slow down to a speed that will allow you to stop to avoid crashing into farm animals on the road.",
+               "For the next 5 kilometres you must not exceed 60 km/h unless you pass an end farm animals speed limit sign."
+            ],
+            "imageName":"dkt/CG070.png",
+            "qnID":"4",
+            "qn":"You hold an unrestricted licence and are driving at 100 km/h in the country and pass this sign. What should you do?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Indicating in this situation is optional. Give a right hand signal if you think it will help other road users.",
+               "You should not indicate at all because it might confuse other drivers.",
+               "Indicate with your right hand signal the same as any other right hand turn."
+            ],
+            "imageName":"dkt/CG071.png",
+            "qnID":"5",
+            "qn":"You are turning right from one of two right turn only lanes. How should you use your indicators?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Yes, providing you use the gravel joining roads.",
+               "Yes, any time.",
+               "No, not at any time."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"You are driving on a freeway and realise you forgot something at home. You want to go back for it. Can you do a U-turn on this road?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Ask an older person sitting nearby to watch the child.",
+               "Take the child with you.",
+               "Leave the child in the car."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"You have a six year old child with you in your car. You have just parked so you can collect a prescription from the chemist. You should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Put the handbrake on and put the transmission in 'P' (park).",
+               "Park only on flat areas.",
+               "Turn the wheels away from the kerb."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"You want to leave your automatic car parked on a street sloping uphill. You should -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Yes, but only in daylight hours.",
+               "Yes.",
+               "No, not at any time."
+            ],
+            "imageName":"dkt/CG080.png",
+            "qnID":"9",
+            "qn":"You have just passed this sign. Can you park on this road ?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "At least two metres from the dividing lines.",
+               "At least three metres from the dividing lines.",
+               "One metre from the dividing lines."
+            ],
+            "imageName":"dkt/CG082.png",
+            "qnID":"10",
+            "qn":"Where there are double dividing lines, you may park -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "No, only N is correct.",
+               "Yes. M, N and O are all legal.",
+               "Yes, N is best but M and O are quite legal."
+            ],
+            "imageName":"dkt/CG083.png",
+            "qnID":"11",
+            "qn":"If there are no signs or markings to advise you, can you choose any of these methods of parking?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Where there are markings or a sign indicating angle park.",
+               "Where the road is very wide.",
+               "Where there is plenty of room from the centre line."
+            ],
+            "imageName":"dkt/CG084.png",
+            "qnID":"12",
+            "qn":"You should angle park -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Maintain your speed, keeping to the limit.",
+               "Sound your horn to warn the other driver.",
+               "Slow down and pay extra attention."
+            ],
+            "imageName":"dkt/CG086.png",
+            "qnID":"13",
+            "qn":"This bridge has only just enough room for two vehicles. As you come close to it you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Mirror B.",
+               "Mirror A.",
+               "Mirror C."
+            ],
+            "imageName":"dkt/CG086.png",
+            "qnID":"14",
+            "qn":"Which side mirror is adjusted best?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "The building blocks a good view of the side street.",
+               "Intersections cause crashes.",
+               "It looks a bit tricky."
+            ],
+            "imageName":"dkt/CG088.png",
+            "qnID":"15",
+            "qn":"You should be particularly careful at this intersection because -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Go slower because the slower you go the safer you are.",
+               "Overtake the bike quickly and speed up to stop the other driver becoming aggressive",
+               "Resist the pressure, stay calm and overtake the cyclist when it is safe."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"You are in busy traffic and slow down for a bicycle rider. A driver behind you beeps a horn and pressures you to go around the bike and drive faster. How should you respond?",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Slow down to the speed of other traffic.",
+               "Move into the left lane.",
+               "Continue at the same speed."
+            ],
+            "imageName":"dkt/CG090.png",
+            "qnID":"17",
+            "qn":"You hear the siren of an ambulance approaching you from behind. You should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Move to the right and make way for the ambulance.",
+               "Turn into a driveway on the right hand side of the road.",
+               "Move to the left and make way for the ambulance."
+            ],
+            "imageName":"dkt/CG091.png",
+            "qnID":"18",
+            "qn":"You are driving along this road. You hear an ambulance's siren and see the ambulance in your mirror. You should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Stop and let the fire truck overtake you.",
+               "Continue and make the turn because you have the right of way",
+               "Speed up to beat the fire truck."
+            ],
+            "imageName":"dkt/CG092.png",
+            "qnID":"19",
+            "qn":"You are about to make a right hand turn at this intersection. You have the green light. You hear a siren and then see that a fire truck will soon overtake you. You should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "You only have to obey the signs during working hours.",
+               "You only have to obey the signs when there are workers about.",
+               "You must obey the signs that are displayed at all times."
+            ],
+            "imageName":"dkt/CG093.png",
+            "qnID":"20",
+            "qn":"When you come across roadworks -",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

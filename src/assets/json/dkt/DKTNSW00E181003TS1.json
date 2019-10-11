@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Traffic Signal",
+         "previousSet":"DKTNSW00E181003TS1",
+         "nextSet":"DKTNSW00E181003TS2",
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Not drive beyond the sign.",
+               "Drive with caution.",
+               "Not pass another vehicle."
+            ],
+            "imageName":"dkt/SI001.png",
+            "qnID":"1",
+            "qn":"When you see this sign you should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+				"Drive carefully, roundabout ahead.",
+				"Turn left at next street.",
+                "Pass to the left of the sign."
+            ],
+            "imageName":"dkt/SI002.png",
+            "qnID":"2",
+            "qn":"This sign means you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "One way traffic ahead.",
+               "All right lane traffic must turn right at the next intersection",
+               "Right lane traffic may turn right or go straight ahead at the next intersection."
+            ],
+            "imageName":"dkt/SI003.png",
+            "qnID":"3",
+            "qn":"What does this sign mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "No turns permitted.",
+               "Traffic travels in each direction.",
+               "Double lane bridge ahead."
+            ],
+            "imageName":"dkt/SI004.png",
+            "qnID":"4",
+            "qn":"What does this sign mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must give way to traffic on your right",
+               "You may turn to the right.",
+               "You must not turn to the right."
+            ],
+            "imageName":"dkt/SI006.png",
+            "qnID":"5",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You must not turn to the left or the right.",
+               "You must not turn to the left.",
+               "You must not turn to the right."
+            ],
+            "imageName":"dkt/SI007.png",
+            "qnID":"6",
+            "qn":"What does this sign mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "All traffic must travel in the direction of the arrow.",
+               "Follow the arrow unless you are turning right",
+               "Road curves to the left ahead."
+            ],
+            "imageName":"dkt/SI008.png",
+            "qnID":"7",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "One lane bridge ahead, slow down.",
+               "No left turn.",
+               "You may travel only in the direction in which the arrow is pointing."
+            ],
+            "imageName":"dkt/SI009.png",
+            "qnID":"8",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You can go faster than 60 km/h",
+               "You are not to exceed 60 km/h.",
+               "You are on Highway 60."
+            ],
+            "imageName":"dkt/SI013.png",
+            "qnID":"9",
+            "qn":"What does this sign mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must not drive faster than 100 km/h.",
+               "You must drive faster than 100 km/h.",
+               "The sign applies to truck drivers only, cars can travel at any speed"
+            ],
+            "imageName":"dkt/SI014.png",
+            "qnID":"10",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drive carefully, and watch out for kangaroos entering the road for the next 30 km.",
+               "Zoo 30 km ahead.",
+               "Nature reserve 30 km ahead."
+            ],
+            "imageName":"dkt/SI016.png",
+            "qnID":"11",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Tollway ahead, be prepared to stop and pay toll.",
+               "No through road ahead, slow down.",
+               "T-intersection ahead. If you are on the terminating road, you must give way to all vehicles approaching from your right or left."
+            ],
+            "imageName":"dkt/SI017.png",
+            "qnID":"12",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Must not stop here at any time.",
+               "Must not stop your vehicle at the kerb during the times shown",
+               "May stop at any time to pick up or drop off passengers."
+            ],
+            "imageName":"dkt/SI018.png",
+            "qnID":"13",
+            "qn":"When you see this sign you -",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "If there is a footbridge for pedestrians ahead.",
+               "On the approach to a bridge which has room for only two vehicles, slow down and proceed with caution.",
+               "When a bridge is not safe to drive on."
+            ],
+            "imageName":"dkt/SI019.png",
+            "qnID":"14",
+            "qn":"You are most likely to find this sign -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Road under repair, drive carefully.",
+               "Sharp turns in the road ahead.",
+               "Road may be slippery when wet, slow down and drive carefully."
+            ],
+            "imageName":"dkt/SI020.png",
+            "qnID":"15",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "As you approach a winding road, slow down and drive with caution.",
+               "If there is a steep hill ahead.",
+               "If an unsealed road is ahead"
+            ],
+            "imageName":"dkt/SI021.png",
+            "qnID":"16",
+            "qn":"You are most likely to find this sign -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Police station ahead.",
+               "Do not drive with your lights on high beam.",
+               "A sharp depression in the road is ahead, be prepared, slow down."
+            ],
+            "imageName":"dkt/SI022.png",
+            "qnID":"17",
+            "qn":"What does this sign mean?",
+            "answer":"3"
+         },
+        {
+          "options":[
+            "No right turn allowed.",
+            "Turn around and go back, you are going the wrong way.",
+            "Sharp bend to the right ahead, slow down and drive carefully."
+          ],
+          "imageName":"dkt/SI024.png",
+          "qnID":"18",
+          "qn":"What does this sign mean?",
+          "answer":"3"
+        },
+        {
+          "options":[
+            "Children may be crossing the road ahead, slow down and be prepared to make a safe stop.",
+            "There is an athletic field ahead.",
+            "Pedestrians are not allowed."
+          ],
+          "imageName":"dkt/SI025.png",
+          "qnID":"19",
+          "qn":"You are most likely to find this sign, where -",
+          "answer":"1"
+        },
+        {
+          "options":[
+            "Cemetery ahead.",
+            "Hospital ahead, drive carefully",
+            "Crossroads ahead, reduce your speed and watch out for other traffic and pedestrians."
+          ],
+          "imageName":"dkt/SI026.png",
+          "qnID":"20",
+          "qn":"What does this sign mean?",
+          "answer":"3"
+        }
+          
+      ]
+   }
+}

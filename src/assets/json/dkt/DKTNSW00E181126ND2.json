@@ -1,0 +1,244 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT Questions on Negligent Driving",
+         "previousSet":"DKTNSW00E181126ND2",
+         "nextSet":null,
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Slow down while the other vehicle is on your right.",
+               "Keep the same speed.",
+               "Speed up while the other vehicle is on your right."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"Another vehicle is overtaking you on your right. You commit a traffic offence if you -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Take your vehicle from you and keep it stored for up to three months.",
+               "Take your vehicle to the local police station and keep it till the following morning.",
+               "Take your vehicle away and sell it at an auction"
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"If the police suspect you may have been involved in street or drag racing, they may take immediate action. Which one of the following is correct? The police may -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "You will not be able to register your vehicle again.",
+               "You will have to pay for the storage of your vehicle.",
+               "Your vehicle may be taken away and sold."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"If you are convicted a second time for street or drag racing, which one of the following penalties applies?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You will be given a letter of warning and fined.",
+               "You will get three demerit points and a large fine.",
+               "You will be fined a small amount and get one demerit point."
+            ],
+            "imageName":null,
+            "qnID":"4",
+            "qn":"If you have been convicted for street or drag racing, which of these penalties may apply?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Accelerate quickly to get past.",
+               "Immediately brake to a stop.",
+               "Check your mirror and move back in behind the car."
+            ],
+            "imageName":"dkt/ND044.png",
+            "qnID":"5",
+            "qn":"When you have started to overtake the car, you notice that its right indicator is flashing. You should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Not receive any penalty as road works speed limits are only advisory",
+               "Receive a warning letter in the mail.",
+               "Be liable for a speeding fine and loss of demerit points."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"If you are caught speeding through a road work zone you will -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Maintain current speed if the road is clear.",
+               "Slow down and look out for hazards.",
+               "Sound your horn."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"When driving through temporary road work you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Give way to bicycles, vehicles and pedestrians.",
+               "Stop and give way only to vehicles.",
+               "Blow your horn to warn other road users."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"When entering or leaving a driveway you must -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Only for 10 km/h or more over the speed limit.",
+               "No",
+               "Yes"
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"Will a P1 licence be suspended for any speeding offence?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn, move out andovertake.",
+               "Check to see it is safe, change gear if necessary, and signal your intention before moving out.",
+               "Signal and slow down so you will have more room to overtake."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"Before beginning to overtake another vehicle, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Must let the long vehicle turn first.",
+               "Maymove to the left-hand side of the road and pass the long vehicle.",
+               "May pass the truck because it cannot turn leftfrom the middle lane."
+            ],
+            "imageName":"dkt/ND015.png",
+            "qnID":"11",
+            "qn":"You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The same as you would another car, with safety.",
+               "Drive as close as possible to thecyclist so he or she will move over and let you pass",
+               "Sound your horn to warn the cyclistto get off the road."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"How should you overtake a pedal cyclist?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Flash your lights at the overtaking vehicle.",
+               "Speed up and not let the vehicle back in.",
+               "Prepare to slow down to allow room."
+            ],
+            "imageName":"dkt/ND020.png",
+            "qnID":"13",
+            "qn":"If an overtaking vehicle signals that it must move in, in front of you, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn.",
+               "Make sure it is safe and the way is clear of oncoming traffic.",
+               "Increase your speed."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"The first thing you should do before overtaking is -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Be sent to prison.",
+               "Be restricted to driving an automatic vehicle.",
+               "Have a personal speed limit imposed on you."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver's licence. You may also -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "You could be given demerit points only.",
+               "You could only be fined and given demerit points.",
+               "You could lose your licence and may be sent to prison."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"If you are convicted of dangerous driving -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Driven too slowly.",
+               "Crossed an unbroken lane line.",
+               "Changed lanes unnecessarily"
+            ],
+            "imageName":"dkt/ND031.png",
+            "qnID":"17",
+            "qn":"You are travelling in the left lane and wish to turn right at the intersection. You move to the right lane and a driver behind sounds their horn at you. What have you done wrong?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Overtaking on the kerb side.",
+               "Not signalling to change lanes.",
+               "Crossing an unbroken line at a curve."
+            ],
+            "imageName":"dkt/ND032.png",
+            "qnID":"18",
+            "qn":"What is this driver doing that is negligent and illegal?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Move into the left lane.",
+               "Keep your position in this lane.",
+               "Accelerate away from the other vehicle and keep driving in this lane."
+            ],
+            "imageName":"dkt/ND033.png",
+            "qnID":"19",
+            "qn":"The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "When there is no other traffic around.",
+               "Whenever you want to.",
+               "Only when overtaking or turning right."
+            ],
+            "imageName":"dkt/ND034.png",
+            "qnID":"20",
+            "qn":"The speed limit on this road is 100 km/h. When can you use the right lane?",
+            "answer":"3"
+         }
+      ]
+   }
+}

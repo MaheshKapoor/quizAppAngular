@@ -1,0 +1,256 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on General Knowledge",
+         "previousSet":"DKTNSW00E181003GK2",
+         "nextSet":"DKTNSW00E181003GK3",
+         "numberOfQuestion":"21",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+	   {
+        "qnID": "1",
+        "imageName": null,
+        "qn": "What must you do if you miss your exit on a freeway?",
+        "options": [
+          "Continue until you reach the next appropriate exit.",
+          "Stop, and reverse back along the freeway to the exit you missed",
+          "Stop immediately and turn around."
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": "2",
+        "imageName": null,
+        "qn": "As you leave a freeway, which of the following should you check?",
+        "options": [
+          "Fuel gauge.",
+          "Your speed.",
+          "Windscreen wipers."
+        ],
+        "answer": "2"
+      },
+      {
+        "qnID": "3",
+        "imageName": null,
+        "qn": "When can a private car travel in a lane marked by this sign?",
+        "options": [
+          "When carrying at least two passengers.",
+          "Only within 100 metres of making a turn.",
+          "Only to overtake another vehicle."
+        ],
+        "answer": "2"
+      },
+	  {
+        "qnID": "4",
+        "imageName": null,
+        "qn": "Are you permitted to drive a car towing more than one trailer?",
+        "options": [
+          "Yes, provided you have held a licence for two years.",
+          "Yes, if the combined length of vehicle and trailers does not exceed 15 metres.",
+          "No, not at all."
+        ],
+        "answer": "3"
+      },
+      {
+        "qnID": "5",
+        "imageName": null,
+        "qn": "What must you do when you are towing a caravan to help other vehicles overtake?",
+        "options": [
+          "Keep at least 60 metres behind heavy vehicles or other vehicles towing caravans.",
+          "Drive at least 25 km/h below the speed limit.",
+          "Stop immediately and let the faster vehicle overtake."
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": "6",
+        "imageName": null,
+        "qn": "Are you permitted to tow a caravan with a person riding in the caravan?",
+        "options": [
+          "Make sure you have a street directory, so you know where you are going.",
+          "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends.",
+          "Have a large meal and a cup of coffee"
+        ],
+        "answer": "2"
+      },
+      {
+            "options":[
+               "Have a large meal and a cup of coffee.",
+               "Make sure you have a street directory, so you know where you are going.",
+               "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Before driving a long distance at fast speed or carrying a full car load, you should -",
+            "answer":"3"
+       },
+	  {
+        "qnID": "8",
+        "imageName": null,
+        "qn": "If an oncoming vehicle crosses the centre line and is coming straight at you and you cannot stop, you should -",
+        "options": [
+          "Drive onto the wrong side of the road and hope the other vehicle does not do the same.",
+          "Slow down and hope that the driver will turn away.",
+          "Brake, look for room to the left, sound your horn and flash your lights."
+        ],
+        "answer": "3"
+      },
+         {
+            "options":[
+               "Only need to report the accident to the Police if someone was injured.",
+               "Must report the accident to the Police Station nearest to where the accident happened within 24 hours.",
+               "Do not need to report the accident to the Police."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"If you are involved in an accident where your vehicle needs to be towed away and the Police does not attend the crash scene, you -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must let them see your licence, take details, and give the name and address of the vehicle's owner.",
+               "No details at all until you have contacted your insurance company",
+               "Only your name and address details if a Policeman asks for them."
+            ],
+            "imageName":"dkt/CG045.png",
+            "qnID":"10",
+            "qn":"If your vehicle is involved in an accident (regardless of the damage), what details must you give, to the other driver(s), if asked?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Report the accident to Police within seven days.",
+               "Only call the Police if the accident also resulted in over $500 worth of property damage.",
+               "Render every assistance and take immediate steps to have an ambulance notified. Then call the Police."
+            ],
+            "imageName":"dkt/CG046.png",
+            "qnID":"11",
+            "qn":"If a vehicle you are driving is involved in an accident and a person is injured, what must you do after stopping?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Trains are fast, heavy and cannot stop quickly.",
+               "Pedestrians might be crossing.",
+               "Car brakes often fail."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"Stop signs or flashing lights at railway crossings should always be obeyed, because -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "You are towing a caravan.",
+               "Traffic is blocking the other side.",
+               "A station is nearby."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"You should not drive across a railway level crossing when -",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "You are about to stop.",
+               "You intend to slow down.",
+               "You intend to move to the right, at any time."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"You should use your right-hand indicator when",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Stop and check the traffic behind you on the entrance.",
+               "Look for a large enough break in the traffic and adjust your speed so as to fit into the traffic flow.",
+               "Sound your horn, turn on your indicator lights and move onto the freeway."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"When merging onto the freeway from the entrance, you should-",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Slow down and watch for traffic controllers and instructions.",
+               "Stop immediately and wait for instructions.",
+               "Maintain the same speed."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"If you see a sign indicating road repairs are going on, you should -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Bicycle riders must ride along the yellow line.",
+               "You may at any time, park along this part of the road for 1 hour only.",
+               "Clearway restrictions apply - you must not stop during the clearway hours."
+            ],
+            "imageName":null,
+            "qnID":"17",
+            "qn":"You see a broken yellow line painted on the roadway adjacent to the kerb. What does it mean?",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Speed up to pass the horse.",
+               "Slow down and give them plenty of room.",
+               "Sound your horn to warn the rider."
+            ],
+            "imageName":null,
+            "qnID":"18",
+            "qn":"If you see a horse and rider on the road what should you do?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "A small bus licence.",
+               "A heavy rigid vehicle licence.",
+               "A car licence."
+            ],
+            "imageName":null,
+            "qnID":"19",
+            "qn":"A friend lends you a van that has seats for ten passengers. What type of licence do you need to drive this type of vehicle?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Once you become aware of the condition you must notify the RTA.",
+               "Hand your licence in at the nearest police station.",
+               "Tell your doctor and let him or her notify the RTA."
+            ],
+            "imageName":null,
+            "qnID":"20",
+            "qn":"What are you required to do if you develop a serious medical condition that could affect your driving?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Borrow the car but only drive on streets where the car will not be a danger to others.",
+               "Borrow the car, but always drive it 10 Km/h below the speed limit.",
+               "Before you borrow the car check the defect notice to make sure it is legal to drive the car."
+            ],
+            "imageName":null,
+            "qnID":"21",
+            "qn":"A friend lends you his car. It is very noisy and blows a lot of smoke. He tells you the vehicle has been given a defect notice but it's still OK to drive it. What should you do?",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

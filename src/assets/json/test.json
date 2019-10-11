@@ -1,0 +1,78 @@
+{
+  "data": {
+    "extraDetails": {
+      "quizTitle":"Development mode ",
+      "previousSet":"DKTNSW00E181003001",
+      "nextSet":"DKTNSW00E181003001",
+      "numberOfQuestion":"20",
+      "referralLink":[
+        {"title":"Driving knowledge Test Simulation ",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."},
+        {"title":"NSW Government Website for DKT",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."}]
+    },
+    "questions": [
+      {
+        "qnID": 1,
+        "imageName": null,
+        "qn": "What will happen if you are caught cheating on the knowledge test?",
+        "options": [
+          "You will never be allowed to take another test",
+          "Nothing, there is no penalty",
+          "You will not be allowed to take another test for 6 weeks"
+        ],
+        "answer": "3"
+      },
+      {
+        "qnID": 2,
+        "imageName": null,
+        "qn": "What will happen if you offer a testing officer a bribe to pass your driving test?",
+        "options": [
+          "Action will be taken against you. The penalties are severe and include fines and imprisonment.",
+          "Only the testing officer will be investigated.",
+          "Nothing, there is no penalty"
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": 3,
+        "imageName": null,
+        "qn": "What will happen if a testing officer asks you for a bribe to pass your driving test and you give it to him or her?",
+        "options": [
+          "Action will be taken against all involved. The penalties are severe and include fines and imprisonment.",
+          "Nothing, there is no penalty.",
+          "Only the testing officer will be investigated."
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": 4,
+        "imageName": null,
+        "qn": "Can a P1 or P2 provisional driver legally instruct a learner driver?",
+        "options": [
+          "Yes, provided the provisional driver has held a P2 licence for more than 6 months",
+          "Yes, provided L and P1 or P2 plates are displayed",
+          "No"
+        ],
+        "answer": "3"
+      },
+      {
+        "qnID": 5,
+        "imageName": null,
+        "qn": "To progress to a P2 provisional licence, a P1 provisional driver must hold a P1 licence for a minimum period of -",
+        "options": [
+          "18 months",
+          "12 months",
+          "10 months"
+
+        ],
+        "answer": "2"
+      }
+    ]
+  }
+}
+
+
+

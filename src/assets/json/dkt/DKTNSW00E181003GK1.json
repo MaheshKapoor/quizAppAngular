@@ -1,0 +1,246 @@
+{
+  "data": {
+    "extraDetails": {
+      "quizTitle":"DKT questions on General Knowledge",
+      "previousSet":"DKTNSW00E181003GK1",
+      "nextSet":"DKTNSW00E181003GK2",
+      "numberOfQuestion":"20",
+      "referralLink":[
+        {"title":"Driving knowledge Test Simulation ",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."},
+        {"title":"NSW Government Website for DKT",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."}]
+    },
+    "questions": [
+      {
+        "qnID": "1",
+        "imageName": null,
+        "qn": "What will happen if you are caught cheating on the knowledge test?",
+        "options": [
+          "You will never be allowed to take another test",
+          "Nothing, there is no penalty",
+          "You will not be allowed to take another test for 6 weeks"
+        ],
+        "answer": "3"
+      },
+      {
+        "qnID": "2",
+        "imageName": null,
+        "qn": "What will happen if you offer a testing officer a bribe to pass your driving test?",
+        "options": [
+          "Action will be taken against you. The penalties are severe and include fines and imprisonment.",
+          "Only the testing officer will be investigated.",
+          "Nothing, there is no penalty"
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": "3",
+        "imageName": null,
+        "qn": "What will happen if a testing officer asks you for a bribe to pass your driving test and you give it to him or her?",
+        "options": [
+          "Action will be taken against all involved. The penalties are severe and include fines and imprisonment.",
+          "Nothing, there is no penalty.",
+          "Only the testing officer will be investigated."
+        ],
+        "answer": "1"
+      },
+      {
+        "qnID": "4",
+        "imageName": null,
+        "qn": "Can a P1 or P2 provisional driver legally instruct a learner driver?",
+        "options": [
+          "Yes, provided the provisional driver has held a P2 licence for more than 6 months",
+          "Yes, provided L and P1 or P2 plates are displayed",
+          "No"
+        ],
+        "answer": "3"
+      },
+      {
+        "qnID": "5",
+        "imageName": null,
+        "qn": "To progress to a P2 provisional licence, a P1 provisional driver must hold a P1 licence for a minimum period of -",
+        "options": [
+          "18 months",
+          "12 months",
+          "10 months"
+        ],
+        "answer": "2"
+      },
+		{
+        "qnID": "6",
+        "imageName": null,
+        "qn": "If one or two of your wheels run off the edge of the roadway, you should -",
+        "options": [
+          "Increase your speed and drive back on the road",
+          "Slow down quickly by braking hard.",
+          "Slow down gradually and ease back onto the road."
+        ],
+        "answer": "3"
+      },	  
+      {
+        "qnID": "7",
+        "imageName": null,
+        "qn": "If there are no lanes marked on the road, you should drive -",
+        "options": [
+          "Anywhere on your side of the road.",
+          "Near to the left-hand side of the road.",
+          "Along the middle of the road."
+        ],
+        "answer": "2"
+      },
+	  {
+            "options":[
+               "Yes, if turn signals are fitted to your vehicle.",
+               "No, if turning left from a lane marked left turn only.",
+               "No, if arrows are marked on the roadway."
+            ],
+            "imageName":"dkt/CG010.png",
+            "qnID":"8",
+            "qn":"If you intend to turn left, are you required to give a signal?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Do not overtake a vehicle travelling in the same direction.",
+               "Stop at all times before crossing the bridge and only give way to pedestrians who may be crossing.",
+               "Slow down and be prepared to give way to vehicles travelling in the opposite direction."
+            ],
+            "imageName":"dkt/CG013.png",
+            "qnID":"9",
+            "qn":"What is meant by this sign on or near a bridge?",
+            "answer":"3"
+         }, 
+		{
+            "options":[
+               "Sound your horn to warn other drivers",
+               "Unbuckle your seat belt so you can reverse as quickly as possible.",
+               "Take care and never reverse for a greater distance and time than is necessary."
+            ],
+            "imageName":"dkt/CG014.png",
+            "qnID":"10",
+            "qn":"When reversing, you should -",
+            "answer":"3"
+      },
+      {
+        "qnID": "11",
+        "imageName": null,
+        "qn": "How close can you park to another vehicle when parked parallel to the kerb?",
+        "options": [
+          "You must leave at least 3 metres front and back.",
+          "You must leave at least 2 metres from the front only.",
+          "You must leave at least 1 metre front and back."
+        ],
+        "answer": "3"
+      },
+      
+      {
+        "qnID": "12",
+        "imageName": null,
+        "qn": "Where there is parallel kerbside parking, are you allowed to double-park alongside a parked vehicle?",
+        "options": [
+          "Yes, but for no more than 30 minutes",
+          "Yes, in daylight hours",
+          "No, not at any time."
+        ],
+        "answer": "3"
+      },
+	  {
+        "qnID": "13",
+        "imageName": null,
+        "qn": "Do you have any responsibilities when opening a vehicle door on a roadway?",
+        "options": [
+          "No, any following traffic must stop if the door interferes with its progress",
+          "Yes, you must not open a door if you are likely to cause danger to road users or impede traffic.",
+          "No, there is no regulation to cover this situation."
+        ],
+        "answer": "2"
+      },
+	  
+	  {
+        "qnID": "14",
+        "imageName": null,
+        "qn": "Are you permitted to park on a median strip or traffic island?",
+        "options": [
+           "Yes, but for no more than 30 minutes.",
+           "No, not at any time.",
+          "Yes, in daylight hours."
+        ],
+        "answer": "2"
+      },
+	  {
+        "qnID": "15",
+        "imageName": "dkt/CG028.png",
+        "qn": "Are you permitted to park on a median strip or traffic island?",
+        "options": [
+           "Yes, provided no taxis are using the area.",
+           "No, not at any time.",
+          "Yes, if you are carrying two or more passengers."
+        ],
+        "answer": "2"
+      },
+      {
+        "qnID": "16",
+        "imageName": null,
+        "qn": "When driving at sunset or dawn on a dark day, what should you do?",
+        "options": [
+          "Turn on your lights on low beam.",
+          "Keep your sunglasses on to cut down headlight glare.",
+          "Turn on your hazard warning lights"
+        ],
+        "answer": "1"
+      },
+    
+      {
+        "qnID": "17",
+        "imageName": null,
+        "qn": "You are driving at night with your headlights on high beam. When should you dip your headlights?",
+        "options": [
+          "When within 200 metres of an oncoming vehicle only.",
+          "When within 200 metres of the vehicle ahead or an oncoming one.",
+          "Never, you are allowed to drive with your lights on high beam at all times."
+        ],
+        "answer": "2"
+      },
+	  {
+        "qnID": "18",
+        "imageName": "dkt/CG031.png",
+        "qn": "You are driving in a 60 km/h zone, with only one lane for traffic in your direction. You see a bus ahead (with this sign displayed on the rear) signalling its intention to pull out from a bus stop, you should -",
+        "options": [
+          "Continue at your normal speed as the bus does not have priority.",
+          "Sound your horn to stop the bus from pulling out.",
+          "Slow down, and give way to the bus as it has priority."
+        ],
+        "answer": "3"
+      },
+	  {
+        "qnID": "19",
+        "imageName": null,
+        "qn": "Is it an offence to obstruct clear vision of your number plates?",
+        "options": [
+          "No, you are allowed to cover your number plates if you want to.",
+          "Yes, at any time.",
+          "Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate."
+        ],
+        "answer": "2"
+      },
+      {
+        "qnID": "20",
+        "imageName": null,
+        "qn": "Before driving on a freeway, which of the following should you do?",
+        "options": [
+          "Take something to calm your nerves before driving.",
+          "Make sure your vehicle has enough fuel, oil, water and the correct tyre pressure.",
+          "Take your street directory in case you get lost."
+        ],
+        "answer": "2"
+      } 
+	  
+    ]
+  }
+}
+
+
+

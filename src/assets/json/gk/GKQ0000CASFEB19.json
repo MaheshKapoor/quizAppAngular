@@ -1,0 +1,80 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Current Affair subscription: February 2019",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"5",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Yes",
+          "No",
+          "May be"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"Is India a member of OIC organization (Organisation of Islamic Cooperation)?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Satoshi Nakamoto",
+          "Xi Jinping",
+          "Narender Modi"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"Who invented digital currency bitcoin?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Roger Federer",
+          "Rafael Nadal",
+          "Novak Djokovic"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"Who won Australian Open men's championship 2019?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Caracas",
+          "Beijing",
+          "Arun Jaitley"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"What is the capital of Venezuela?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Indira Gandhi",
+          "Pratibha Devisingh Patil",
+          "Nirmala Sitharaman"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"Who is the first female president Of India?",
+        "answer":"2"
+      }
+
+    ]
+  }
+}

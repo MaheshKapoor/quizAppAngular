@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Intersections",
+         "previousSet":"DKTNSW00E181127I02",
+         "nextSet":"DKTNSW00E181127I03",
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Slow down, look both ways for trains and be prepared to stop if necessary.",
+               "Increase your speed to avoid any approaching trains.",
+               "Continue across at normal speed, do not slow down."
+            ],
+            "imageName":"dkt/IN029.png",
+            "qnID":"1",
+            "qn":"When approaching a railway level crossing displaying this sign, you must -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Speed up and cross the tracks quickly.",
+               "Slow down, be ready to stop and give way if there is danger of collision.",
+               "Stop completely at all times."
+            ],
+            "imageName":"dkt/IN030.png",
+            "qnID":"2",
+            "qn":"Even if the signal at a railway level crossing does not indicate that a train is coming, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Enter the intersection, but keep away from the Light Rail vehicle.",
+               "Change lanes before crossing the intersection",
+               "Wait until the intersection is clear."
+            ],
+            "imageName":"dkt/IN034.png",
+            "qnID":"3",
+            "qn":"You come to an intersection in Sydney with a Light Rail vehicle about to enter. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Immediately after the traffic lights turn green.",
+               "Only when there is room for your vehicle on the other side.",
+               "When the vehicle behind signals you to go."
+            ],
+            "imageName":"dkt/IN035.png",
+            "qnID":"4",
+            "qn":"You approach an intersection in busy traffic and want to go straight ahead. The traffic lights turn green. When are you permitted to enter the intersection?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "You do not hold up the traffic behind you.",
+               "You have the car in the right gear.",
+               "You do not block the intersection."
+            ],
+            "imageName":"dkt/IN037.png",
+            "qnID":"5",
+            "qn":"You are at a busy intersection with slow moving traffic and want to go straight ahead. When the traffic lights change to green you should make sure that -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drive into the intersection and then turn left.",
+               "Drive through the intersection slowly and hope that it will clear before the lights change.",
+               "Wait until there is enough room for your vehicle to cross the intersection completely."
+            ],
+            "imageName":"dkt/IN038.png",
+            "qnID":"6",
+            "qn":"The traffic on the other side of this intersection has stopped. You are in the car shown and want to cross the intersection. The lights are green. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Red light cameras take photographs of vehicles that cross intersections when the lights are yellow.",
+               "Red light cameras take photographs of vehicles that enter intersections when the lights are red.",
+               "Red light cameras take photographs of vehicles that speed through intersections."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Which statement is correct?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Continue through the intersection.",
+               "Accelerate as hard as you can.",
+               "Brake immediately to a stop."
+            ],
+            "imageName":"dkt/IN040.png",
+            "qnID":"8",
+            "qn":"As you drive into an intersection, the lights turn to yellow. You should -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Pedestrians are not allowed in this area at this time.",
+               "Pedestrians who have started crossing must go back to the footpath.",
+               "Pedestrians must not start to cross."
+            ],
+            "imageName":"dkt/IN042.png",
+            "qnID":"9",
+            "qn":"When these lights are flashing it means -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Move into the right hand lane",
+               "Give way to pedestrians still crossing.",
+               "Slowly move through the intersection turning left."
+            ],
+            "imageName":"dkt/IN043.png",
+            "qnID":"10",
+            "qn":"You wish to turn left here. The pedestrian lights are flashing red. You should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Before coming to and as near to the intersection as possible.",
+               "At least five metres before the intersection.",
+               "At the point where you can see clearly in both directions"
+            ],
+            "imageName":"dkt/IN044.png",
+            "qnID":"11",
+            "qn":"You drive up to an intersection with a stop sign. There is no painted stop line. Where should you stop?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Car B.",
+               "Car A.",
+               "Whoever arrives at the intersection first."
+            ],
+            "imageName":"dkt/IN045.png",
+            "qnID":"12",
+            "qn":"You drive up to an intersection with a stop sign in the car marked A and you wish to turn right. The car marked B facing you also has a stop sign and is indicating to turn left. Who can go first?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "As soon as you get to the intersection.",
+               "Before the car going straight ahead has passed.",
+               "After the car going straight ahead has passed."
+            ],
+            "imageName":"dkt/IN046.png",
+            "qnID":"13",
+            "qn":"This intersection does not have any traffic lights or signs. You are in car A and want to turn right. When can you go?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Enter the intersection and make the turn",
+               "Slow down and give way to car B on your right.",
+               "Sound the horn to warn the other driver."
+            ],
+            "imageName":"dkt/IN048.png",
+            "qnID":"14",
+            "qn":"At this intersection there are no signs or traffic lights. You are in the car marked A. You want to turn left. What should you do?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Both pass in front of each other.",
+               "Pass behind each other.",
+               "Choose either depending on the traffic."
+            ],
+            "imageName":"dkt/IN049.png",
+            "qnID":"15",
+            "qn":"You are in car A and want to turn right at this intersection. Car B facing you is also indicating to turn right. What path should you take?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Wait for the traffic lights to start working again.",
+               "Drive through the intersection as you normally would.",
+               "Always follow any instruction they give you."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"When police officers are at intersections giving directions you must -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Whoever gets to the intersection first.",
+               "Car B.",
+               "Car A."
+            ],
+            "imageName":"dkt/IN053.png",
+            "qnID":"17",
+            "qn":"You are in car A and are going straight ahead through the intersection. Who should give way?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Either lane.",
+               "Right lane.",
+               "Left lane."
+            ],
+            "imageName":"dkt/IN056.png",
+            "qnID":"18",
+            "qn":"You wish to turn left at this roundabout. Which lane may you use?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "After point O.",
+               "After point N.",
+               "After point M."
+            ],
+            "imageName":"dkt/IN057.png",
+            "qnID":"19",
+            "qn":"You are in the right hand lane and are planning to go straight ahead through this roundabout. When should you signal left to exit the roundabout?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Only if you think it necessary.",
+               "Left only after you enter the roundabout.",
+               "Left from start to finish."
+            ],
+            "imageName":"dkt/IN058.png",
+            "qnID":"20",
+            "qn":"When you wish to turn left at a roundabout you indicate -",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

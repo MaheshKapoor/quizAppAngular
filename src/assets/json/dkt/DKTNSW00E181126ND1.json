@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT Questions on Negligent Driving",
+         "previousSet":"DKTNSW00E181126ND1",
+         "nextSet":"DKTNSW00E181126ND2",
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Stop, if you see a car with its right-hand indicator on.",
+               "Check for parked vehicles with turn signals on, or children about to step out.",
+               "Sound your horn and flash your headlights to warn drivers not to pull out."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"When driving near parked vehicles, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "If you do not have a clear view of any approaching traffic.",
+               "If you cannot see clear road ahead for 100 metres.",
+               "If you cannot see clear road ahead for 75 metres."
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"You are approaching a hill or curve. You must not cross the centre line to overtake -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Flash your headlights to warn oncoming traffic.",
+               "Keep to the left and slow down.",
+               "Increase your speed and sound your horn."
+            ],
+            "imageName":null,
+            "qnID":"3",
+            "qn":"You are approaching the crest (top of a hill) on a narrow road, the safest procedure is to -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "The other vehicle is going slower than you.",
+               "You are travelling at more than 80 km/h.",
+               "The other vehicle is turning right."
+            ],
+            "imageName":"dkt/ND007.png",
+            "qnID":"4",
+            "qn":"On a single laned road (as shown), you must always overtake another vehicle on its right except when -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "The driver of the vehicle signals it is safe to do so.",
+               "An oncoming car appears over a hill.",
+               "You can see the overtaken vehicle in your rear vision mirror."
+            ],
+            "imageName":null,
+            "qnID":"5",
+            "qn":"When overtaking another vehicle you should NOT move back in front of it, unless -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Keep to the left and let that driver overtake you.",
+               "Speed up so that the driver will not have to overtake.",
+               "Signal the driver to remain behind you if it is travelling too fast."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"A driver behind you signals their intention to overtake your car. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Less time you need to overtake.",
+               "More distance and time you need to overtake",
+               "Closer you must get before starting to overtake."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"The faster the vehicle in front of you is travelling, the -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Wait for a better opportunity with more distance to overtake.",
+               "Put the vehicle in a lower gear and speed up.",
+               "Sound your horn to signal the driver ahead to slow down."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"If you are not sure you have enough distance to overtake a vehicle ahead, you should -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Move to the left and stop.",
+               "Brake quickly to let the other vehicle overtake.",
+               "Keep left and allow plenty of room to let the other vehicle back in."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"When being overtaken by another vehicle what should you do to help?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn, move out andovertake.",
+               "Check to see it is safe, change gear if necessary, and signal your intention before moving out.",
+               "Signal and slow down so you will have more room to overtake."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"Before beginning to overtake another vehicle, you should -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Must let the long vehicle turn first.",
+               "Maymove to the left-hand side of the road and pass the long vehicle.",
+               "May pass the truck because it cannot turn leftfrom the middle lane."
+            ],
+            "imageName":"dkt/ND015.png",
+            "qnID":"11",
+            "qn":"You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The same as you would another car, with safety.",
+               "Drive as close as possible to thecyclist so he or she will move over and let you pass",
+               "Sound your horn to warn the cyclistto get off the road."
+            ],
+            "imageName":null,
+            "qnID":"12",
+            "qn":"How should you overtake a pedal cyclist?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Flash your lights at the overtaking vehicle.",
+               "Speed up and not let the vehicle back in.",
+               "Prepare to slow down to allow room."
+            ],
+            "imageName":"dkt/ND020.png",
+            "qnID":"13",
+            "qn":"If an overtaking vehicle signals that it must move in, in front of you, you should -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Sound your horn.",
+               "Make sure it is safe and the way is clear of oncoming traffic.",
+               "Increase your speed."
+            ],
+            "imageName":null,
+            "qnID":"14",
+            "qn":"The first thing you should do before overtaking is -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Be sent to prison.",
+               "Be restricted to driving an automatic vehicle.",
+               "Have a personal speed limit imposed on you."
+            ],
+            "imageName":null,
+            "qnID":"15",
+            "qn":"If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver's licence. You may also -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "You could be given demerit points only.",
+               "You could only be fined and given demerit points.",
+               "You could lose your licence and may be sent to prison."
+            ],
+            "imageName":null,
+            "qnID":"16",
+            "qn":"If you are convicted of dangerous driving -",
+            "answer":"3"
+         },
+          {
+            "options":[
+               "Driven too slowly.",
+               "Crossed an unbroken lane line.",
+               "Changed lanes unnecessarily"
+            ],
+            "imageName":"dkt/ND031.png",
+            "qnID":"17",
+            "qn":"You are travelling in the left lane and wish to turn right at the intersection. You move to the right lane and a driver behind sounds their horn at you. What have you done wrong?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Overtaking on the kerb side.",
+               "Not signalling to change lanes.",
+               "Crossing an unbroken line at a curve."
+            ],
+            "imageName":"dkt/ND032.png",
+            "qnID":"18",
+            "qn":"What is this driver doing that is negligent and illegal?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Move into the left lane.",
+               "Keep your position in this lane.",
+               "Accelerate away from the other vehicle and keep driving in this lane."
+            ],
+            "imageName":"dkt/ND033.png",
+            "qnID":"19",
+            "qn":"The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "When there is no other traffic around.",
+               "Whenever you want to.",
+               "Only when overtaking or turning right."
+            ],
+            "imageName":"dkt/ND034.png",
+            "qnID":"20",
+            "qn":"The speed limit on this road is 100 km/h. When can you use the right lane?",
+            "answer":"3"
+         }
+          
+      ]
+   }
+}

@@ -1,0 +1,245 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT Questions on Speed Limits",
+         "previousSet":"DKTNSW00E181127SP1",
+         "nextSet":null,
+         "numberOfQuestion":"20",
+         "referralLink":[
+            {
+               "title":"Simple Arithematic questions on Multiplication",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"Simple Arithematic questions on Substraction",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "options":[
+               "Permitted only when passing another vehicle",
+               "Only permitted when other vehicles are going faster than the speed limit.",
+               "Never legally permitted."
+            ],
+            "imageName":null,
+            "qnID":"1",
+            "qn":"Driving faster than the maximum speed limit is -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "10 Km/h",
+               "20 Km/h",
+               "50 Km/h"
+            ],
+            "imageName":null,
+            "qnID":"2",
+            "qn":"A Shared Traffic Zone, where pedestrians and other road users can share the road safely has a speed limit of -",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Pull over and wait till it stops raining",
+               "Keep going at the same speed because that's how fast the signs tell you to drive.",
+               "Slow down to a speed that suits the conditions better."
+            ],
+            "imageName":"dkt/SL021.png",
+            "qnID":"3",
+            "qn":"You are driving in busy traffic in an 80 km/h zone. It begins to rain lightly. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Speed up to a little bit over the speed limit, because everyone does it.",
+               "Decide your speed yourself, based on the speed limit and the conditions.",
+               "Follow the suggestions and keep up with the traffic."
+            ],
+            "imageName":"dkt/SL022.png",
+            "qnID":"4",
+            "qn":"You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of your passengers suggests you should keep up with the other traffic. What should you do?",
+            "answer":"2"
+         },
+          {
+            "options":[
+               "Turn off the busy street and wait for traffic to clear.",
+               "Keep up with the other traffic because it's probably safe if the sign says 60 km/h.",
+               "Slow down to a speed that suits the conditions."
+            ],
+            "imageName":"dkt/SL023.png",
+            "qnID":"5",
+            "qn":"You are driving in busy traffic in a 60 km/h zone. You feel 60 km/h is a bit too fast for the conditions. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "A letter of warning and a small fine.",
+               "Fines only.",
+               "Fines, demerit points and possibly loss of licence."
+            ],
+            "imageName":null,
+            "qnID":"6",
+            "qn":"What could be the penalties for driving over the speed limit -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Only if it is turned on.",
+               "No matter what your reason is.",
+               "If you purchased it after 1998."
+            ],
+            "imageName":null,
+            "qnID":"7",
+            "qn":"Having a radar detector or jammer in your car is against the law -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "There are street lights along the road.",
+               "The road you are driving on is gravel.",
+               "There's an emergency, which mean speed limits don't apply."
+            ],
+            "imageName":null,
+            "qnID":"8",
+            "qn":"Where there are no speed limit signs, the speed limit is 100 km/h, unless -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Drive at a speed less than 40 km/h if you are not a resident of the local zone.",
+               "Only enter the street if you live in the local zone.",
+               "Not exceed 40 km/h and keep a special lookout for bicycle riders, pedestrians and children."
+            ],
+            "imageName":null,
+            "qnID":"9",
+            "qn":"When you see this sign you must -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drive at 10 km/h if there are pedestrians around.",
+               "Share this road with other people and vehicles and not exceed 10 km/h.",
+               "Reduce your speed to what you think is safe but never below 10 km/h."
+            ],
+            "imageName":null,
+            "qnID":"10",
+            "qn":"This sign means you must -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "Slow down immediately to 40 km/h or less even though other drivers want to go faster.",
+               "Drive at the speed of the other drivers because it is safer to go with the flow of traffic than slow others up.",
+               "Stay at 60 km/h because it is nearly 9.30am and the times on the school sign are only advisory."
+            ],
+            "imageName":"dkt/SL032.png",
+            "qnID":"11",
+            "qn":"It is 9.20am on a school day. You are driving at 60 km/h, the same speed as traffic around you. You pass this sign but the other cars do not slow down much. What should you do?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "The maximum speed they are allowed to drive.",
+               "The minimum speed they are allowed to drive.",
+               "The recommended speed they are allowed to drive."
+            ],
+            "imageName":"dkt/SL034.png",
+            "qnID":"12",
+            "qn":"Speed limit signs (such as the one shown) tell drivers -",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Drive at the same speed as other vehicles.",
+               "Drive through the road works zone as fast as you can to get past it.",
+               "Slow down to the new speed limit."
+            ],
+            "imageName":null,
+            "qnID":"13",
+            "qn":"If you are driving along the highway and come across road works with a reduced speed zone, you must -",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "You can go faster than 60 km/h",
+               "You are not to exceed 60 km/h.",
+               "You are on Highway 60."
+            ],
+            "imageName":"dkt/SI013.png",
+            "qnID":"14",
+            "qn":"What does this sign mean?",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "You must not drive faster than 100 km/h.",
+               "You must drive faster than 100 km/h.",
+               "The sign applies to truck drivers only, cars can travel at any speed"
+            ],
+            "imageName":"dkt/SI014.png",
+            "qnID":"15",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+         {
+            "options":[
+               "Drive carefully, and watch out for kangaroos entering the road for the next 30 km.",
+               "Zoo 30 km ahead.",
+               "Nature reserve 30 km ahead."
+            ],
+            "imageName":"dkt/SI016.png",
+            "qnID":"16",
+            "qn":"What does this sign mean?",
+            "answer":"1"
+         },
+          {
+            "options":[
+               "Drive at 10 km/h if there are pedestrians around.",
+               "Share this road with other people and vehicles and not exceed 10 km/h.",
+               "Reduce your speed to what you think is safe but never below 10 km/h."
+            ],
+            "imageName":null,
+            "qnID":"17",
+            "qn":"This sign means you must -",
+            "answer":"2"
+         },
+         {
+            "options":[
+               "For the next 5 kilometres you must not exceed 60 km/h unless you pass an end farm animals speed limit sign.",
+               "You can continue to drive at 100 km/h if there are fences to stop farm animals from getting on the road",
+               "Slow down to a speed that will allow you to stop to avoid crashing into farm animals on the road."
+            ],
+            "imageName":"dkt/CG070.png",
+            "qnID":"18",
+            "qn":"You hold an unrestricted licence and are driving at 100 km/h in the country and pass this sign. What should you do?",
+            "answer":"3"
+         },
+         {
+            "options":[
+               "Drive carefully at no more than 40 km/h.",
+               "Overtake the bus only while the lights are flashing.",
+               "Stop and wait for the lights to stop flashing"
+            ],
+            "imageName":"dkt/CG099.png",
+            "qnID":"19",
+            "qn":"When you see these lights flashing on the back of a bus, what should you do?",
+            "answer":"1"
+         },
+        {
+            "options":[
+               "Speed up to a little bit over the speed limit, because everyone does it.",
+               "Decide your speed yourself, based on the speed limit and the conditions.",
+               "Follow the suggestions and keep up with the traffic."
+            ],
+            "imageName":"dkt/SL022.png",
+            "qnID":"20",
+            "qn":"You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of your passengers suggests you should keep up with the other traffic. What should you do?",
+            "answer":"2"
+         }
+          
+      ]
+   }
+}

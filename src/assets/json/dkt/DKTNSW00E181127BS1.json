@@ -1,0 +1,58 @@
+{
+   "data":{
+      "extraDetails":{
+         "quizTitle":"DKT questions on Bicycle Safety",
+         "previousSet":"DKTNSW00E181003GK1",
+         "nextSet":null,
+         "numberOfQuestion":"3",
+         "referralLink":[
+            {
+               "title":"Driving knowledge Test Simulation ",
+               "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+               "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+            },
+            {
+               "title":"NSW Government Website for DKT",
+               "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+               "description":"Government website for all informationunder one umbrella."
+            }
+         ]
+      },
+      "questions":[
+         {
+            "qnID":"1",
+            "imageName":null,
+            "qn":"You are driving on a road with a speed limit of 60km/h or less. How much space must you leave when passing a bicycle rider?",
+            "options":[
+               "At least 1.5 metres.",
+               "As much as you think is safe.",
+               "At least 1 metre."
+            ],
+            "answer":"3"
+         },
+         {
+            "qnID":"2",
+            "imageName":null,
+            "qn":"You are driving on a road with a speed limit above 60km/h. How much space must you leave when passing a bicycle rider?",
+            "options":[
+               "At least 1.5 metres.",
+               "As much as you think is safe.",
+               "At least 1 metre."
+            ],
+            "answer":"1"
+         },
+         {
+            "qnID":"3",
+            "imageName":null,
+            "qn":"In order to provide the minimum safe passing distance for bicycle riders, are you permitted to cross single and double continuous lines?",
+            "options":[
+               "No.",
+               "Yes, but you must have a clear view of any approaching traffic and it must be safe to do so.",
+               "Yes, always"
+            ],
+            "answer":"2"
+         }
+
+      ]
+   }
+}
