@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on Intersections",
+         "quizTitle":"DKT Test Questions on Intersections Part - 1",
          "previousSet":"DKTNSW00E181127I01",
          "nextSet":"DKTNSW00E181127I02",
          "numberOfQuestion":"20",
@@ -26,7 +26,7 @@
                "Only when you approach a stop sign."
             ],
             "imageName":null,
-            "qnID":"1",   
+            "qnID":"1",
             "qn":"As you approach an intersection, you should check for traffic on your left and right -",
             "answer":"1"
          },
@@ -239,7 +239,7 @@
             "qn":"If the boomgates are down and the signals are flashing, at a railway level crossing, you may begin to cross -",
             "answer":"3"
          }
-          
+
       ]
    }
 }

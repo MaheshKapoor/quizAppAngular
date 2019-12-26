@@ -19,6 +19,9 @@ import { ErrorComponent } from './error/error.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
 import { ResultcardComponent } from './resultcard/resultcard.component';
 import {DKTService} from "./service/dkt/dkt.service";
+import {MainComponent} from "./main/main.component";
+import {MathComponent} from "./math/math.component";
+import {IndianIndependenceComponent} from "./independence/India/india.independence.component";
 
 
 @NgModule({
@@ -32,7 +35,10 @@ import {DKTService} from "./service/dkt/dkt.service";
     FooterComponent,
     ErrorComponent,
     ProgressbarComponent,
-    ResultcardComponent
+    ResultcardComponent,
+    MainComponent,
+    MathComponent,
+    IndianIndependenceComponent
   ],
   imports: [
     BrowserModule,

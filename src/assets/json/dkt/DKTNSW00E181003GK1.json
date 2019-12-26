@@ -1,7 +1,7 @@
 {
   "data": {
     "extraDetails": {
-      "quizTitle":"DKT questions on General Knowledge",
+      "quizTitle":"DKT Test Questions on General Knowledge Part-1",
       "previousSet":"DKTNSW00E181003GK1",
       "nextSet":"DKTNSW00E181003GK2",
       "numberOfQuestion":"20",
@@ -79,7 +79,7 @@
           "Slow down gradually and ease back onto the road."
         ],
         "answer": "3"
-      },	  
+      },
       {
         "qnID": "7",
         "imageName": null,
@@ -112,7 +112,7 @@
             "qnID":"9",
             "qn":"What is meant by this sign on or near a bridge?",
             "answer":"3"
-         }, 
+         },
 		{
             "options":[
                "Sound your horn to warn other drivers",
@@ -135,7 +135,7 @@
         ],
         "answer": "3"
       },
-      
+
       {
         "qnID": "12",
         "imageName": null,
@@ -158,7 +158,7 @@
         ],
         "answer": "2"
       },
-	  
+
 	  {
         "qnID": "14",
         "imageName": null,
@@ -192,7 +192,7 @@
         ],
         "answer": "1"
       },
-    
+
       {
         "qnID": "17",
         "imageName": null,
@@ -236,8 +236,8 @@
           "Take your street directory in case you get lost."
         ],
         "answer": "2"
-      } 
-	  
+      }
+
     ]
   }
 }

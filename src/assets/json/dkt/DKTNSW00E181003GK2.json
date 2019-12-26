@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on General Knowledge",
+         "quizTitle":"DKT Test Questions on General Knowledge Part-2",
          "previousSet":"DKTNSW00E181003GK2",
          "nextSet":"DKTNSW00E181003GK3",
          "numberOfQuestion":"21",
@@ -250,7 +250,7 @@
             "qn":"A friend lends you his car. It is very noisy and blows a lot of smoke. He tells you the vehicle has been given a defect notice but it's still OK to drive it. What should you do?",
             "answer":"3"
          }
-          
+
       ]
    }
 }

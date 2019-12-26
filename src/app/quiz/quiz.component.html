@@ -2,6 +2,21 @@
 <div *ngIf="quizService.showSpinner" class="spiner">
   <img src="../../assets/img/loading.gif" >
 </div>
+<!--
+<div id="preQuiz">
+  <div>
+    Text.......
+  </div>
+  <div class="row">
+    <div class="input-field col s6">
+      <button class="btn-large btn-submit" type="button" (click)="StartQuiz()">Start</button>
+    </div>
+    <div class="input-field col s6">
+      <button class="btn-large btn-submit" type="button" (click)="ExitQuiz()">Exit</button>
+    </div>
+  </div>
+
+</div>-->
 
 <div class="row" *ngIf="quizService.qns && this.quizService.qnProgress != this.quizService.numberOfQuestions">
     <div class="col s12 m10 l8 offset-s2" >

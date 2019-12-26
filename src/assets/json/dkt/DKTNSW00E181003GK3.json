@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on General Knowledge",
+         "quizTitle":"DKT Test Questions on General Knowledge Part-3",
          "previousSet":"DKTNSW00E181003GK3",
          "nextSet":"DKTNSW00E181003GK4",
          "numberOfQuestion":"20",
@@ -239,7 +239,7 @@
             "qn":"When you come across roadworks -",
             "answer":"3"
          }
-          
+
       ]
    }
 }

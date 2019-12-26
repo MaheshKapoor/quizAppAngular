@@ -14,7 +14,7 @@ export class ResultComponent implements OnInit {
   constructor(public quizService: QuizService, public router: Router) { }
 
   ngOnInit() {
-    document.getElementById("seo-main-text").style.display = "none";
+    //document.getElementById("seo-main-text").style.display = "none";
     if (parseInt(localStorage.getItem('qnProgress')) == this.quizService.numberOfQuestions) {
       this.quizService.seconds = parseInt(localStorage.getItem('seconds'));
       this.quizService.qnProgress = parseInt(localStorage.getItem('qnProgress'));

@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on Traffic Signal",
+         "quizTitle":"DKT Test Questions on Traffic Signal Part - 2",
          "previousSet":"DKTNSW00E181003TS1",
          "nextSet":"DKTNSW00E181003TS3",
          "numberOfQuestion":"20",
@@ -239,7 +239,7 @@
             "qn":"When you see this sign you must -",
             "answer":"1"
          }
-          
+
       ]
    }
 }

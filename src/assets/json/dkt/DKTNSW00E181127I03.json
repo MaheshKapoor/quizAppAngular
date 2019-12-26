@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on Intersections",
+         "quizTitle":"DKT Test Questions on Intersections Part - 3",
          "previousSet":"DKTNSW00E181127I02",
          "nextSet":null,
          "numberOfQuestion":"15",
@@ -147,7 +147,7 @@
                "Only when you approach a stop sign."
             ],
             "imageName":null,
-            "qnID":"12",   
+            "qnID":"12",
             "qn":"As you approach an intersection, you should check for traffic on your left and right -",
             "answer":"1"
          },
@@ -184,8 +184,8 @@
             "qn":"If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?",
             "answer":"2"
          }
-        
-          
+
+
       ]
    }
 }

@@ -4,6 +4,7 @@ import { QuizService } from '../shared/quiz.service';
 import {isEmpty} from "rxjs/operator/isEmpty";
 import { ActivatedRoute } from '@angular/router';
 import {DKTService} from "../service/dkt/dkt.service";
+import {Meta, Title} from "@angular/platform-browser";
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
@@ -12,14 +13,14 @@ import {DKTService} from "../service/dkt/dkt.service";
 })
 export class QuizComponent implements OnInit {
   id: string;
-  constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute, public dktService: DKTService) {
+  constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute,
+              public dktService: DKTService, public meta: Meta, public title: Title) {
     this.activeRoute.queryParams.subscribe(params => {
       this.id = params['id'];
       localStorage.setItem('id',this.id);
     });}
 
   ngOnInit() {
-    document.getElementById("seo-main-text").style.display = "none";
     if ((this.id === localStorage.getItem('current')) && localStorage.getItem('qns')) {
 
         this.quizService.seconds = 0;//parseInt(localStorage.getItem('seconds'));
@@ -43,8 +44,10 @@ export class QuizComponent implements OnInit {
           localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
           localStorage.setItem('previousNext',data.data.extraDetails.previousSet);
           localStorage.setItem('numberOfQuestion',data.data.extraDetails.numberOfQuestion);
+          localStorage.setItem('pageTitle', data.data.extraDetails.quizTitle);
           this.quizService.numberOfQuestions=data.data.extraDetails.numberOfQuestion;
           this.quizService.qns = data.data.questions;
+          this.updateMetaTags();
           this.hideLoadingSpinner();
           this.startTimer();
         }
@@ -52,6 +55,10 @@ export class QuizComponent implements OnInit {
     }
   }
 
+  updateMetaTags(){
+    this.title.setTitle(localStorage.getItem("pageTitle"));
+    this.meta.updateTag( {name: "description", content: localStorage.getItem("pageTitle") + "-Actual DKT full Practice test.Tips to pass DKT test in first attempt."});
+  }
   showLoadingSpinner() {
     this.quizService.showSpinner = true;
   }

@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on Taffic Lights and Lanes",
+         "quizTitle":"DKT Test Questions on Traffic Lights and Lanes",
          "previousSet":"DKTNSW00E181126TL1",
          "nextSet":null,
          "numberOfQuestion":"20",
@@ -239,7 +239,7 @@
             "qn":"At traffic lights what is meant when a red light appears?",
             "answer":"1"
          }
-          
+
       ]
    }
 }

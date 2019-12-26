@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT questions on Traffic Signal",
+         "quizTitle":"DKT Test Questions on Traffic Signal Part - 3",
          "previousSet":"DKTNSW00E181003TS2",
          "nextSet":null,
          "numberOfQuestion":"20",
@@ -239,7 +239,7 @@
             "qn":"What does this sign mean?",
             "answer":"2"
          }
-          
+
       ]
    }
 }

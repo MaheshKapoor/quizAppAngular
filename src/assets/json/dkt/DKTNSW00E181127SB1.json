@@ -1,7 +1,7 @@
 {
    "data":{
       "extraDetails":{
-         "quizTitle":"DKT Questions on Seat Belts and Restraints",
+         "quizTitle":"DKT Test Questions on Seat Belts and Restraints",
          "previousSet":"DKTNSW00E181127SB1",
          "nextSet":null,
          "numberOfQuestion":"15",
@@ -183,7 +183,7 @@
             "qnID":"15",
             "qn":"You are about to move away from the kerb in your car. What is the last thing you should do before you move into traffic?",
             "answer":"1"
-         }  
+         }
       ]
    }
 }

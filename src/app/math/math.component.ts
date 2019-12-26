@@ -1,11 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-dkt',
-  templateUrl: './dkt.component.html',
-  styleUrls: ['./dkt.component.css']
+  selector: 'app-math',
+  templateUrl: './math.component.html'
 })
-export class DktComponent implements OnInit {
+export class MathComponent implements OnInit {
 
   constructor() { }
 
