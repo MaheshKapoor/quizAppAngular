@@ -1,0 +1,141 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Australian Corporate Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "1960",
+          "1965",
+          "1970",
+          "1975"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"When was Telstra Corporation founded?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "MyRepublic",
+          "AT&T Mobility",
+          "ViewQwest",
+          "Singtel"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"Optus is subsidiary of which Singapore based company?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "1980",
+          "1981",
+          "1970",
+          "1971"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"When was Optus founded?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "1987",
+          "1837",
+          "1937"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"When was AGL founded?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Australian Global Limited",
+          "Australian Gas Light",
+          "Australian Gas Limited"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"What is the full form of AGL Company",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Perth",
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"Where is the headquarter of Telstra Corporation?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Perth",
+          "Melbourne",
+          "Sydney",
+          "Brisbane"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"Where is the headquarter of Optus Corporation?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "National Bank of Sydney",
+          "Bank of New South Wales",
+          "National Bank"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"What was the former name of Westpac?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "National Roads Motor Association",
+          "National Roads and Motorists' Association",
+          "National Ranger Mark Association"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"What does NRMA stand for?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Brisbane",
+          "Melbourne",
+          "Sydney",
+          "Canberra"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"Where is Telstra Tower and Museum is located?",
+        "answer":"3"
+      }
+
+    ]
+  }
+}

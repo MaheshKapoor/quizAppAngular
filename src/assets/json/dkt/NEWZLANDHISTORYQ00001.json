@@ -1,0 +1,135 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"New Zealand History Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Jenny Shipley",
+          "Julia Gillard",
+          "Jacinda Ardern"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"Who was the first female Prime Minister of New Zealand?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "1933",
+          "1932",
+          "1931"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"When was the Hawke’s Bay Earthquake?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "50 years",
+          "55 years",
+          "49 years"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"How many years did “Six O’Clock Swill” last?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "2005",
+          "2006",
+          "2007"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"When did civil unions come into effect (in year)?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "1847 to 1872",
+          "1845 to 1872",
+          "1845 to 1871"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"When did the New Zealand Wars begin and end?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Gallipoli landings",
+          "Australian and New Zealand Dance day",
+          "Australian and New Zealand Cricket day"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"What event does Anzac Day mark on the 25th of April?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "1968",
+          "1986",
+          "1868"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"When were the first Māori MPs elected to Parliament?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Queenstown",
+          "Wellington",
+          "Nelson"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"In which city did the Battle of Manners Street happen?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Pōtatau Te Wherowhero",
+          "Tāwhiao",
+          "Kiingi Tūheitia"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"Who was appointed as the first Māori King in 1858?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Treaty of Auckland",
+          "Treaty of Utrecht",
+          "Treaty of Waitangi"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"What is the name of the treaty that was signed in 1840 by the British Crown and Maori chiefs?",
+        "answer":"3"
+      }
+
+    ]
+  }
+}

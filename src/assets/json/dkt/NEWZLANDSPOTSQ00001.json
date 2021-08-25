@@ -1,0 +1,135 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"New Zealand Sports Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Ted Morgan",
+          "Arthur Porritt",
+          "Darcy Hadfield"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"Who was New Zealand’s first Olympic Gold medallist?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Netball",
+          "Football",
+          "Cricket"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"What is the most popular women’s sport in NZ?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Basketball",
+          "Cricket",
+          "Boxing"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"What sport do the New Zealand Breakers play?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Cricket",
+          "NetBall",
+          "Football"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"What is the second most popular sport in New Zealand?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Louise Mary Rose",
+          "Peter Hillary",
+          "Edmund Hillary"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"Who was the first person to climb Mount Everest?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "All Pinks",
+          "All Whites",
+          "All Blacks"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"What is the nickname of the football national team of New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "North Shore Marathon",
+          "Queenstown Marathon",
+          "Boston Marathon"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"Which marathon did Dave McKenzie win in 1967?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "All Whites",
+          "All Blacks",
+          "All Pinks"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"What is the name of the national rugby team of New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Michael Campbell",
+          "Lydia Ko",
+          "Ryan Fox"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"Which New Zealand golfer won the US Open Golf Championship in 2005?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Snow Lupton",
+          "Frank Ritchie",
+          "Trevor Mckee"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"The 1983 Melbourne Cup winner, Kiwi, was trained by which horse trainer?",
+        "answer":"1"
+      }
+
+    ]
+  }
+}

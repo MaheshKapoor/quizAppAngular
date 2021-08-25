@@ -1,0 +1,135 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Australia GK Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "8th March",
+          "26th January",
+          "25th December"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"When is Australia Day?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "The Southern Cross",
+          "Capricorn",
+          "Leo"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"What is the constellation on Australia’s flag?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "The President",
+          "The Prime Minister",
+          "The Queen"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"Who is Australia’s head of State?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Opal mines",
+          "Fimiston gold mines",
+          "Olympic Dam metal mines"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"What type of mines do you find in Coober Pedy, South Australia?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Glenn Murcutt",
+          "Jørn Utzon",
+          "Frank Gehry"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"What was the name of the architect of the Sydney Opera House?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "8 states",
+          "6 states",
+          "7 states"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"How many states are there in Australia?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "The Tropic of Capricorn",
+          "The South Pole",
+          "The Tropic of Cancer"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"Which latitude line runs through Australia?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "One",
+          "Three",
+          "Six"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"How many time zones are there in Australia?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Botanical National Park",
+          "Kakadu National Park",
+          "Royal National Park"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"Which national park is jointly managed by the Australian government and the traditional owners?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Turkey",
+          "Germany",
+          "Japan"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"In which country did the Battle of Gallipoli happen?",
+        "answer":"1"
+      }
+
+    ]
+  }
+}

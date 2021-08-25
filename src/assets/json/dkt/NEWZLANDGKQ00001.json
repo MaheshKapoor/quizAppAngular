@@ -1,0 +1,135 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"New Zealand GK Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Sydney",
+          "Wellington",
+          "Auckland"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"What is the capital of New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "New Zealand Dollar",
+          "Australian Dollar",
+          "New Zealand Euro"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"What currency is used in New Zealand?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Nikau",
+          "Anahera",
+          "Aotearoa"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"What is New Zealand’s official name in Maori?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Kiwi",
+          "Kangaroo",
+          "English man"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"What is the nickname given to New Zealanders?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Lake Carrot",
+          "Lake Taupo",
+          "Lake Te Anau"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"What is the largest lake in New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "The Franz Josef Glacier",
+          "The Tasman Glacier",
+          "The Fox Glacier"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"What is the largest glacier in New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "1947",
+          "1847",
+          "1911"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"When did New Zealand gain independence from Britain? ",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "James Cook",
+          "Abel Tasman",
+          "Christopher Columbus"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"Who was the first European to arrive in New Zealand?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Queen Elizabeth III",
+          "Queen Elizabeth I",
+          "Queen Elizabeth II"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"Who is New Zealand’s monarch?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "1898",
+          "1911",
+          "1847"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"When was the first movie shot in New Zealand?",
+        "answer":"1"
+      }
+
+    ]
+  }
+}

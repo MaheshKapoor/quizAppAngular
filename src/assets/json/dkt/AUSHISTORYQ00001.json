@@ -1,0 +1,135 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Australian History Quiz",
+      "previousSet":null,
+      "nextSet":null,
+      "numberOfQuestion":"10",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "options":[
+          "Kristina Keneally",
+          "Julia Gillard",
+          "Clare Martin"
+        ],
+        "imageName":null,
+        "qnID":"1",
+        "qn":"Who was Australia’s first female Prime Minister?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "1933",
+          "1931",
+          "1932"
+        ],
+        "imageName":null,
+        "qnID":"2",
+        "qn":"What year did the Sydney Harbour Bridge open?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "1901",
+          "1903",
+          "1911"
+        ],
+        "imageName":null,
+        "qnID":"3",
+        "qn":"When did Australia become a federation?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Robert Menzies",
+          "Bob Hawke",
+          "Julia Gillard"
+        ],
+        "imageName":null,
+        "qnID":"4",
+        "qn":"Who is Australia’s longest serving prime minister?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Paul Keating",
+          "Harold Holt",
+          "Bob Hawke"
+        ],
+        "imageName":null,
+        "qnID":"5",
+        "qn":"Which Prime Minister disappeared in 1967 while swimming?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "1926",
+          "1913",
+          "1918"
+        ],
+        "imageName":null,
+        "qnID":"6",
+        "qn":"When did Canberra become the capital city?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "Germany",
+          "France",
+          "Netherlands"
+        ],
+        "imageName":null,
+        "qnID":"7",
+        "qn":"What was the first European country to step foot in Australia?",
+        "answer":"3"
+      },
+      {
+        "options":[
+          "Queen Endeavour",
+          "HM Endeavour",
+          "Thomas"
+        ],
+        "imageName":null,
+        "qnID":"8",
+        "qn":"What was the name of Captain Cook’s ship?",
+        "answer":"2"
+      },
+      {
+        "options":[
+          "1936",
+          "1938",
+          "1937"
+        ],
+        "imageName":null,
+        "qnID":"9",
+        "qn":"When was South Australia established?",
+        "answer":"1"
+      },
+      {
+        "options":[
+          "Electric Voting Machine",
+          "Secret Ballot",
+          "Postal Ballot"
+        ],
+        "imageName":null,
+        "qnID":"10",
+        "qn":"In 1856, Australia became the first country to introduce a modern voting method. Which one was it?",
+        "answer":"2"
+      }
+
+    ]
+  }
+}

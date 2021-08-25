@@ -22,6 +22,7 @@ import {DKTService} from "./service/dkt/dkt.service";
 import {MainComponent} from "./main/main.component";
 import {MathComponent} from "./math/math.component";
 import {IndianIndependenceComponent} from "./independence/India/india.independence.component";
+import {IndiaComponent} from "./independence/India/india.component";
 
 
 @NgModule({
@@ -38,7 +39,8 @@ import {IndianIndependenceComponent} from "./independence/India/india.independen
     ResultcardComponent,
     MainComponent,
     MathComponent,
-    IndianIndependenceComponent
+    IndianIndependenceComponent,
+    IndiaComponent
   ],
   imports: [
     BrowserModule,

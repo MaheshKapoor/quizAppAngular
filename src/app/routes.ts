@@ -8,6 +8,7 @@ import {ErrorComponent} from "./error/error.component";
 import {MainComponent} from "./main/main.component";
 import {MathComponent} from "./math/math.component";
 import {IndianIndependenceComponent} from "./independence/India/india.independence.component";
+import {IndiaComponent} from "./independence/India/india.component";
 
 
 export const appRoutes : Routes =[
@@ -17,7 +18,9 @@ export const appRoutes : Routes =[
     {path:'dkt',component:DktComponent},
     {path:'main',component:MainComponent},
     {path:'math',component:MathComponent},
-  {path:'IndianIndependence',component:IndianIndependenceComponent},
+    {path:'indianIndependence',component:IndianIndependenceComponent},
+    {path:'india',component:IndiaComponent},
+    {path:'australia',component:IndiaComponent},
     {path:'',redirectTo:'/main',pathMatch:'full'},
     {path:'**',component:ErrorComponent}
 
