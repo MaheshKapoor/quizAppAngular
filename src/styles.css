@@ -26,8 +26,9 @@ ul .selected{
 
 .questionImage{
   width: 100% !important;
-
-  margin: 25px auto;
+  background-size: 100% 100%;
+  margin: 5px auto;
+  padding: 5px 20%;
 }
 
 .card .card-content .card-title{
@@ -63,6 +64,16 @@ ul .selected{
   margin-right: 10px
 }
 
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .questionImage{
+    width:100% !important;
+    margin:0px;
+    padding: 5px 5%;
+    background-size: 100% 100%;
+  }
+
+}
+
 
 @media only screen and (max-width: 767px) {
   .card .card-content{
@@ -94,6 +105,7 @@ ul .selected{
     width:100% !important;
     margin:0px;
     padding: 15px 20%;
+    background-size: 100% 100%;
   }
 
   .row .col.s8 {

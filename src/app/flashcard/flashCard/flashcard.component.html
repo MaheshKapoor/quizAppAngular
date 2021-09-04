@@ -1,0 +1,52 @@
+<app-navbar></app-navbar>
+<div *ngIf="quizService.showSpinner" class="spiner">
+  <img src="../../assets/img/loading.gif" >
+</div>
+
+<div class="row" *ngIf="quizService.qns && this.quizService.qnProgress != this.quizService.numberOfQuestions">
+  <div class="col s12 m5 l3 offset-s2" >
+    <!-- -->
+    <div class="row progress-container" >
+      <!-- -->
+      <app-progressbar></app-progressbar>
+    </div>
+    <div class="card #cce0ff ">
+      <div class="row" >
+        <!-- -->
+        <div class="" >
+          <span class="card-title"><p>{{quizService.qnProgress+1}}.&nbsp;{{quizService.qns[quizService.qnProgress].qn}}</p></span>
+
+        </div>
+
+      </div>
+
+      <div class="row" align="center">
+        <!-- --><div class="card-action">
+        <div *ngIf="quizService.qns[quizService.qnProgress].imageName!=null">
+          <div class="col s12 m12 l12" style="margin: 0 auto" *ngIf="quizService.qns[quizService.qnProgress].imageName!=null">
+            <img class="questionImage" src="../../assets/img/{{quizService.qns[quizService.qnProgress].imageName}}" align="center">
+          </div>
+        </div>
+
+
+      </div>
+      </div>
+
+      <div class="row button-container" >
+        <!-- -->
+        <div class="row" [hidden] ="!quizService.isSubmitDisable">
+          <div class="input-field col s12">
+            <button class="btn-large btn-submit" type="button" (click)="SkipQuestion()">Next</button>
+          </div>
+        </div>
+        <div class="row" [hidden] ="quizService.isSubmitDisable">
+          <div class="input-field col s12">
+            <button class="btn-large btn-submit" type="button" (click)="submitQuiz(quizService.qnProgress+1)">Done</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

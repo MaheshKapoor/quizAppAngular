@@ -1,0 +1,124 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"English Alphabets Uppercase  ",
+      "previousSet":"DKTNSW00E181127SP1",
+      "nextSet":null,
+      "numberOfQuestion":"26",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "imageName":"/flashCard/alphabet/uppercase/A.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/B.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/C.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/D.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/E.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/F.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/G.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/H.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/I.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/J.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/K.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/L.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/M.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/N.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/O.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/P.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/Q.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/R.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/S.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/T.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/U.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/V.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/W.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/X.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/Z.png",
+        "qn":"Guess the alphabet?"
+      }
+    ]
+  }
+}
