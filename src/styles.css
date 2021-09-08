@@ -7,6 +7,11 @@ input.ng-invalid.ng-dirty{
 button.btn-submit{
     width: 100%;
 }
+
+button.btn-submit-red{
+  width: 100%;
+  background-color:#e57373
+}
 ol {
   background:white;
 }
