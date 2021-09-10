@@ -57,7 +57,7 @@ import {Age1Component} from "./flashcard/age1/age1.component";
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot(appRoutes),
+    RouterModule.forRoot(appRoutes, { relativeLinkResolution: 'legacy' }),
     FormsModule,
     HttpClientModule
   ],
