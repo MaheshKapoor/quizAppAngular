@@ -2,8 +2,8 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import {Observable} from "rxjs";
 import {Data} from "../model/dkt/data";
-import {Http, Response} from "@angular/http";
-import 'rxjs/add/operator/map';
+//import {Http, Response} from "@angular/http";
+//import {map} from "rxjs/operator";
 
 @Injectable()
 export class QuizService {

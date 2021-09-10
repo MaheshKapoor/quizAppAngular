@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { QuizService } from '../../shared/quiz.service';
-import {isEmpty} from "rxjs/operator/isEmpty";
+//import {isEmpty} from "rxjs/operator/isEmpty";
 import { ActivatedRoute } from '@angular/router';
 import {DKTService} from "../../service/dkt/dkt.service";
 import {Meta, Title} from "@angular/platform-browser";
