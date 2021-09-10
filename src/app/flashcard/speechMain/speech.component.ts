@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, Inject} from '@angular/core';
+import {DOCUMENT} from "@angular/common";
 
 @Component({
   selector: 'app-speech',
@@ -7,10 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SpeechComponent implements OnInit {
 
-  constructor() { }
+  constructor(@Inject(DOCUMENT) private document: Document) { }
 
   ngOnInit() {
-    document.getElementById("seo-main-text").style.display = "none";
+    //document.getElementById("seo-main-text").style.display = "none";
   }
 
 }

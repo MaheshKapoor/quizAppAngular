@@ -8,7 +8,11 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "dev:ssr": "ng run angular5:serve-ssr",
+    "serve:ssr": "node dist/angular5/server/main.js",
+    "build:ssr": "ng build && ng run angular5:server",
+    "prerender": "ng run angular5:prerender"
   },
   "private": true,
   "dependencies": {
