@@ -1,7 +1,7 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"English Alphabets Uppercase  ",
+      "quizTitle":"English Alphabets Uppercase",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"26",
@@ -113,6 +113,10 @@
       },
       {
         "imageName":"/flashCard/alphabet/uppercase/X.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/alphabet/uppercase/Y.png",
         "qn":"Guess the alphabet?"
       },
       {

@@ -93,7 +93,7 @@ export class FlashCardComponent implements OnInit {
       if(this.id && (this.id.slice(0,4)=== "AGE3")){
         this.router.navigate(['/age3speechdevelopment']);
       } else if(this.id && (this.id.slice(0,4)=== "AGE2")){
-        this.router.navigate(['/speechdevelopment']);
+        this.router.navigate(['/age2speechdevelopment']);
       } else if(this.id && (this.id.slice(0,4)=== "AGE1")) {
         this.router.navigate(['/speechdevelopment']);
       } else{

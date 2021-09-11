@@ -4,7 +4,7 @@
       "quizTitle":"Age 2 Animal flashcards",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
-      "numberOfQuestion":"24",
+      "numberOfQuestion":"21",
       "referralLink":[
         {
           "title":"Simple Arithematic questions on Multiplication",
@@ -64,19 +64,11 @@
         "qn":"Guess the animal?"
       },
       {
-        "imageName":"/flashCard/animals/gorilla.png",
-        "qn":"Guess the animal?"
-      },
-      {
         "imageName":"/flashCard/animals/hippo.png",
         "qn":"Guess the animal?"
       },
       {
         "imageName":"/flashCard/animals/horse.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/leopard.png",
         "qn":"Guess the animal?"
       },
       {
@@ -97,10 +89,6 @@
       },
       {
         "imageName":"/flashCard/animals/sheep.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/squirrel.png",
         "qn":"Guess the animal?"
       },
       {

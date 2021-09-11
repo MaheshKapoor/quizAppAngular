@@ -1,7 +1,7 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 2 Numbers flashcard",
+      "quizTitle":"Age2 Shape flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"10",
@@ -20,45 +20,46 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/numbers/1.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/circle.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/2.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/cross.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/3.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/diamond.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/4.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/heart.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/5.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/moon.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/6.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/oval.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/7.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/ractangle.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/8.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/square.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/9.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/star.png",
+        "qn":"Guess the shape?"
       },
       {
-        "imageName":"/flashCard/numbers/10.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/shape/triangle.png",
+        "qn":"Guess the shape?"
       }
+
     ]
   }
 }

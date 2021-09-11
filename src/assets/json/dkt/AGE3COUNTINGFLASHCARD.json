@@ -1,7 +1,7 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 2 Numbers flashcard",
+      "quizTitle":"Counting flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"10",
@@ -20,44 +20,44 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/numbers/1.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/1.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/2.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/2.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/3.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/3.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/4.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/4.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/5.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/5.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/6.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/6.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/7.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/7.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/8.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/8.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/9.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/9.png",
+        "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/numbers/10.png",
-        "qn":"Guess the number?"
+        "imageName":"/flashCard/count/10.png",
+        "qn":"Lets count the object?"
       }
     ]
   }

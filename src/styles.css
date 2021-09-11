@@ -4,11 +4,19 @@ input.ng-invalid.ng-dirty{
     box-shadow: 0 1px 0 0 #e91e63 !important;
 }
 
+flashcard-next {
+
+}
+
 button.btn-submit{
     width: 100%;
 }
 
-button.btn-submit-red{
+button.btn-submit-flashcard-next{
+    width: 100%;
+}
+
+button.btn-submit-flashcard-done{
   width: 100%;
   background-color:#e57373
 }
