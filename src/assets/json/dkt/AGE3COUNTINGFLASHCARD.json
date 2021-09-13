@@ -20,43 +20,43 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/count/1.png",
+        "imageName":"/flashCard/counting/1.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/2.png",
+        "imageName":"/flashCard/counting/2.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/3.png",
+        "imageName":"/flashCard/counting/3.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/4.png",
+        "imageName":"/flashCard/counting/4.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/5.png",
+        "imageName":"/flashCard/counting/5.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/6.png",
+        "imageName":"/flashCard/counting/6.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/7.png",
+        "imageName":"/flashCard/counting/7.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/8.png",
+        "imageName":"/flashCard/counting/8.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/9.png",
+        "imageName":"/flashCard/counting/9.png",
         "qn":"Lets count the object?"
       },
       {
-        "imageName":"/flashCard/count/10.png",
+        "imageName":"/flashCard/counting/10.png",
         "qn":"Lets count the object?"
       }
     ]
