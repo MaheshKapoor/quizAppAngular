@@ -5,6 +5,10 @@
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"5",
+      "keywords":"",
+      "description":"",
+      "url":"",
+      "imageUrl":"",
       "referralLink":[
         {
           "title":"Simple Arithematic questions on Multiplication",
@@ -20,23 +24,43 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/alphabet/uppercase/A.png",
+        "imageName":"/flashCard/sample/A.png",
         "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/alphabet/uppercase/B.png",
+        "imageName":"/flashCard/sample/B.png",
         "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/alphabet/uppercase/C.png",
+        "imageName":"/flashCard/sample/C.png",
         "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/alphabet/uppercase/D.png",
+        "imageName":"/flashCard/sample/D.png",
         "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/alphabet/uppercase/E.png",
+        "imageName":"/flashCard/sample/E.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/sample/A.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/sample/B.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/sample/C.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/sample/D.png",
+        "qn":"Guess the alphabet?"
+      },
+      {
+        "imageName":"/flashCard/sample/E.png",
         "qn":"Guess the alphabet?"
       }
 
