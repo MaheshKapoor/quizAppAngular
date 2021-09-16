@@ -21,7 +21,7 @@ export class FlashCardComponent implements OnInit {
   constructor(public router: Router, public quizService: QuizService, public activeRoute: ActivatedRoute,
               public dktService: DKTService, public meta: Meta, public title: Title) {
     this.activeRoute.queryParams.subscribe(params => {
-      this.id = params['id'];
+      this.id = this.activeRoute.snapshot.paramMap.get("id");//params['id'];
       localStorage.setItem('id',this.id);
     });}
 
