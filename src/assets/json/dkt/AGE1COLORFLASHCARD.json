@@ -1,10 +1,10 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 18 months Animal flashcards",
+      "quizTitle":"Age 18 months Color flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
-      "numberOfQuestion":"8",
+      "numberOfQuestion":"5",
       "keywords":"",
       "description":"",
       "url":"",
@@ -24,37 +24,26 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/animals/cat.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/colors/blue.png",
+        "qn":"Guess the color?"
       },
       {
-        "imageName":"/flashCard/animals/cow.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/colors/green.png",
+        "qn":"Guess the color?"
       },
       {
-        "imageName":"/flashCard/animals/duck.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/colors/orange.png",
+        "qn":"Guess the color?"
       },
       {
-        "imageName":"/flashCard/animals/horse.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/colors/red.png",
+        "qn":"Guess the color?"
       },
       {
-        "imageName":"/flashCard/animals/lion.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/monkey.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/pig.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/sheep.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/colors/yellow.png",
+        "qn":"Guess the color?"
       }
+
     ]
   }
 }

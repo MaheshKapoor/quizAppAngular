@@ -1,7 +1,7 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 18 months Animal flashcards",
+      "quizTitle":"Age 18 months Fruits flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"8",
@@ -24,37 +24,38 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/animals/cat.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/apple.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/cow.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/banana.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/duck.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/grapes.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/horse.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/kiwi.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/lion.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/mango.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/monkey.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/orange.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/pig.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/pear.png",
+        "qn":"Guess the fruit?"
       },
       {
-        "imageName":"/flashCard/animals/sheep.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/fruits/strawberry.png",
+        "qn":"Guess the fruit?"
       }
+
     ]
   }
 }

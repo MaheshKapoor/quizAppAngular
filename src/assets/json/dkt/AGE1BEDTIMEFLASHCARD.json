@@ -1,10 +1,10 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 18 months Animal flashcards",
+      "quizTitle":"sample flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
-      "numberOfQuestion":"8",
+      "numberOfQuestion":"5",
       "keywords":"",
       "description":"",
       "url":"",
@@ -24,37 +24,26 @@
     },
     "questions":[
       {
-        "imageName":"/flashCard/animals/cat.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/alphabet/uppercase/A.png",
+        "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/animals/cow.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/alphabet/uppercase/B.png",
+        "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/animals/duck.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/alphabet/uppercase/C.png",
+        "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/animals/horse.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/alphabet/uppercase/D.png",
+        "qn":"Guess the alphabet?"
       },
       {
-        "imageName":"/flashCard/animals/lion.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/monkey.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/pig.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/sheep.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/alphabet/uppercase/E.png",
+        "qn":"Guess the alphabet?"
       }
+
     ]
   }
 }

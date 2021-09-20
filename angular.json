@@ -143,7 +143,32 @@
           "builder": "@nguniversal/builders:prerender",
           "options": {
             "routes": [
-              "/"
+              "/",
+              "/flashcard",
+              "/flashcard/AGE2TRANSPORTATIONFLASHCARD",
+              "/flashcard/AGE2VEGETABLEFLASHCARD",
+              "/flashcard/AGE2FRUITSFLASHCARD",
+              "/flashcard/AGE2ANIMALSFLASHCARD",
+              "/flashcard/AGE2SHAPESFLASHCARD",
+              "/flashcard/AGE2NUMBERSFLASHCARD",
+              "/flashcard/AGE2ALPHABETUPPERFLASHCARD",
+              "/flashcard/AGE3COUNTINGFLASHCARD",
+              "/flashcard/AGE3GESTUREFLASHCARD",
+              "/flashcard/AGE3HOMEAPPLINCEFLASHCARD",
+              "/flashcard/AGE3COLORFLASHCARD",
+              "/flashcard/AGE3SHAPESFLASHCARD",
+              "/flashcard/AGE3WEATHERWORDSFLASHCARD",
+              "/flashcard/AGE3TRANSPORTATIONFLASHCARD",
+              "/flashcard/AGE3ANIMALSFLASHCARD",
+              "/flashcard/AGE3VEGETABLEFLASHCARD",
+              "/flashcard/AGE3FRUITSFLASHCARD",
+              "/flashcard/AGE3NUMBERSFLASHCARD",
+              "/flashcard/AGE3ALPHABETUPPERFLASHCARD",
+              "/flashcard/AGE2BODYPARTSFLASHCARD",
+              "/flashcard/AGE3VERBFLASHCARD",
+              "/flashcard/AGE3ACTIVITYFLASHCARD",
+              "/flashcard/AGE3FAMILYFLASHCARD",
+              "/flashcard/AGE3ACTIONFLASHCARD"
             ]
           },
           "configurations": {

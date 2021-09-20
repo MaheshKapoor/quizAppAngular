@@ -1,0 +1,141 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Age 18 months Animal flashcards",
+      "previousSet":"DKTNSW00E181127SP1",
+      "nextSet":null,
+      "numberOfQuestion":"28",
+      "keywords":"",
+      "description":"",
+      "url":"",
+      "imageUrl":"",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "imageName":"/flashCard/animals/cat.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/cow.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/duck.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/horse.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/lion.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/monkey.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/pig.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/animals/sheep.png",
+        "qn":"Guess the animal?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/arm.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/belly.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/ear.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/eyes.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/feet.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/fingers.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/bodyparts/hair.png",
+        "qn":"Guess the body part?"
+      },
+      {
+        "imageName":"/flashCard/colors/blue.png",
+        "qn":"Guess the color?"
+      },
+      {
+        "imageName":"/flashCard/colors/green.png",
+        "qn":"Guess the color?"
+      },
+      {
+        "imageName":"/flashCard/colors/orange.png",
+        "qn":"Guess the color?"
+      },
+      {
+        "imageName":"/flashCard/colors/red.png",
+        "qn":"Guess the color?"
+      },
+      {
+        "imageName":"/flashCard/colors/yellow.png",
+        "qn":"Guess the color?"
+      },
+      {
+        "imageName":"/flashCard/fruits/apple.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/banana.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/grapes.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/kiwi.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/mango.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/orange.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/pear.png",
+        "qn":"Guess the fruit?"
+      },
+      {
+        "imageName":"/flashCard/fruits/strawberry.png",
+        "qn":"Guess the fruit?"
+      }
+
+    ]
+  }
+}

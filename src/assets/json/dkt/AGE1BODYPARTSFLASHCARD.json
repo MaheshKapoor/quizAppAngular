@@ -1,10 +1,10 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 18 months Animal flashcards",
+      "quizTitle":"Age 18 months Body parts flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
-      "numberOfQuestion":"8",
+      "numberOfQuestion":"7",
       "keywords":"",
       "description":"",
       "url":"",
@@ -23,38 +23,36 @@
       ]
     },
     "questions":[
+
       {
-        "imageName":"/flashCard/animals/cat.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/arm.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/cow.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/belly.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/duck.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/ear.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/horse.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/eyes.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/lion.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/feet.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/monkey.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/fingers.png",
+        "qn":"Guess the body part?"
       },
       {
-        "imageName":"/flashCard/animals/pig.png",
-        "qn":"Guess the animal?"
-      },
-      {
-        "imageName":"/flashCard/animals/sheep.png",
-        "qn":"Guess the animal?"
+        "imageName":"/flashCard/bodyparts/hair.png",
+        "qn":"Guess the body part?"
       }
+
     ]
   }
 }

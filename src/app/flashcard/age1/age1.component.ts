@@ -1,5 +1,6 @@
 import {Component, OnInit, Inject} from '@angular/core';
 import {DOCUMENT} from "@angular/common";
+import {Meta, Title} from "@angular/platform-browser";
 
 @Component({
   selector: 'app-age1',
@@ -8,10 +9,30 @@ import {DOCUMENT} from "@angular/common";
 })
 export class Age1Component implements OnInit {
 
-  constructor(@Inject(DOCUMENT) private document: Document) { }
+  constructor(public meta: Meta, public title: Title) {
+  }
 
   ngOnInit() {
-    document.getElementById("seo-main-text").style.display = "none";
+    this.updateMetaTags();
+  }
+
+  updateMetaTags() {
+    this.title.setTitle("Speech development Age 18 months");
+    this.meta.updateTag({
+      name: "description",
+      content: "Digital flashcards for early speech development, speech improvement and speech therapy. Language development flashcards for kids at age 18 months."
+    });
+    this.meta.updateTag({
+      name: "keywords",
+      content: "Digital Flashcards,  alphabets flashcard, numbers flashcard, fruits flashcard, vegetables flashcard, weathers flashcard, shapes flashcard, colors flashcard, transportation flashcard, animals flashcard, gestures flashcard, clothes flashcard, food flashcard, family flashcard, birds flashcard, plants flashcard"
+    });
+    this.meta.updateTag({property: "og:url", content: "https://practisepoint.com/age3speechdevelopment"});
+    this.meta.updateTag({property: "og:image", content: "https://practisepoint.com/assets/img/age2speechbanner.png"});
+    this.meta.updateTag({
+      property: "og:description",
+      content: "Digital flashcards for speech development, speech improvement and speech therapy. Digital flashcards for kids at age 2."
+    });
+    this.meta.updateTag({property: "og:title", content: "Speech development Age 2"});
   }
 
 }
