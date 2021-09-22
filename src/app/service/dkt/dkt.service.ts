@@ -14,8 +14,14 @@ export class DKTService {
     });
   }
 
-  public getDktData(): Observable<any> {
-    const fileUrl = "../assets/json/dkt/"+localStorage.getItem('id')+".json";
+  public getDktData(id?: string): Observable<any> {
+    let fileUrl;
+    if(id != null){
+      fileUrl = "../assets/json/dkt/"+id+".json";
+    } else {
+      fileUrl = "../assets/json/dkt/"+localStorage.getItem('id')+".json";
+    }
+
     return this.http.get(fileUrl);
   }
 

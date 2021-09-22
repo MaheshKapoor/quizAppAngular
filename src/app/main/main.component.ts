@@ -1,5 +1,5 @@
 import {Component, OnInit, Inject} from '@angular/core';
-import {DOCUMENT} from "@angular/common";
+//import {DOCUMENT} from "@angular/common";
 
 @Component({
   selector: 'app-main',
@@ -8,10 +8,10 @@ import {DOCUMENT} from "@angular/common";
 })
 export class MainComponent implements OnInit {
 
-  constructor(@Inject(DOCUMENT) private document: Document) { }
+  constructor() { }
 
   ngOnInit() {
-    document.getElementById("seo-main-text").style.display = "none";
+    //document.getElementById("seo-main-text").style.display = "none";
   }
 
 }

@@ -22,34 +22,35 @@ export class FlashCardComponent implements OnInit {
               public dktService: DKTService, public meta: Meta, public title: Title) {
     this.activeRoute.queryParams.subscribe(params => {
       this.id = this.activeRoute.snapshot.paramMap.get("id");//params['id'];
-      localStorage.setItem('id',this.id);
+      //localStorage.setItem('id',this.id);
     });}
 
   ngOnInit() {
-    if ((this.id === localStorage.getItem('current')) && localStorage.getItem('qns')) {
-
-      this.quizService.seconds = 0;//parseInt(localStorage.getItem('seconds'));
-      this.quizService.qnProgress = 0;// parseInt(localStorage.getItem('qnProgress'));
-      this.quizService.numberOfQuestions = parseInt(localStorage.getItem('numberOfQuestion'));
-      this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
-
-      if (this.quizService.qnProgress == parseInt(localStorage.getItem('numberOfQuestion'))){
-        this.router.navigate(['/speechdevelopment'], {queryParamsHandling:'preserve'});}
-      else{
-        this.startTimer();
-      }
-    }
-    else {
-      localStorage.setItem('current',this.id);
+    this.updateMetaTags();
+    // if ((this.id === localStorage.getItem('current')) && localStorage.getItem('qns')) {
+    //
+    //   this.quizService.seconds = 0;//parseInt(localStorage.getItem('seconds'));
+    //   this.quizService.qnProgress = 0;// parseInt(localStorage.getItem('qnProgress'));
+    //   this.quizService.numberOfQuestions = parseInt(localStorage.getItem('numberOfQuestion'));
+    //   this.quizService.qns = JSON.parse(localStorage.getItem('qns'));
+    //
+    //   if (this.quizService.qnProgress == parseInt(localStorage.getItem('numberOfQuestion'))){
+    //     this.router.navigate(['/speechdevelopment'], {queryParamsHandling:'preserve'});}
+    //   else{
+    //     this.startTimer();
+    //   }
+    // }
+    // else {
+      //localStorage.setItem('current',this.id);
       this.showLoadingSpinner();
       this.quizService.seconds = 0;
       this.quizService.qnProgress = 0;
-      this.dktService.getDktData().subscribe(
+      this.dktService.getDktData(this.id).subscribe(
         (data: any) => {
-          localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
-          localStorage.setItem('previousNext',data.data.extraDetails.previousSet);
-          localStorage.setItem('numberOfQuestion',data.data.extraDetails.numberOfQuestion);
-          localStorage.setItem('pageTitle', data.data.extraDetails.quizTitle);
+          // localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
+          // localStorage.setItem('previousNext',data.data.extraDetails.previousSet);
+          // localStorage.setItem('numberOfQuestion',data.data.extraDetails.numberOfQuestion);
+          // localStorage.setItem('pageTitle', data.data.extraDetails.quizTitle);
           this.quizTitle = data.data.extraDetails.quizTitle;
           this.description = data.data.extraDetails.description;
           this.keywords = data.data.extraDetails.keywords;
@@ -63,7 +64,7 @@ export class FlashCardComponent implements OnInit {
           this.startTimer();
         }
       );
-    }
+    //}
   }
 
   shuffleArray(array) {
@@ -91,14 +92,14 @@ export class FlashCardComponent implements OnInit {
   startTimer() {
     this.quizService.timer = setInterval(() => {
       this.quizService.seconds++;
-      localStorage.setItem('seconds', this.quizService.seconds.toString());
+    //   localStorage.setItem('seconds', this.quizService.seconds.toString());
     }, 1000);
   }
 
   submitQuiz(qId){
     if (qId == this.quizService.numberOfQuestions) {
       this.quizService.qnProgress++;
-      localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
+   //   localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       clearInterval(this.quizService.timer);
       if(this.id && (this.id.slice(0,4)=== "AGE3")){
         this.router.navigate(['/age3speechdevelopment']);
