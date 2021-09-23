@@ -19,7 +19,7 @@ import {SpeechComponent} from "./flashcard/speechMain/speech.component";
 
 export const appRoutes : Routes =[
 
-    {path:'quiz',component:QuizComponent},
+    {path:'quiz/:id',component:QuizComponent},
     {path:'flashcard/:id',component:FlashCardComponent},
     {path:'age1speechdevelopment',component:Age1Component},
     {path:'age2speechdevelopment',component:Age2Component},

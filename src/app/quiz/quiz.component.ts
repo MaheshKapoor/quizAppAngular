@@ -16,7 +16,7 @@ export class QuizComponent implements OnInit {
   constructor(public router: Router, public quizService: QuizService,  public activeRoute: ActivatedRoute,
               public dktService: DKTService, public meta: Meta, public title: Title) {
     this.activeRoute.queryParams.subscribe(params => {
-      this.id = params['id'];
+      this.id = this.activeRoute.snapshot.paramMap.get("id");//params['id'];
       localStorage.setItem('id',this.id);
     });}
 
@@ -39,7 +39,7 @@ export class QuizComponent implements OnInit {
       this.showLoadingSpinner();
       this.quizService.seconds = 0;
       this.quizService.qnProgress = 0;
-      this.dktService.getDktData().subscribe(
+      this.dktService.getDktData(this.id).subscribe(
         (data: any) => {
           localStorage.setItem('nextSet',data.data.extraDetails.nextSet);
           localStorage.setItem('previousNext',data.data.extraDetails.previousSet);
