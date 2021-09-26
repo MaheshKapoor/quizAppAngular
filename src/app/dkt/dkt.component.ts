@@ -17,10 +17,10 @@ export class DktComponent implements OnInit {
 
 
   updateMetaTags() {
-    this.title.setTitle("How to pass Driving Knowledge Test(DKT) in the first attempt?");
+    this.title.setTitle("How to pass Driving Knowledge Test(DKT) in the first attempt with practise point?");
     this.meta.updateTag({
       name: "description",
-      content: "Pass Driving Knowledge Test(DKT) in the first attempt with simple online practice test. We are presenting dkt questions in simple way to understand the driving knowledge required to pass dkt in first attempt."
+      content: "Pass Driving Knowledge Test(DKT) in the first attempt with best online dkt practice test. We are presenting dkt practice questions in simple way to understand the driving knowledge required to pass dkt in first attempt."
     });
     this.meta.updateTag({
       name: "keywords",
@@ -30,9 +30,9 @@ export class DktComponent implements OnInit {
     this.meta.updateTag({property: "og:image", content: "https://practisepoint.com/assets/img/practisepoint_main.jpg"});
     this.meta.updateTag({
       property: "og:description",
-      content: "Pass Driving Knowledge Test(DKT) in the first attempt with simple online practice test. We are presenting dkt questions in simple way to understand the driving knowledge required to pass dkt in first attempt."
+      content: "Pass Driving Knowledge Test(DKT) in the first attempt with best online dkt practice test. We are presenting dkt practise questions in simple way to understand the driving knowledge required to pass dkt test in first attempt."
     });
-    this.meta.updateTag({property: "og:title", content: "How to pass Driving Knowledge Test(DKT) in the first attempt?"});
+    this.meta.updateTag({property: "og:title", content: "How to pass Driving Knowledge Test(DKT) in the first attempt with practise point?"});
     //this.meta.updateTag({property: "og:updated_time" , content: "SOLVED:How to pass Driving Knowledge Test(DKT) in first attempt?"});
   }
 
