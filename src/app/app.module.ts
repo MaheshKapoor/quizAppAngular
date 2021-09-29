@@ -11,6 +11,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { QuizComponent } from './quiz/quiz.component';
 import { ResultComponent } from './result/result.component';
 import { appRoutes } from './routes';
+// import {appRoutes, AppRoutingModule} from './routes';
 import { QuizService } from './shared/quiz.service';
 import { AuthGuard } from './auth/auth.guard';
 import { DktComponent } from './dkt/dkt.component';
@@ -29,6 +30,11 @@ import {Age3Component} from "./flashcard/age3/age3.component";
 import {Age4Component} from "./flashcard/age4/age4.component";
 import {SpeechComponent} from "./flashcard/speechMain/speech.component";
 import {Age1Component} from "./flashcard/age1/age1.component";
+import {PrivacyPolicyComponent} from "./sitedetail/privacypolicy/privacypolicy.component";
+import {TandCComponent} from "./sitedetail/TermsAndConditions/tandc.component";
+import {ContactUsComponent} from "./sitedetail/contactus/contactus.component";
+import {AboutUsComponent} from "./sitedetail/aboutus/aboutus.component";
+import {QuicklinkModule} from "ngx-quicklink";
 
 
 @NgModule({
@@ -53,10 +59,16 @@ import {Age1Component} from "./flashcard/age1/age1.component";
     MainComponent,
     MathComponent,
     IndianIndependenceComponent,
-    IndiaComponent
+    IndiaComponent,
+    PrivacyPolicyComponent,
+    ContactUsComponent,
+    TandCComponent,
+    AboutUsComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
+    //AppRoutingModule,
+    //QuicklinkModule,
     RouterModule.forRoot(appRoutes, { relativeLinkResolution: 'legacy' }),
     FormsModule,
     HttpClientModule

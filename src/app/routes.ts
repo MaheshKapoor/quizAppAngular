@@ -1,3 +1,4 @@
+//import {Routes, RouterModule, PreloadAllModules} from '@angular/router'
 import {Routes} from '@angular/router'
 import { RegisterComponent } from './register/register.component';
 import { QuizComponent } from './quiz/quiz.component';
@@ -15,6 +16,12 @@ import {Age3Component} from "./flashcard/age3/age3.component";
 import {Age4Component} from "./flashcard/age4/age4.component";
 import {Age1Component} from "./flashcard/age1/age1.component";
 import {SpeechComponent} from "./flashcard/speechMain/speech.component";
+import {AboutUsComponent} from "./sitedetail/aboutus/aboutus.component";
+import {ContactUsComponent} from "./sitedetail/contactus/contactus.component";
+import {TandCComponent} from "./sitedetail/TermsAndConditions/tandc.component";
+import {PrivacyPolicyComponent} from "./sitedetail/privacypolicy/privacypolicy.component";
+// import {NgModule} from "@angular/core";
+// import {QuicklinkStrategy} from "ngx-quicklink";
 
 
 export const appRoutes : Routes =[
@@ -29,11 +36,23 @@ export const appRoutes : Routes =[
     {path:'result',component:ResultComponent},
     {path:'dkt',component:DktComponent},
     {path:'main',component:MainComponent},
+    {path:'error', component:ErrorComponent},
     {path:'math',component:MathComponent},
     {path:'indianIndependence',component:IndianIndependenceComponent},
     {path:'india',component:IndiaComponent},
     {path:'australia',component:IndiaComponent},
+    {path:'aboutus',component:AboutUsComponent},
+    {path:'contactus',component:ContactUsComponent},
+    {path:'termsandconditions',component:TandCComponent},
+    {path:'privacypolicy',component:PrivacyPolicyComponent},
     {path:'',redirectTo:'/main',pathMatch:'full'},
-    {path:'**',component:ErrorComponent}
+    {path:'**',redirectTo:'/error'}
 
 ];
+//
+// @NgModule({
+//   imports: [RouterModule.forRoot(appRoutes,{ initialNavigation: 'enabledBlocking', preloadingStrategy: QuicklinkStrategy })],
+//   exports: [RouterModule]
+// })
+// export class AppRoutingModule { }
+
