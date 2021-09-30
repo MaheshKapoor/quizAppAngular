@@ -1,0 +1,89 @@
+{
+  "data":{
+    "extraDetails":{
+      "quizTitle":"Age 3 Clothes flashcard",
+      "previousSet":"DKTNSW00E181127SP1",
+      "nextSet":null,
+      "numberOfQuestion":"15",
+      "keywords":"",
+      "description":"",
+      "url":"",
+      "imageUrl":"",
+      "referralLink":[
+        {
+          "title":"Simple Arithematic questions on Multiplication",
+          "url":"https://www.service.nsw.gov.au/transaction/driver-knowledge-test",
+          "description":"Are you ready for DKT test? Try simulation test before you go for final test."
+        },
+        {
+          "title":"Simple Arithematic questions on Substraction",
+          "url":"https://www.rms.nsw.gov.au/roads/licence/driver/tests/driver-knowledge-test.html",
+          "description":"Government website for all informationunder one umbrella."
+        }
+      ]
+    },
+    "questions":[
+      {
+        "imageName":"/flashCard/clothes/belt.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/boots.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/cap.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/dress.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/hat.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/jeans.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/scarf.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/shirt.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/shoes.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/shorts.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/skirt.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/socks.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/sunglasses.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/trousers.png",
+        "qn":"Guess the clothe?"
+      },
+      {
+        "imageName":"/flashCard/clothes/tshirt.png",
+        "qn":"Guess the clothe?"
+      }
+
+    ]
+  }
+}
