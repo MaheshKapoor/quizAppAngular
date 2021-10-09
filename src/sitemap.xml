@@ -1,384 +1,390 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <url>
-    <loc>https://practisepoint.com</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
 
   <url>
-    <loc>https://practisepoint.com/speechdevelopment</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/age2speechdevelopment</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/age3speechdevelopment</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3ALPHABETUPPERFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3NUMBERSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3FRUITSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3VEGETABLEFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3ANIMALSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3TRANSPORTATIONFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3WEATHERWORDSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3SHAPESFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3COLORFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3HOMEAPPLINCEFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3GESTUREFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/dkt/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2ALPHABETUPPERFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/speechdevelopment/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2NUMBERSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/age1speechdevelopment/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2FRUITSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/age2speechdevelopment/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2VEGETABLEFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/age3speechdevelopment/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2ANIMALSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/age4speechdevelopment/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2TRANSPORTATIONFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2ANIMALSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2WEATHERWORDSFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE1COLORFLASHCARD</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2SHAPESFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2ALPHABETUPPERFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2COLORFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2NUMBERSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE2HOMEAPPLINCEFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2FRUITSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/flashcard?id=AGE3COUNTINGFLASHCARD</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2VEGETABLEFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
-
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2TRANSPORTATIONFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL2</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2WEATHERWORDSFLASHCARD</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL3</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2SHAPESFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL4</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2COLORFLASHCARD</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL5</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE2HOMEAPPLINCEFLASHCARD</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL6</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3ALPHABETUPPERFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127ALL</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3NUMBERSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3FRUITSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK2</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3VEGETABLEFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK3</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3ANIMALSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK4</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3TRANSPORTATIONFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127AD1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3WEATHERWORDSFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127BS1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3SHAPESFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127FD1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3COLORFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I01</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3HOMEAPPLINCEFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I02</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3GESTUREFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I03</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/flashcard/AGE3COUNTINGFLASHCARD/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
+  <url>
+    <loc>https://practisepoint.com/quiz/AUSGKQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/AUSSPOTSQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/AUSPOLIQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/AUSHISTORYQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/AUSCORPQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/NEWZLANDGKQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/NEWZLANDSPOTSQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/NEWZLANDPOLIQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/NEWZLANDHISTORYQ00001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/math/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/MATHL001E181009000/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/MATHL001E181009001/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/MATHL001E181009002/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/aboutus/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/contactus/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/privacypolicy/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/termsandconditions/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127ALL/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127AD1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127BS1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127FD1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I01/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
   <url>
     <loc>https://practisepoint.com/quiz/DKTNSW00E181126TL1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181126ND1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181126ND1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
-
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127P01/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127SB1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127SP1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS1/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL2/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL3/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL4/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL5/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003FL6/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK2/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK3/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003GK4/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I02/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127I03/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
   <url>
     <loc>https://practisepoint.com/quiz/DKTNSW00E181126ND2</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127P01</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181127P02/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127P02</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS2/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
-
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127SB1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS3/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181127SP1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/main/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.51</priority>
   </url>
-
   <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS1</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://practisepoint.com/india/</loc>
+    <lastmod>2021-10-07T23:43:30+00:00</lastmod>
+    <priority>0.51</priority>
   </url>
-
-
-  <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS2</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://practisepoint.com/quiz/DKTNSW00E181003TS3</loc>
-    <lastmod>2021-09-11T04:12:51+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
 
 </urlset>

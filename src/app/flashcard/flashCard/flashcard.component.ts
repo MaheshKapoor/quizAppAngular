@@ -101,12 +101,14 @@ export class FlashCardComponent implements OnInit {
       this.quizService.qnProgress++;
    //   localStorage.setItem('qnProgress', this.quizService.qnProgress.toString());
       clearInterval(this.quizService.timer);
-      if(this.id && (this.id.slice(0,4)=== "AGE3")){
+      if(this.id && (this.id.slice(0,4)=== "AGE4")){
+        this.router.navigate(['/age4speechdevelopment']);
+      } else if(this.id && (this.id.slice(0,4)=== "AGE3")){
         this.router.navigate(['/age3speechdevelopment']);
       } else if(this.id && (this.id.slice(0,4)=== "AGE2")){
         this.router.navigate(['/age2speechdevelopment']);
       } else if(this.id && (this.id.slice(0,4)=== "AGE1")) {
-        this.router.navigate(['/speechdevelopment']);
+        this.router.navigate(['/age1speechdevelopment']);
       } else{
         this.router.navigate(['/speechdevelopment']);
       }

@@ -24,7 +24,7 @@ export class DktComponent implements OnInit {
     });
     this.meta.updateTag({
       name: "keywords",
-      content: "Pass DKT Test, dkt practice test, dkt practise test, driver knowledge test questions nsw, driving test questions and answers free, 45 questions driving test,dkt 2022, dkt 2021, free dkt test, how to pass dkt, dkt in first attempt, all dkt questions and answers"
+      content: "dkt practice test, dkt practise tests, driver knowledge test questions nsw, driving test questions and answers free, 45 questions driving test,dkt 2022, dkt 2021, free dkt test, how to pass dkt, dkt in first attempt, all dkt questions and answers, Pass DKT Test"
     });
     this.meta.updateTag({property: "og:url", content: "https://practisepoint.com/dkt"});
     this.meta.updateTag({property: "og:image", content: "https://practisepoint.com/assets/img/practisepoint_main.jpg"});
