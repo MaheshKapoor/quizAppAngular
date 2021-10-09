@@ -1,7 +1,7 @@
 {
   "data":{
     "extraDetails":{
-      "quizTitle":"Age 4 Seven wonders of world flashcard",
+      "quizTitle":"Age 3 Seven wonders of world flashcard",
       "previousSet":"DKTNSW00E181127SP1",
       "nextSet":null,
       "numberOfQuestion":"7",
@@ -28,7 +28,7 @@
         "qn":"Guess the world's wonder?"
       },
       {
-        "imageName":"/flashCard/7wonders/chisttheredeemer.png",
+        "imageName":"/flashCard/7wonders/christtheredeemer.png",
         "qn":"Guess the world's wonder?"
       },
       {
