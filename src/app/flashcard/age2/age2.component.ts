@@ -16,13 +16,13 @@ export class Age2Component implements OnInit {
   }
 
   updateMetaTags(){
-    this.title.setTitle("Speech development Age 2");
-    this.meta.updateTag(  {name: "description", content: "Digital flashcards for speech development, speech improvement and speech therapy. Digital flashcards for kids at age 2."});
+    this.title.setTitle("Age 2| Speech Therapy Flashcards for Speech Development at home");
+    this.meta.updateTag(  {name: "description", content: "Digital flashcards for speech development, speech improvement and speech therapy used by professionals and parents at home. Digital flashcards for kids at age 2."});
     this.meta.updateTag(  {name : "keywords", content: "Digital Flashcards,  alphabets flashcard, numbers flashcard, fruits flashcard, vegetables flashcard, weathers flashcard, shapes flashcard, colors flashcard, transportation flashcard, animals flashcard, gestures flashcard, clothes flashcard, food flashcard, family flashcard, birds flashcard, plants flashcard"});
     this.meta.updateTag(  {property : "og:url", content: "https://practisepoint.com/age3speechdevelopment"});
     this.meta.updateTag(  {property : "og:image", content: "https://practisepoint.com/assets/img/age2speechbanner.png"});
-    this.meta.updateTag(  {property : "og:description", content: "Digital flashcards for speech development, speech improvement and speech therapy. Digital flashcards for kids at age 2."});
-    this.meta.updateTag(  {property : "og:title", content: "Speech development Age 2"});
+    this.meta.updateTag(  {property : "og:description", content: "Digital flashcards for speech development, speech improvement and speech therapy used by professionals and parents at home. Digital flashcards for kids at age 2."});
+    this.meta.updateTag(  {property : "og:title", content: "Age 2| Speech Therapy flashcards for Speech Development at home"});
   }
 
 }

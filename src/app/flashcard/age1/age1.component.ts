@@ -17,10 +17,10 @@ export class Age1Component implements OnInit {
   }
 
   updateMetaTags() {
-    this.title.setTitle("Speech development Age 18 months");
+    this.title.setTitle("Age 18 months| Speech Therapy Flashcards for Speech Development at home");
     this.meta.updateTag({
       name: "description",
-      content: "Digital flashcards for early speech development, speech improvement and speech therapy. Language development flashcards for kids at age 18 months."
+      content: "Digital flashcards for early speech development, speech improvement and speech therapy used by professionals and parents at home. Language development flashcards for kids at age 18 months."
     });
     this.meta.updateTag({
       name: "keywords",
@@ -30,9 +30,9 @@ export class Age1Component implements OnInit {
     this.meta.updateTag({property: "og:image", content: "https://practisepoint.com/assets/img/age2speechbanner.png"});
     this.meta.updateTag({
       property: "og:description",
-      content: "Digital flashcards for speech development, speech improvement and speech therapy. Digital flashcards for kids at age 2."
+      content: "Digital flashcards for speech development, speech improvement and speech therapy used by professionals and parents at home. Digital flashcards for kids at age 1."
     });
-    this.meta.updateTag({property: "og:title", content: "Speech development Age 2"});
+    this.meta.updateTag({property: "og:title", content: "Age 18 months| Speech Therapy flashcards for Speech Development"});
   }
 
 }
